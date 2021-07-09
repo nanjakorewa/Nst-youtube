@@ -2,9 +2,13 @@
 cacheMaxDays: 90 # Videos have slower publish cadence and small cache size. Longer lifespan is ok.
 sources:
   # IMPORANT: this template only supports youtube channel RSS. Other types of sources will result in undefined behavior.
-  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCsUalyRg43M8D60mtHe6YcA
-  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC9-y-6csu5WGm29I7JiwpnA
-  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg
-  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC29ju8bIPH5as8OGnQzwJyA
-  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw
-  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCnUYZLuoy1rq1aVMwx4aTzw
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC6AX2BdCW0143n9I0fhnSDg
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC8p6hrVBIwbhetxvKw7pFqA
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCBcxCarYR_l_Zt_Kf4yopXw
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC0yFbble5t_9Xhow2Rn8nNw
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCwVYn-Gayu_4vJbJSk5t9hg
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCXljuxqQUAD5bX2RB5XoWBg
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC6DM_-3aJduBoALIwkbSA-A
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCeuzhpMmJCcFL3HoD92sALA
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCHJ8VzQbsSkqGTvBFOc1ggA
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCbOMySFKkUGD5rr4zKEcP1A

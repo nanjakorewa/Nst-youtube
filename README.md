@@ -1,10 +1,8 @@
-# About
+# Nst-youtube
 
-This is repository hosts the UI and content of an RSS feed reader.
+Nst メンバーの youtube の動画リスト一覧です
 
-## Links and references
+# reference
 
-- [How does it work?](https://github.com/osmoscraft/osmosfeed#osmosfeed)
-- [File an issue about the template](https://github.com/osmoscraft/osmosfeed-template)
-- [File an issue about the tool](https://github.com/osmoscraft/osmosfeed)
-- [Lastest documentation](https://github.com/osmoscraft/osmosfeed)
+- [osmosfeed](https://github.com/osmoscraft/osmosfeed)
+- [osmosfeed-examples](https://github.com/osmoscraft/osmosfeed-examples)
