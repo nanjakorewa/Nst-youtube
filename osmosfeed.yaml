@@ -1,4 +1,5 @@
 # cacheUrl: https://GITHUB_USERNAME.github.io/REPO_NAME/cache.json
+# twitchは未対応
 cacheMaxDays: 90 # Videos have slower publish cadence and small cache size. Longer lifespan is ok.
 sources:
   # IMPORANT: this template only supports youtube channel RSS. Other types of sources will result in undefined behavior.
