@@ -9,6 +9,11 @@
   --secondary-text: #aaa;
 }
 
+h1 {
+  padding: 3px;
+  text-align: center
+}
+
 body {
   margin: 0;
   background-color: var(--page-background);
