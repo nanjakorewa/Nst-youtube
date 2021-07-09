@@ -1,692 +1,1088 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-09T17:35:44.514Z</id>
+    <id>urn:2021-07-09T17:48:07.047Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-09T17:35:44.514Z</updated>
+    <updated>2021-07-09T17:48:07.047Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[DON'T Upgrade To Windows 11!  Upgrade To Linux Instead.]]></title>
-        <id>https://www.youtube.com/watch?v=KRjH_3R4FDg</id>
-        <link href="https://www.youtube.com/watch?v=KRjH_3R4FDg"/>
-        <updated>2021-07-09T15:00:20.000Z</updated>
+        <title type="html"><![CDATA[とんでもないズルをしようとしているカイジ]]></title>
+        <id>https://www.youtube.com/watch?v=dmhlhSL76sU</id>
+        <link href="https://www.youtube.com/watch?v=dmhlhSL76sU"/>
+        <updated>2021-07-09T12:55:31.000Z</updated>
         <author>
-            <name>DistroTube</name>
+            <name>くそきもす</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CELEBRITY Tech Trivia!]]></title>
-        <id>https://www.youtube.com/watch?v=6rIVWFCatH8</id>
-        <link href="https://www.youtube.com/watch?v=6rIVWFCatH8"/>
-        <updated>2021-07-08T17:00:27.000Z</updated>
+        <title type="html"><![CDATA[【名勝負】”サワヤンゲームズ”と『6ボールパズル』を5先で勝負したら激アツすぎたｗｗｗｗｗ【世界のアソビ大全】]]></title>
+        <id>https://www.youtube.com/watch?v=6NkpREv5x9U</id>
+        <link href="https://www.youtube.com/watch?v=6NkpREv5x9U"/>
+        <updated>2021-07-09T09:00:02.000Z</updated>
         <author>
-            <name>Linus Tech Tips</name>
+            <name>GzKぎぞく</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Introduction to Web Stories (Swiss German with English subtitles)]]></title>
-        <id>https://www.youtube.com/watch?v=nTySRzu0Xto</id>
-        <link href="https://www.youtube.com/watch?v=nTySRzu0Xto"/>
-        <updated>2021-07-08T17:00:22.000Z</updated>
+        <title type="html"><![CDATA[【ポケカ#2】摩天パーフェクトを開封してきたぞ！！！]]></title>
+        <id>https://www.youtube.com/watch?v=TfAigAmDNOw</id>
+        <link href="https://www.youtube.com/watch?v=TfAigAmDNOw"/>
+        <updated>2021-07-09T07:00:07.000Z</updated>
         <author>
-            <name>Google Chrome Developers</name>
+            <name>ぴっぴGames</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Installing Xorg And DWM On Gentoo]]></title>
-        <id>https://www.youtube.com/watch?v=k25TrKGXo_A</id>
-        <link href="https://www.youtube.com/watch?v=k25TrKGXo_A"/>
-        <updated>2021-07-08T15:38:27.000Z</updated>
+        <title type="html"><![CDATA[【曲がりやすさMAX】普通なら落下不可避の状況も、このカスタムだから落下せずに済んだんだがｗｗｗ【マリオカート8デラックス】#857]]></title>
+        <id>https://www.youtube.com/watch?v=9rXnNi1vQzA</id>
+        <link href="https://www.youtube.com/watch?v=9rXnNi1vQzA"/>
+        <updated>2021-07-08T22:00:08.000Z</updated>
         <author>
-            <name>DistroTube</name>
+            <name>GzKぎぞく</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DEVS ANSWER: Kent C. Dodds]]></title>
-        <id>https://www.youtube.com/watch?v=z3odPLDCyLo</id>
-        <link href="https://www.youtube.com/watch?v=z3odPLDCyLo"/>
-        <updated>2021-07-08T14:07:59.000Z</updated>
+        <title type="html"><![CDATA[勝手に止めてくる貞子]]></title>
+        <id>https://www.youtube.com/watch?v=D_3sYbod8xM</id>
+        <link href="https://www.youtube.com/watch?v=D_3sYbod8xM"/>
+        <updated>2021-07-08T13:42:50.000Z</updated>
         <author>
-            <name>Honeypot</name>
+            <name>くそきもす</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why do Laptop Webcams Suck??]]></title>
-        <id>https://www.youtube.com/watch?v=eWSQ7Cj_n5M</id>
-        <link href="https://www.youtube.com/watch?v=eWSQ7Cj_n5M"/>
-        <updated>2021-07-07T17:01:17.000Z</updated>
+        <title type="html"><![CDATA[マリオカートの練習#6]]></title>
+        <id>https://www.youtube.com/watch?v=mYV9b82gEwg</id>
+        <link href="https://www.youtube.com/watch?v=mYV9b82gEwg"/>
+        <updated>2021-07-08T02:21:51.000Z</updated>
         <author>
-            <name>Linus Tech Tips</name>
+            <name>なんじゃ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Rambling YouTube Studio Tour (#fluff-content)]]></title>
-        <id>https://www.youtube.com/watch?v=s6sQ4k_yTWc</id>
-        <link href="https://www.youtube.com/watch?v=s6sQ4k_yTWc"/>
-        <updated>2021-07-06T21:19:40.000Z</updated>
+        <title type="html"><![CDATA[【過去作】7年前に発売された”マリオカート8(WiiU版)”のオンライン対戦を未だにしているユーザーはいるのか環境調査をしてきた結果ｗｗｗｗｗ【マリオカート8】]]></title>
+        <id>https://www.youtube.com/watch?v=mPhBLTs5a0M</id>
+        <link href="https://www.youtube.com/watch?v=mPhBLTs5a0M"/>
+        <updated>2021-07-07T22:00:14.000Z</updated>
         <author>
-            <name>DistroTube</name>
+            <name>GzKぎぞく</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[People MUST be buying these?! - ORIGIN PC EON-17X Showcase]]></title>
-        <id>https://www.youtube.com/watch?v=9E2kZqsXp4A</id>
-        <link href="https://www.youtube.com/watch?v=9E2kZqsXp4A"/>
-        <updated>2021-07-06T17:00:09.000Z</updated>
+        <title type="html"><![CDATA[とんでもない所に閉じ込められている瑛人]]></title>
+        <id>https://www.youtube.com/watch?v=WyUNhGNj4pc</id>
+        <link href="https://www.youtube.com/watch?v=WyUNhGNj4pc"/>
+        <updated>2021-07-07T13:12:15.000Z</updated>
         <author>
-            <name>Linus Tech Tips</name>
+            <name>くそきもす</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BEWARE! Audacity Is Now Spyware. Time To Fork?]]></title>
-        <id>https://www.youtube.com/watch?v=vaX9LuOWRHE</id>
-        <link href="https://www.youtube.com/watch?v=vaX9LuOWRHE"/>
-        <updated>2021-07-05T19:04:21.000Z</updated>
+        <title type="html"><![CDATA[マリオカートの練習#5]]></title>
+        <id>https://www.youtube.com/watch?v=JNFzQpvk8aQ</id>
+        <link href="https://www.youtube.com/watch?v=JNFzQpvk8aQ"/>
+        <updated>2021-07-07T02:27:17.000Z</updated>
         <author>
-            <name>DistroTube</name>
+            <name>なんじゃ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Powering Up My ZERO Compromises Desk PC Part 4]]></title>
-        <id>https://www.youtube.com/watch?v=iHYe1eHYrDw</id>
-        <link href="https://www.youtube.com/watch?v=iHYe1eHYrDw"/>
-        <updated>2021-07-05T16:14:55.000Z</updated>
+        <title type="html"><![CDATA[【成金】YouTuberやってるんだしマリオカートでも豪遊するわｗｗｗ【マリオカート8デラックス】#856]]></title>
+        <id>https://www.youtube.com/watch?v=l2E-4CdgiCQ</id>
+        <link href="https://www.youtube.com/watch?v=l2E-4CdgiCQ"/>
+        <updated>2021-07-06T22:00:13.000Z</updated>
         <author>
-            <name>Linus Tech Tips</name>
+            <name>GzKぎぞく</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Build a Node.js Password Generator]]></title>
-        <id>https://www.youtube.com/watch?v=3Xx83JAktXk</id>
-        <link href="https://www.youtube.com/watch?v=3Xx83JAktXk"/>
-        <updated>2021-07-05T14:23:43.000Z</updated>
+        <title type="html"><![CDATA[ドイツ一位のタイピング]]></title>
+        <id>https://www.youtube.com/watch?v=P4wGcxTJdD0</id>
+        <link href="https://www.youtube.com/watch?v=P4wGcxTJdD0"/>
+        <updated>2021-07-06T12:22:41.000Z</updated>
         <author>
-            <name>Traversy Media</name>
+            <name>くそきもす</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PC Specs Are Officially Meaningless - Corsair One a200]]></title>
-        <id>https://www.youtube.com/watch?v=ytSByaMvGeA</id>
-        <link href="https://www.youtube.com/watch?v=ytSByaMvGeA"/>
-        <updated>2021-07-04T17:00:07.000Z</updated>
+        <title type="html"><![CDATA[【マリオカート】フォーマン模擬]]></title>
+        <id>https://www.youtube.com/watch?v=5h_Q5Db06wc</id>
+        <link href="https://www.youtube.com/watch?v=5h_Q5Db06wc"/>
+        <updated>2021-07-06T02:02:52.000Z</updated>
         <author>
-            <name>Linus Tech Tips</name>
+            <name>なんじゃ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Two Powerful Command Line Utilities 'cut' And 'tr']]></title>
-        <id>https://www.youtube.com/watch?v=_0IFtMFYroU</id>
-        <link href="https://www.youtube.com/watch?v=_0IFtMFYroU"/>
-        <updated>2021-07-03T20:31:37.000Z</updated>
+        <title type="html"><![CDATA[被弾したらゲームセット!?”加速最低値カスタム”で走ったら地獄すぎたｗｗｗｗｗ【マリオカート8デラックス】#855]]></title>
+        <id>https://www.youtube.com/watch?v=wg77wc2zo9E</id>
+        <link href="https://www.youtube.com/watch?v=wg77wc2zo9E"/>
+        <updated>2021-07-05T22:00:15.000Z</updated>
         <author>
-            <name>DistroTube</name>
+            <name>GzKぎぞく</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NVIDIA Killed Their Own Premium Products]]></title>
-        <id>https://www.youtube.com/watch?v=_s9EFWjM6bg</id>
-        <link href="https://www.youtube.com/watch?v=_s9EFWjM6bg"/>
-        <updated>2021-07-03T17:00:53.000Z</updated>
+        <title type="html"><![CDATA[【超鬼畜企画】Gフォース～最強の蒼き閃光～　第8話【マリオカート8DX】]]></title>
+        <id>https://www.youtube.com/watch?v=Zfb16UtwmbM</id>
+        <link href="https://www.youtube.com/watch?v=Zfb16UtwmbM"/>
+        <updated>2021-07-05T14:07:18.000Z</updated>
         <author>
-            <name>Linus Tech Tips</name>
+            <name>rulebreaker3</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3nm CPUs Are Coming! - WAN Show July 2, 2021]]></title>
-        <id>https://www.youtube.com/watch?v=NCYNftA4EYM</id>
-        <link href="https://www.youtube.com/watch?v=NCYNftA4EYM"/>
-        <updated>2021-07-03T04:35:35.000Z</updated>
+        <title type="html"><![CDATA[狂った匠によるビフォーアフター]]></title>
+        <id>https://www.youtube.com/watch?v=nU09IZSWrGE</id>
+        <link href="https://www.youtube.com/watch?v=nU09IZSWrGE"/>
+        <updated>2021-07-05T13:41:59.000Z</updated>
         <author>
-            <name>Linus Tech Tips</name>
+            <name>くそきもす</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pop!_OS And The COSMIC Desktop. The Best Desktop Linux?]]></title>
-        <id>https://www.youtube.com/watch?v=5_P3oDxdXUU</id>
-        <link href="https://www.youtube.com/watch?v=5_P3oDxdXUU"/>
-        <updated>2021-07-02T18:38:44.000Z</updated>
+        <title type="html"><![CDATA[【マリオカート】トリプルス模擬]]></title>
+        <id>https://www.youtube.com/watch?v=yVE9LzISTPo</id>
+        <link href="https://www.youtube.com/watch?v=yVE9LzISTPo"/>
+        <updated>2021-07-05T01:40:30.000Z</updated>
         <author>
-            <name>DistroTube</name>
+            <name>なんじゃ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Surprisingly Cool! - OBSBOT Tiny AI Webcam Showcase]]></title>
-        <id>https://www.youtube.com/watch?v=LBX7n3NcESk</id>
-        <link href="https://www.youtube.com/watch?v=LBX7n3NcESk"/>
-        <updated>2021-07-02T17:00:30.000Z</updated>
+        <title type="html"><![CDATA[【スプラトゥーン2】3千年ぶりのイカ]]></title>
+        <id>https://www.youtube.com/watch?v=dkbPTQF5-_w</id>
+        <link href="https://www.youtube.com/watch?v=dkbPTQF5-_w"/>
+        <updated>2021-07-05T01:18:33.000Z</updated>
         <author>
-            <name>Linus Tech Tips</name>
+            <name>かくゆいch</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Who's Telling the Truth? Using "Gobble" - Computerphile]]></title>
-        <id>https://www.youtube.com/watch?v=T0SGL8Xq8Hw</id>
-        <link href="https://www.youtube.com/watch?v=T0SGL8Xq8Hw"/>
-        <updated>2021-07-02T15:34:17.000Z</updated>
+        <title type="html"><![CDATA[マリオカートの練習#4]]></title>
+        <id>https://www.youtube.com/watch?v=i08k1vNCuqo</id>
+        <link href="https://www.youtube.com/watch?v=i08k1vNCuqo"/>
+        <updated>2021-07-05T00:34:31.000Z</updated>
         <author>
-            <name>Computerphile</name>
+            <name>なんじゃ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Htop Is Great But It Uses The Arrow Keys. Yuck! (#shorts)]]></title>
-        <id>https://www.youtube.com/watch?v=GFiSDJsbbs4</id>
-        <link href="https://www.youtube.com/watch?v=GFiSDJsbbs4"/>
-        <updated>2021-07-01T20:20:08.000Z</updated>
+        <title type="html"><![CDATA[”加速MAXカスタム”は被弾しても実質ダメージがないためストレスフリーで走れます。【マリオカート8デラックス】#854]]></title>
+        <id>https://www.youtube.com/watch?v=C64n7gHvs2c</id>
+        <link href="https://www.youtube.com/watch?v=C64n7gHvs2c"/>
+        <updated>2021-07-04T22:00:03.000Z</updated>
         <author>
-            <name>DistroTube</name>
+            <name>GzKぎぞく</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Fastest CPU on the Planet - HOLY $H!T]]></title>
-        <id>https://www.youtube.com/watch?v=tbiPapykbxQ</id>
-        <link href="https://www.youtube.com/watch?v=tbiPapykbxQ"/>
-        <updated>2021-07-01T17:17:03.000Z</updated>
+        <title type="html"><![CDATA[にんげんっていいな　バッドエンド]]></title>
+        <id>https://www.youtube.com/watch?v=fXzzcoKbXjk</id>
+        <link href="https://www.youtube.com/watch?v=fXzzcoKbXjk"/>
+        <updated>2021-07-04T12:44:41.000Z</updated>
         <author>
-            <name>Linus Tech Tips</name>
+            <name>くそきもす</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A good cookie recipe (French with English subtitles)]]></title>
-        <id>https://www.youtube.com/watch?v=2N8H6LIdSgs</id>
-        <link href="https://www.youtube.com/watch?v=2N8H6LIdSgs"/>
-        <updated>2021-07-01T17:00:04.000Z</updated>
+        <title type="html"><![CDATA[【マリオカート8DX交流戦】にゃんぱす vs チームXYZ様]]></title>
+        <id>https://www.youtube.com/watch?v=9l8pPNO1XMw</id>
+        <link href="https://www.youtube.com/watch?v=9l8pPNO1XMw"/>
+        <updated>2021-07-04T04:08:38.000Z</updated>
         <author>
-            <name>Google Chrome Developers</name>
+            <name>なんじゃ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This Product is a Meme]]></title>
-        <id>https://www.youtube.com/watch?v=-SVYKeSKBhY</id>
-        <link href="https://www.youtube.com/watch?v=-SVYKeSKBhY"/>
-        <updated>2021-06-30T17:12:09.000Z</updated>
+        <title type="html"><![CDATA[【マリオカート】模擬タッグ]]></title>
+        <id>https://www.youtube.com/watch?v=T7Wq2jrqx4Y</id>
+        <link href="https://www.youtube.com/watch?v=T7Wq2jrqx4Y"/>
+        <updated>2021-07-04T00:52:54.000Z</updated>
         <author>
-            <name>Linus Tech Tips</name>
+            <name>なんじゃ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Base Gentoo Installation]]></title>
-        <id>https://www.youtube.com/watch?v=2sOfX_Lb1As</id>
-        <link href="https://www.youtube.com/watch?v=2sOfX_Lb1As"/>
-        <updated>2021-06-30T03:00:26.000Z</updated>
+        <title type="html"><![CDATA[【元最強】初期に流行った”化石カスタム”で走ったら驚きの展開が連続で起きまくるんだがｗｗｗ【マリオカート8デラックス】#853]]></title>
+        <id>https://www.youtube.com/watch?v=8MZQnN9Z_oQ</id>
+        <link href="https://www.youtube.com/watch?v=8MZQnN9Z_oQ"/>
+        <updated>2021-07-03T22:00:05.000Z</updated>
         <author>
-            <name>DistroTube</name>
+            <name>GzKぎぞく</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazing product! (don't buy it)]]></title>
-        <id>https://www.youtube.com/watch?v=2JSoS67DvgI</id>
-        <link href="https://www.youtube.com/watch?v=2JSoS67DvgI"/>
-        <updated>2021-06-29T16:58:15.000Z</updated>
+        <title type="html"><![CDATA[嬉しさのあまり幼児化してしまった大谷翔平]]></title>
+        <id>https://www.youtube.com/watch?v=U25CNGq4Xw8</id>
+        <link href="https://www.youtube.com/watch?v=U25CNGq4Xw8"/>
+        <updated>2021-07-03T11:46:19.000Z</updated>
         <author>
-            <name>Linus Tech Tips</name>
+            <name>くそきもす</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This MUST Be Fake]]></title>
-        <id>https://www.youtube.com/watch?v=arcGebjgM_k</id>
-        <link href="https://www.youtube.com/watch?v=arcGebjgM_k"/>
-        <updated>2021-06-28T17:07:37.000Z</updated>
+        <title type="html"><![CDATA[【マリオカート】トリプルス模擬]]></title>
+        <id>https://www.youtube.com/watch?v=UEjavBBkeFM</id>
+        <link href="https://www.youtube.com/watch?v=UEjavBBkeFM"/>
+        <updated>2021-07-03T03:10:41.000Z</updated>
         <author>
-            <name>Linus Tech Tips</name>
+            <name>なんじゃ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Right Mindset For Growing As A Linux User]]></title>
-        <id>https://www.youtube.com/watch?v=PSuldSPgXSk</id>
-        <link href="https://www.youtube.com/watch?v=PSuldSPgXSk"/>
-        <updated>2021-06-28T14:00:07.000Z</updated>
+        <title type="html"><![CDATA[待望のアップデートきちゃ！]]></title>
+        <id>https://www.youtube.com/watch?v=yOiyDyyCx9c</id>
+        <link href="https://www.youtube.com/watch?v=yOiyDyyCx9c"/>
+        <updated>2021-07-03T03:00:32.000Z</updated>
         <author>
-            <name>DistroTube</name>
+            <name>GzKぎぞく</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Static Blog With Next.js and Markdown]]></title>
-        <id>https://www.youtube.com/watch?v=MrjeefD8sac</id>
-        <link href="https://www.youtube.com/watch?v=MrjeefD8sac"/>
-        <updated>2021-06-28T13:38:54.000Z</updated>
+        <title type="html"><![CDATA[ちょっとだけまりか　【ラジオ動画見てくれましたか】]]></title>
+        <id>https://www.youtube.com/watch?v=CIbgdevSOuM</id>
+        <link href="https://www.youtube.com/watch?v=CIbgdevSOuM"/>
+        <updated>2021-07-03T02:39:38.000Z</updated>
         <author>
-            <name>Traversy Media</name>
+            <name>みりん.</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chat With Patrons (June 27, 2021)]]></title>
-        <id>https://www.youtube.com/watch?v=P88GG0S2ZEs</id>
-        <link href="https://www.youtube.com/watch?v=P88GG0S2ZEs"/>
-        <updated>2021-06-27T17:07:06.000Z</updated>
+        <title type="html"><![CDATA[マリオカートの練習#3]]></title>
+        <id>https://www.youtube.com/watch?v=BW3Tul31VdU</id>
+        <link href="https://www.youtube.com/watch?v=BW3Tul31VdU"/>
+        <updated>2021-07-03T01:29:00.000Z</updated>
         <author>
-            <name>DistroTube</name>
+            <name>なんじゃ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Unconventional PC]]></title>
-        <id>https://www.youtube.com/watch?v=8ZNUd-iCUJI</id>
-        <link href="https://www.youtube.com/watch?v=8ZNUd-iCUJI"/>
-        <updated>2021-06-27T16:59:42.000Z</updated>
+        <title type="html"><![CDATA[【1人30cc！？】”スピードが最も遅いカスタム”が実は”最も速い理由”とは…？【マリオカート8デラックス】#852]]></title>
+        <id>https://www.youtube.com/watch?v=oHqJsREq7YE</id>
+        <link href="https://www.youtube.com/watch?v=oHqJsREq7YE"/>
+        <updated>2021-07-02T22:00:31.000Z</updated>
         <author>
-            <name>Linus Tech Tips</name>
+            <name>GzKぎぞく</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Dirty Way Manufacturers are Downgrading Your PC]]></title>
-        <id>https://www.youtube.com/watch?v=R7CO9v9rpOk</id>
-        <link href="https://www.youtube.com/watch?v=R7CO9v9rpOk"/>
-        <updated>2021-06-26T17:59:32.000Z</updated>
+        <title type="html"><![CDATA[ペルソナ5が全く気付かないうちに名探偵コナンになる]]></title>
+        <id>https://www.youtube.com/watch?v=aANpaqTZK6Y</id>
+        <link href="https://www.youtube.com/watch?v=aANpaqTZK6Y"/>
+        <updated>2021-07-02T14:15:20.000Z</updated>
         <author>
-            <name>Linus Tech Tips</name>
+            <name>くそきもす</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linux Boomer Reacts To Windows 11 Video Trailer]]></title>
-        <id>https://www.youtube.com/watch?v=aYlfkUt6x_8</id>
-        <link href="https://www.youtube.com/watch?v=aYlfkUt6x_8"/>
-        <updated>2021-06-26T13:00:01.000Z</updated>
+        <title type="html"><![CDATA[【Among us】ヒカックと神キル連発!?インポスターなのに白すぎて最終盤面で投票を任されて笑いが止まらないｗｗｗ【アモングアス/アマングアス】]]></title>
+        <id>https://www.youtube.com/watch?v=HlH8a1nl45w</id>
+        <link href="https://www.youtube.com/watch?v=HlH8a1nl45w"/>
+        <updated>2021-07-02T09:00:17.000Z</updated>
         <author>
-            <name>DistroTube</name>
+            <name>GzKぎぞく</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I want to talk to you about Windows 11 - WAN Show Jun 25, 2021]]></title>
-        <id>https://www.youtube.com/watch?v=RQl4FoFT3ws</id>
-        <link href="https://www.youtube.com/watch?v=RQl4FoFT3ws"/>
-        <updated>2021-06-26T03:10:16.000Z</updated>
+        <title type="html"><![CDATA[マリオカートの練習#2]]></title>
+        <id>https://www.youtube.com/watch?v=C952dnd9UDw</id>
+        <link href="https://www.youtube.com/watch?v=C952dnd9UDw"/>
+        <updated>2021-07-02T01:30:32.000Z</updated>
         <author>
-            <name>Linus Tech Tips</name>
+            <name>なんじゃ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Driverless Cars - Computerphile]]></title>
-        <id>https://www.youtube.com/watch?v=Wd1_xpw7j3w</id>
-        <link href="https://www.youtube.com/watch?v=Wd1_xpw7j3w"/>
-        <updated>2021-06-25T14:06:24.000Z</updated>
+        <title type="html"><![CDATA[【1人400cc】速さのみに命をかけた”スピード最高速カスタム”で暴れ回る。【マリオカート8デラックス】#851]]></title>
+        <id>https://www.youtube.com/watch?v=NQk6nr3nYms</id>
+        <link href="https://www.youtube.com/watch?v=NQk6nr3nYms"/>
+        <updated>2021-07-01T22:00:07.000Z</updated>
         <author>
-            <name>Computerphile</name>
+            <name>GzKぎぞく</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learning Sed Is Beneficial For Linux Users]]></title>
-        <id>https://www.youtube.com/watch?v=EACe7aiGczw</id>
-        <link href="https://www.youtube.com/watch?v=EACe7aiGczw"/>
-        <updated>2021-06-24T21:59:14.000Z</updated>
+        <title type="html"><![CDATA[【豪運】IMカカを一発で引けたので早速試合で試してみた。【ウイニングイレブン2021】]]></title>
+        <id>https://www.youtube.com/watch?v=Fbgsi4EM0GE</id>
+        <link href="https://www.youtube.com/watch?v=Fbgsi4EM0GE"/>
+        <updated>2021-07-01T13:46:54.000Z</updated>
         <author>
-            <name>DistroTube</name>
+            <name>GzKぎぞく</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Core Web Vitals: An everyday explanation (Taiwanese with English subtitles)]]></title>
-        <id>https://www.youtube.com/watch?v=evrNn54UkHQ</id>
-        <link href="https://www.youtube.com/watch?v=evrNn54UkHQ"/>
-        <updated>2021-06-24T17:00:19.000Z</updated>
+        <title type="html"><![CDATA[キレすぎておかしくなってしまったタケシ]]></title>
+        <id>https://www.youtube.com/watch?v=XKx_ViGzjJ8</id>
+        <link href="https://www.youtube.com/watch?v=XKx_ViGzjJ8"/>
+        <updated>2021-07-01T13:37:40.000Z</updated>
         <author>
-            <name>Google Chrome Developers</name>
+            <name>くそきもす</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Brave Search Engine. Will This Be The Google Killer?]]></title>
-        <id>https://www.youtube.com/watch?v=lLcwGDQPZ-s</id>
-        <link href="https://www.youtube.com/watch?v=lLcwGDQPZ-s"/>
-        <updated>2021-06-23T22:33:30.000Z</updated>
+        <title type="html"><![CDATA[【マリオカート8DX交流戦】にゃんぱす vs チームたまげた様]]></title>
+        <id>https://www.youtube.com/watch?v=reZ_yT_z-DI</id>
+        <link href="https://www.youtube.com/watch?v=reZ_yT_z-DI"/>
+        <updated>2021-07-01T03:06:07.000Z</updated>
         <author>
-            <name>DistroTube</name>
+            <name>なんじゃ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 10 performance pitfalls - HTTP 203]]></title>
-        <id>https://www.youtube.com/watch?v=Lh9q3h2khlc</id>
-        <link href="https://www.youtube.com/watch?v=Lh9q3h2khlc"/>
-        <updated>2021-06-22T15:12:58.000Z</updated>
+        <title type="html"><![CDATA[のら]]></title>
+        <id>https://www.youtube.com/watch?v=Z_ZebBPLdKQ</id>
+        <link href="https://www.youtube.com/watch?v=Z_ZebBPLdKQ"/>
+        <updated>2021-07-01T00:17:15.000Z</updated>
         <author>
-            <name>Google Chrome Developers</name>
+            <name>みりん.</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Taking Ubuntu To The Next Level]]></title>
-        <id>https://www.youtube.com/watch?v=5b-xQkRWHjQ</id>
-        <link href="https://www.youtube.com/watch?v=5b-xQkRWHjQ"/>
-        <updated>2021-06-22T15:00:59.000Z</updated>
+        <title type="html"><![CDATA[あの鬼畜企画が遂に帰ってきた。”被弾をしたら即終了縛り”で1位を取るまで終われない。【マリオカート8デラックス】#850]]></title>
+        <id>https://www.youtube.com/watch?v=8-ryAPKnfK0</id>
+        <link href="https://www.youtube.com/watch?v=8-ryAPKnfK0"/>
+        <updated>2021-06-30T22:00:10.000Z</updated>
         <author>
-            <name>DistroTube</name>
+            <name>GzKぎぞく</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[You Are NOT The Software You Run! (#shorts)]]></title>
-        <id>https://www.youtube.com/watch?v=MVITl24rRHM</id>
-        <link href="https://www.youtube.com/watch?v=MVITl24rRHM"/>
-        <updated>2021-06-21T14:00:08.000Z</updated>
+        <title type="html"><![CDATA[マリオカートの練習#1]]></title>
+        <id>https://www.youtube.com/watch?v=w-XXOtBdnD0</id>
+        <link href="https://www.youtube.com/watch?v=w-XXOtBdnD0"/>
+        <updated>2021-06-30T13:32:58.000Z</updated>
         <author>
-            <name>DistroTube</name>
+            <name>なんじゃ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Types of PDF - Computerphile]]></title>
-        <id>https://www.youtube.com/watch?v=K7oxZCgO1dY</id>
-        <link href="https://www.youtube.com/watch?v=K7oxZCgO1dY"/>
-        <updated>2021-06-18T15:04:46.000Z</updated>
+        <title type="html"><![CDATA[白雪姫の神回]]></title>
+        <id>https://www.youtube.com/watch?v=Bu_2c_DSDOI</id>
+        <link href="https://www.youtube.com/watch?v=Bu_2c_DSDOI"/>
+        <updated>2021-06-30T12:51:22.000Z</updated>
         <author>
-            <name>Computerphile</name>
+            <name>くそきもす</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fastify Crash Course | Node.js Framework]]></title>
-        <id>https://www.youtube.com/watch?v=Lk-uVEVGxOA</id>
-        <link href="https://www.youtube.com/watch?v=Lk-uVEVGxOA"/>
-        <updated>2021-06-18T12:52:09.000Z</updated>
+        <title type="html"><![CDATA[【200cc】1位を独走中にトンデモない罠に引っかかりました…。【マリオカート8デラックス】#849]]></title>
+        <id>https://www.youtube.com/watch?v=uVsaNI5H278</id>
+        <link href="https://www.youtube.com/watch?v=uVsaNI5H278"/>
+        <updated>2021-06-29T22:00:39.000Z</updated>
         <author>
-            <name>Traversy Media</name>
+            <name>GzKぎぞく</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What is the state of web frameworks in India (Hindi with English subtitles)]]></title>
-        <id>https://www.youtube.com/watch?v=zfNrB0C3lF0</id>
-        <link href="https://www.youtube.com/watch?v=zfNrB0C3lF0"/>
-        <updated>2021-06-17T17:00:59.000Z</updated>
+        <title type="html"><![CDATA[おそらくゲームに参加させてもらえない秋山深一]]></title>
+        <id>https://www.youtube.com/watch?v=hwm36PgQ94M</id>
+        <link href="https://www.youtube.com/watch?v=hwm36PgQ94M"/>
+        <updated>2021-06-29T12:33:43.000Z</updated>
         <author>
-            <name>Google Chrome Developers</name>
+            <name>くそきもす</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How bad is Exponential Growth? - Computerphile]]></title>
-        <id>https://www.youtube.com/watch?v=fpkQ_ZqZY4o</id>
-        <link href="https://www.youtube.com/watch?v=fpkQ_ZqZY4o"/>
-        <updated>2021-06-11T16:05:30.000Z</updated>
+        <title type="html"><![CDATA[【マリオカート8DX交流戦】にゃんぱす vs チームiZone様]]></title>
+        <id>https://www.youtube.com/watch?v=BEMZQs21Js8</id>
+        <link href="https://www.youtube.com/watch?v=BEMZQs21Js8"/>
+        <updated>2021-06-29T02:15:34.000Z</updated>
         <author>
-            <name>Computerphile</name>
+            <name>なんじゃ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Advanced patterns for Progressive Web Apps (Spanish with English subtitles)]]></title>
-        <id>https://www.youtube.com/watch?v=PPJKljH1dn8</id>
-        <link href="https://www.youtube.com/watch?v=PPJKljH1dn8"/>
-        <updated>2021-06-10T17:05:24.000Z</updated>
+        <title type="html"><![CDATA[【マリオカート8DX交流戦】にゃんぱす vs チームえもん様]]></title>
+        <id>https://www.youtube.com/watch?v=u3FvNz1aTyo</id>
+        <link href="https://www.youtube.com/watch?v=u3FvNz1aTyo"/>
+        <updated>2021-06-29T01:08:49.000Z</updated>
         <author>
-            <name>Google Chrome Developers</name>
+            <name>なんじゃ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Thinking on ways to solve COLOR SCHEMES]]></title>
-        <id>https://www.youtube.com/watch?v=oHcTn83M1ls</id>
-        <link href="https://www.youtube.com/watch?v=oHcTn83M1ls"/>
-        <updated>2021-06-09T17:01:09.000Z</updated>
+        <title type="html"><![CDATA[連日のテスト配信]]></title>
+        <id>https://www.youtube.com/watch?v=FSv68w9osqk</id>
+        <link href="https://www.youtube.com/watch?v=FSv68w9osqk"/>
+        <updated>2021-06-29T00:51:10.000Z</updated>
         <author>
-            <name>Google Chrome Developers</name>
+            <name>みりん.</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bootstrap 5 Crash Course | Website Build & Deploy]]></title>
-        <id>https://www.youtube.com/watch?v=4sosXZsdy-s</id>
-        <link href="https://www.youtube.com/watch?v=4sosXZsdy-s"/>
-        <updated>2021-06-09T13:28:51.000Z</updated>
+        <title type="html"><![CDATA[【誰にも止められない】野良で1位しか取ることができない骨クッパがいたらそれは私です。【マリオカート8デラックス】#848]]></title>
+        <id>https://www.youtube.com/watch?v=IoZYBfWJIJ8</id>
+        <link href="https://www.youtube.com/watch?v=IoZYBfWJIJ8"/>
+        <updated>2021-06-28T22:00:10.000Z</updated>
         <author>
-            <name>Traversy Media</name>
+            <name>GzKぎぞく</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[From nothin’ to gzip - HTTP 203]]></title>
-        <id>https://www.youtube.com/watch?v=PZryHH8roIY</id>
-        <link href="https://www.youtube.com/watch?v=PZryHH8roIY"/>
-        <updated>2021-06-08T14:41:15.000Z</updated>
+        <title type="html"><![CDATA[【超鬼畜企画】Gフォース～最強の蒼き閃光～　第7話【マリオカート8DX】]]></title>
+        <id>https://www.youtube.com/watch?v=9Abt3dxeymo</id>
+        <link href="https://www.youtube.com/watch?v=9Abt3dxeymo"/>
+        <updated>2021-06-28T14:33:48.000Z</updated>
         <author>
-            <name>Google Chrome Developers</name>
+            <name>rulebreaker3</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Is DeepFake Really All That? - Computerphile]]></title>
-        <id>https://www.youtube.com/watch?v=IT6-5ZbabVg</id>
-        <link href="https://www.youtube.com/watch?v=IT6-5ZbabVg"/>
-        <updated>2021-06-04T18:25:13.000Z</updated>
+        <title type="html"><![CDATA[感動のラストに乱入するヤバい部外者]]></title>
+        <id>https://www.youtube.com/watch?v=_obR0J1XMAU</id>
+        <link href="https://www.youtube.com/watch?v=_obR0J1XMAU"/>
+        <updated>2021-06-28T12:34:28.000Z</updated>
         <author>
-            <name>Computerphile</name>
+            <name>くそきもす</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Deep dive into the PWA install flow]]></title>
-        <id>https://www.youtube.com/watch?v=kzJfiKQyD24</id>
-        <link href="https://www.youtube.com/watch?v=kzJfiKQyD24"/>
-        <updated>2021-06-03T17:00:59.000Z</updated>
+        <title type="html"><![CDATA[【マリオカート】フォーマン模擬]]></title>
+        <id>https://www.youtube.com/watch?v=RjgsjvNig8s</id>
+        <link href="https://www.youtube.com/watch?v=RjgsjvNig8s"/>
+        <updated>2021-06-28T03:17:50.000Z</updated>
         <author>
-            <name>Google Chrome Developers</name>
+            <name>なんじゃ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[My First Freelance Gig Was a Disaster]]></title>
-        <id>https://www.youtube.com/watch?v=lRogMYe7ZLg</id>
-        <link href="https://www.youtube.com/watch?v=lRogMYe7ZLg"/>
-        <updated>2021-06-01T15:29:28.000Z</updated>
+        <title type="html"><![CDATA[テスト配信　音はどう？]]></title>
+        <id>https://www.youtube.com/watch?v=nHmW4AnBodo</id>
+        <link href="https://www.youtube.com/watch?v=nHmW4AnBodo"/>
+        <updated>2021-06-27T23:09:07.000Z</updated>
         <author>
-            <name>Traversy Media</name>
+            <name>みりん.</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Day with Munich Developers | DevCities]]></title>
-        <id>https://www.youtube.com/watch?v=cTN2lpQSkls</id>
-        <link href="https://www.youtube.com/watch?v=cTN2lpQSkls"/>
-        <updated>2021-06-01T13:59:17.000Z</updated>
+        <title type="html"><![CDATA[教育方針がヤバいアグネス・チャン]]></title>
+        <id>https://www.youtube.com/watch?v=3fNflW0y1fk</id>
+        <link href="https://www.youtube.com/watch?v=3fNflW0y1fk"/>
+        <updated>2021-06-27T11:45:44.000Z</updated>
         <author>
-            <name>Honeypot</name>
+            <name>くそきもす</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Recreating Dennis Ritchie's PhD Thesis - Computerphile]]></title>
-        <id>https://www.youtube.com/watch?v=82TxNejKsng</id>
-        <link href="https://www.youtube.com/watch?v=82TxNejKsng"/>
-        <updated>2021-05-28T19:13:28.000Z</updated>
+        <title type="html"><![CDATA[テスト配信　まりおかーと]]></title>
+        <id>https://www.youtube.com/watch?v=yxkEwRiov64</id>
+        <link href="https://www.youtube.com/watch?v=yxkEwRiov64"/>
+        <updated>2021-06-27T09:46:26.000Z</updated>
         <author>
-            <name>Computerphile</name>
+            <name>みりん.</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Web Audio API 드럼머신 만들기 (Korean with English subtitles)]]></title>
-        <id>https://www.youtube.com/watch?v=MY8LZ49D76c</id>
-        <link href="https://www.youtube.com/watch?v=MY8LZ49D76c"/>
-        <updated>2021-05-27T17:07:34.000Z</updated>
+        <title type="html"><![CDATA[喋っていいとも！]]></title>
+        <id>https://www.youtube.com/watch?v=b34M5vRNQFg</id>
+        <link href="https://www.youtube.com/watch?v=b34M5vRNQFg"/>
+        <updated>2021-06-27T00:45:36.000Z</updated>
         <author>
-            <name>Google Chrome Developers</name>
+            <name>rSL. Shake</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Angular DevTools | Demo]]></title>
-        <id>https://www.youtube.com/watch?v=d1SJL51FFxQ</id>
-        <link href="https://www.youtube.com/watch?v=d1SJL51FFxQ"/>
-        <updated>2021-05-26T18:01:15.000Z</updated>
+        <title type="html"><![CDATA[龍が如く]]></title>
+        <id>https://www.youtube.com/watch?v=FIGcLbZ4zp4</id>
+        <link href="https://www.youtube.com/watch?v=FIGcLbZ4zp4"/>
+        <updated>2021-06-26T13:04:43.000Z</updated>
         <author>
-            <name>Google Chrome Developers</name>
+            <name>くそきもす</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Progressively loading images - HTTP 203]]></title>
-        <id>https://www.youtube.com/watch?v=-7k3H2GxE5E</id>
-        <link href="https://www.youtube.com/watch?v=-7k3H2GxE5E"/>
-        <updated>2021-05-26T14:12:22.000Z</updated>
+        <title type="html"><![CDATA[パソコンの使い方が最悪なサマーウォーズ]]></title>
+        <id>https://www.youtube.com/watch?v=DtZHRC8kt1I</id>
+        <link href="https://www.youtube.com/watch?v=DtZHRC8kt1I"/>
+        <updated>2021-06-25T12:51:46.000Z</updated>
         <author>
-            <name>Google Chrome Developers</name>
+            <name>くそきもす</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[6 Hour Vue.js & Firebase Project - FireBlogs]]></title>
-        <id>https://www.youtube.com/watch?v=ISv22NNL-aE</id>
-        <link href="https://www.youtube.com/watch?v=ISv22NNL-aE"/>
-        <updated>2021-05-26T12:58:14.000Z</updated>
+        <title type="html"><![CDATA[【MK8DX】らうんげ]]></title>
+        <id>https://www.youtube.com/watch?v=5Q5lmY5SlcY</id>
+        <link href="https://www.youtube.com/watch?v=5Q5lmY5SlcY"/>
+        <updated>2021-06-24T04:06:27.000Z</updated>
         <author>
-            <name>Traversy Media</name>
+            <name>かくゆいch</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New in Chrome 91: File System Access API improvements, Google IO, and more]]></title>
-        <id>https://www.youtube.com/watch?v=vy6FXa0n1r0</id>
-        <link href="https://www.youtube.com/watch?v=vy6FXa0n1r0"/>
-        <updated>2021-05-25T23:00:13.000Z</updated>
+        <title type="html"><![CDATA[ついに金マリを出す【マリオカート8DX】]]></title>
+        <id>https://www.youtube.com/watch?v=n_XENl0hL5g</id>
+        <link href="https://www.youtube.com/watch?v=n_XENl0hL5g"/>
+        <updated>2021-06-22T16:49:25.000Z</updated>
         <author>
-            <name>Google Chrome Developers</name>
+            <name>rulebreaker3</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[Bahasa Melayu] Chrome 91 - Fungsi-fungsi terbaru DevTools]]></title>
-        <id>https://www.youtube.com/watch?v=YCrEmhfwsgg</id>
-        <link href="https://www.youtube.com/watch?v=YCrEmhfwsgg"/>
-        <updated>2021-05-24T23:45:19.000Z</updated>
+        <title type="html"><![CDATA[【FORTNITE】寝る前に少しだけ]]></title>
+        <id>https://www.youtube.com/watch?v=QzIipyTTyGw</id>
+        <link href="https://www.youtube.com/watch?v=QzIipyTTyGw"/>
+        <updated>2021-06-21T04:29:27.000Z</updated>
         <author>
-            <name>Google Chrome Developers</name>
+            <name>かくゆいch</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chrome 91 - What’s New in DevTools]]></title>
-        <id>https://www.youtube.com/watch?v=Givhtk3rObE</id>
-        <link href="https://www.youtube.com/watch?v=Givhtk3rObE"/>
-        <updated>2021-05-24T23:41:43.000Z</updated>
+        <title type="html"><![CDATA[【MK8DX】Nst vs STD【交流戦】]]></title>
+        <id>https://www.youtube.com/watch?v=1EAmDKW2CS4</id>
+        <link href="https://www.youtube.com/watch?v=1EAmDKW2CS4"/>
+        <updated>2021-06-19T01:10:00.000Z</updated>
         <author>
-            <name>Google Chrome Developers</name>
+            <name>ぴっぴGames</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3D Printing with a Robot Arm - Computerphile]]></title>
-        <id>https://www.youtube.com/watch?v=dqgT--f9so0</id>
-        <link href="https://www.youtube.com/watch?v=dqgT--f9so0"/>
-        <updated>2021-05-21T15:31:28.000Z</updated>
+        <title type="html"><![CDATA[【ゼルダ無双　厄災の黙示録】DLC第1弾　古代の鼓動]]></title>
+        <id>https://www.youtube.com/watch?v=sl-oDallVdw</id>
+        <link href="https://www.youtube.com/watch?v=sl-oDallVdw"/>
+        <updated>2021-06-18T11:04:32.000Z</updated>
         <author>
-            <name>Computerphile</name>
+            <name>みりん.</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DEVS ANSWER: Simona Cotin]]></title>
-        <id>https://www.youtube.com/watch?v=dWh4tQigIYs</id>
-        <link href="https://www.youtube.com/watch?v=dWh4tQigIYs"/>
-        <updated>2021-05-20T12:37:55.000Z</updated>
+        <title type="html"><![CDATA[【マリオカート8Dx】野良　ブレワイの続報きたわね]]></title>
+        <id>https://www.youtube.com/watch?v=3IAqM0D2sS0</id>
+        <link href="https://www.youtube.com/watch?v=3IAqM0D2sS0"/>
+        <updated>2021-06-18T00:30:46.000Z</updated>
         <author>
-            <name>Honeypot</name>
+            <name>みりん.</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The New Notion API | Node.js Video Schedule Project]]></title>
-        <id>https://www.youtube.com/watch?v=9JdP-S3crt8</id>
-        <link href="https://www.youtube.com/watch?v=9JdP-S3crt8"/>
-        <updated>2021-05-19T12:32:21.000Z</updated>
+        <title type="html"><![CDATA[【MK8DX】魂のゴールドチャレンジ・リターンズ]]></title>
+        <id>https://www.youtube.com/watch?v=SNRuxGnwsFc</id>
+        <link href="https://www.youtube.com/watch?v=SNRuxGnwsFc"/>
+        <updated>2021-06-14T05:22:02.000Z</updated>
         <author>
-            <name>Traversy Media</name>
+            <name>かくゆいch</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rog-O-Matic, Game Playing Program - Computerphile]]></title>
-        <id>https://www.youtube.com/watch?v=_OboQeIK61c</id>
-        <link href="https://www.youtube.com/watch?v=_OboQeIK61c"/>
-        <updated>2021-05-14T17:24:54.000Z</updated>
+        <title type="html"><![CDATA[【MK8DX】魂のゴールドチャレンジ]]></title>
+        <id>https://www.youtube.com/watch?v=zleWnxXAsCg</id>
+        <link href="https://www.youtube.com/watch?v=zleWnxXAsCg"/>
+        <updated>2021-06-14T04:03:15.000Z</updated>
         <author>
-            <name>Computerphile</name>
+            <name>かくゆいch</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DEVS ANSWER: Obinna Ekwuno]]></title>
-        <id>https://www.youtube.com/watch?v=VdZ4HBCvOA8</id>
-        <link href="https://www.youtube.com/watch?v=VdZ4HBCvOA8"/>
-        <updated>2021-05-13T11:30:06.000Z</updated>
+        <title type="html"><![CDATA[Nst vs zzZ 　今までありがとう編]]></title>
+        <id>https://www.youtube.com/watch?v=Jd_2okbSGR4</id>
+        <link href="https://www.youtube.com/watch?v=Jd_2okbSGR4"/>
+        <updated>2021-06-13T01:13:25.000Z</updated>
         <author>
-            <name>Honeypot</name>
+            <name>rSL. Shake</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Terminal Style Landing Page | WinBox.js]]></title>
-        <id>https://www.youtube.com/watch?v=jQCk2yo10YY</id>
-        <link href="https://www.youtube.com/watch?v=jQCk2yo10YY"/>
-        <updated>2021-05-11T17:07:37.000Z</updated>
+        <title type="html"><![CDATA[1時間くらいリハビリ]]></title>
+        <id>https://www.youtube.com/watch?v=81zBIjd5WmU</id>
+        <link href="https://www.youtube.com/watch?v=81zBIjd5WmU"/>
+        <updated>2021-06-12T00:34:20.000Z</updated>
         <author>
-            <name>Traversy Media</name>
+            <name>みりん.</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kidnapped Robot Problem - Computerphile]]></title>
-        <id>https://www.youtube.com/watch?v=8a3KX2InUqY</id>
-        <link href="https://www.youtube.com/watch?v=8a3KX2InUqY"/>
-        <updated>2021-05-06T16:44:02.000Z</updated>
+        <title type="html"><![CDATA[Crescendo vs DZW]]></title>
+        <id>https://www.youtube.com/watch?v=IU_-R5SB6RU</id>
+        <link href="https://www.youtube.com/watch?v=IU_-R5SB6RU"/>
+        <updated>2021-06-11T00:58:47.000Z</updated>
         <author>
-            <name>Computerphile</name>
+            <name>みりん.</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Angular Crash Course 2021]]></title>
-        <id>https://www.youtube.com/watch?v=3dHNOWTI7H8</id>
-        <link href="https://www.youtube.com/watch?v=3dHNOWTI7H8"/>
-        <updated>2021-05-06T15:40:03.000Z</updated>
+        <title type="html"><![CDATA[【MK8DX】深夜のら・うんじ～]]></title>
+        <id>https://www.youtube.com/watch?v=Zq_yIYSNvPg</id>
+        <link href="https://www.youtube.com/watch?v=Zq_yIYSNvPg"/>
+        <updated>2021-06-10T04:21:44.000Z</updated>
         <author>
-            <name>Traversy Media</name>
+            <name>かくゆいch</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DEVS ANSWER: Erin Fox]]></title>
-        <id>https://www.youtube.com/watch?v=k1HmQH2bFIk</id>
-        <link href="https://www.youtube.com/watch?v=k1HmQH2bFIk"/>
-        <updated>2021-05-05T12:26:13.000Z</updated>
+        <title type="html"><![CDATA[【MK8DX】本日のら・うんじ～]]></title>
+        <id>https://www.youtube.com/watch?v=HuxWwUiAekE</id>
+        <link href="https://www.youtube.com/watch?v=HuxWwUiAekE"/>
+        <updated>2021-06-07T01:12:44.000Z</updated>
         <author>
-            <name>Honeypot</name>
+            <name>かくゆいch</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Files Become Bigger in Emails - Computerphile]]></title>
-        <id>https://www.youtube.com/watch?v=zV-fR7xA4Hc</id>
-        <link href="https://www.youtube.com/watch?v=zV-fR7xA4Hc"/>
-        <updated>2021-04-30T12:09:20.000Z</updated>
+        <title type="html"><![CDATA[【MK8DX】夕方らうんじ～]]></title>
+        <id>https://www.youtube.com/watch?v=h00q7UPcWl0</id>
+        <link href="https://www.youtube.com/watch?v=h00q7UPcWl0"/>
+        <updated>2021-06-05T20:53:50.000Z</updated>
         <author>
-            <name>Computerphile</name>
+            <name>かくゆいch</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DEVS ANSWER: Chris Heilmann]]></title>
-        <id>https://www.youtube.com/watch?v=qE2G8p5HnjU</id>
-        <link href="https://www.youtube.com/watch?v=qE2G8p5HnjU"/>
-        <updated>2021-04-29T12:07:57.000Z</updated>
+        <title type="html"><![CDATA[CRs vs Rc]]></title>
+        <id>https://www.youtube.com/watch?v=2aDkIozhIFM</id>
+        <link href="https://www.youtube.com/watch?v=2aDkIozhIFM"/>
+        <updated>2021-06-05T03:37:39.000Z</updated>
         <author>
-            <name>Honeypot</name>
+            <name>rSL. Shake</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Overworking Yourself As A Developer | Mental & Physical Health]]></title>
-        <id>https://www.youtube.com/watch?v=BKQVqzhnP8I</id>
-        <link href="https://www.youtube.com/watch?v=BKQVqzhnP8I"/>
-        <updated>2021-04-28T16:08:35.000Z</updated>
+        <title type="html"><![CDATA[【MK8DX】Stv vs Project]]></title>
+        <id>https://www.youtube.com/watch?v=S3PEWImcuCk</id>
+        <link href="https://www.youtube.com/watch?v=S3PEWImcuCk"/>
+        <updated>2021-06-03T04:02:55.000Z</updated>
         <author>
-            <name>Traversy Media</name>
+            <name>かくゆいch</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building a Data Center Inside Your Laptop - Computerphile]]></title>
-        <id>https://www.youtube.com/watch?v=shn38x7BbO0</id>
-        <link href="https://www.youtube.com/watch?v=shn38x7BbO0"/>
-        <updated>2021-04-23T17:37:33.000Z</updated>
+        <title type="html"><![CDATA[【MK8DX】ラ・ラ・ラ・コッペパン]]></title>
+        <id>https://www.youtube.com/watch?v=XqzWLtzBvko</id>
+        <link href="https://www.youtube.com/watch?v=XqzWLtzBvko"/>
+        <updated>2021-06-03T02:00:16.000Z</updated>
         <author>
-            <name>Computerphile</name>
+            <name>かくゆいch</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Build a Covid Tracker App With Vue.js & Tailwind]]></title>
-        <id>https://www.youtube.com/watch?v=m-MAIpnH9ag</id>
-        <link href="https://www.youtube.com/watch?v=m-MAIpnH9ag"/>
-        <updated>2021-04-23T12:25:56.000Z</updated>
+        <title type="html"><![CDATA[【NKO DICE】どうしても朝からOCHINCHINを見せたい男]]></title>
+        <id>https://www.youtube.com/watch?v=d791PMzvWg4</id>
+        <link href="https://www.youtube.com/watch?v=d791PMzvWg4"/>
+        <updated>2021-06-02T10:25:22.000Z</updated>
         <author>
-            <name>Traversy Media</name>
+            <name>rSL. Shake</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DEVS ANSWER: Scott Hanselman]]></title>
-        <id>https://www.youtube.com/watch?v=kcXKyqVS948</id>
-        <link href="https://www.youtube.com/watch?v=kcXKyqVS948"/>
-        <updated>2021-04-22T11:59:41.000Z</updated>
+        <title type="html"><![CDATA[【MK8DX】祝！Stv4周年記念内戦！]]></title>
+        <id>https://www.youtube.com/watch?v=6ck_QP3dSwM</id>
+        <link href="https://www.youtube.com/watch?v=6ck_QP3dSwM"/>
+        <updated>2021-06-02T03:06:56.000Z</updated>
         <author>
-            <name>Honeypot</name>
+            <name>かくゆいch</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DEVS ANSWER: Shruti Kapoor]]></title>
-        <id>https://www.youtube.com/watch?v=oq32PUomubY</id>
-        <link href="https://www.youtube.com/watch?v=oq32PUomubY"/>
-        <updated>2021-04-15T12:00:04.000Z</updated>
+        <title type="html"><![CDATA[【NKO DICE】「お」「ち」「ん」「ち」「ん」を出したい男【ド直球下ネタ注意】]]></title>
+        <id>https://www.youtube.com/watch?v=6fIDGHDJ0h0</id>
+        <link href="https://www.youtube.com/watch?v=6fIDGHDJ0h0"/>
+        <updated>2021-06-02T03:05:39.000Z</updated>
         <author>
-            <name>Honeypot</name>
+            <name>rSL. Shake</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cracking Enigma in 2021 - Computerphile]]></title>
-        <id>https://www.youtube.com/watch?v=RzWB5jL5RX0</id>
-        <link href="https://www.youtube.com/watch?v=RzWB5jL5RX0"/>
-        <updated>2021-04-12T17:01:34.000Z</updated>
+        <title type="html"><![CDATA[【NKO DICE】OCHINCHINを出す男【おちんちん】]]></title>
+        <id>https://www.youtube.com/watch?v=A4KZTarGmnQ</id>
+        <link href="https://www.youtube.com/watch?v=A4KZTarGmnQ"/>
+        <updated>2021-06-01T22:25:01.000Z</updated>
         <author>
-            <name>Computerphile</name>
+            <name>rSL. Shake</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【MHR】闘技大会 全武器”S”をとります【マルチ】]]></title>
+        <id>https://www.youtube.com/watch?v=tbjxRtjk8Zs</id>
+        <link href="https://www.youtube.com/watch?v=tbjxRtjk8Zs"/>
+        <updated>2021-05-31T15:50:35.000Z</updated>
+        <author>
+            <name>ぴっぴGames</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【MK8DX】深夜ら・うんじ]]></title>
+        <id>https://www.youtube.com/watch?v=sDgCsvAtG0Q</id>
+        <link href="https://www.youtube.com/watch?v=sDgCsvAtG0Q"/>
+        <updated>2021-05-30T04:06:21.000Z</updated>
+        <author>
+            <name>かくゆいch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【MH Rise】エンディングを見に行ってバルファルクを狩る【初見狩り】]]></title>
+        <id>https://www.youtube.com/watch?v=j6kysJqT6q8</id>
+        <link href="https://www.youtube.com/watch?v=j6kysJqT6q8"/>
+        <updated>2021-05-28T01:46:36.000Z</updated>
+        <author>
+            <name>rSL. Shake</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ぢゅ　50連（くらい）]]></title>
+        <id>https://www.youtube.com/watch?v=aOBRu_IB2c4</id>
+        <link href="https://www.youtube.com/watch?v=aOBRu_IB2c4"/>
+        <updated>2021-05-27T10:56:19.000Z</updated>
+        <author>
+            <name>Zk garnet</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【MK8DX】寝る前に少し世界その１]]></title>
+        <id>https://www.youtube.com/watch?v=P-hZ1udlZNM</id>
+        <link href="https://www.youtube.com/watch?v=P-hZ1udlZNM"/>
+        <updated>2021-05-27T04:37:11.000Z</updated>
+        <author>
+            <name>かくゆいch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ごめんなさい男]]></title>
+        <id>https://www.youtube.com/watch?v=rEQ0ly6VZUk</id>
+        <link href="https://www.youtube.com/watch?v=rEQ0ly6VZUk"/>
+        <updated>2021-05-26T02:43:30.000Z</updated>
+        <author>
+            <name>rSL. Shake</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【MK8DX】寝る前に少し世界]]></title>
+        <id>https://www.youtube.com/watch?v=vTCh2zPUeyo</id>
+        <link href="https://www.youtube.com/watch?v=vTCh2zPUeyo"/>
+        <updated>2021-05-25T05:01:40.000Z</updated>
+        <author>
+            <name>かくゆいch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[居残り学習アリーナ]]></title>
+        <id>https://www.youtube.com/watch?v=6837CVrUU_4</id>
+        <link href="https://www.youtube.com/watch?v=6837CVrUU_4"/>
+        <updated>2021-05-25T03:06:16.000Z</updated>
+        <author>
+            <name>rSL. Shake</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ざ]]></title>
+        <id>https://www.youtube.com/watch?v=xJuvJ1C1ock</id>
+        <link href="https://www.youtube.com/watch?v=xJuvJ1C1ock"/>
+        <updated>2021-05-22T19:58:46.000Z</updated>
+        <author>
+            <name>rSL. Shake</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CRs vs Nyn]]></title>
+        <id>https://www.youtube.com/watch?v=7yMUK6MH5Oo</id>
+        <link href="https://www.youtube.com/watch?v=7yMUK6MH5Oo"/>
+        <updated>2021-05-22T04:04:43.000Z</updated>
+        <author>
+            <name>rSL. Shake</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【MK8DX】Nst vs Frp]]></title>
+        <id>https://www.youtube.com/watch?v=lP7SEJwF3fQ</id>
+        <link href="https://www.youtube.com/watch?v=lP7SEJwF3fQ"/>
+        <updated>2021-05-22T01:02:51.000Z</updated>
+        <author>
+            <name>かくゆいch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一日一万回ダイスロール、感謝のヨット]]></title>
+        <id>https://www.youtube.com/watch?v=NMWhjQIJQHA</id>
+        <link href="https://www.youtube.com/watch?v=NMWhjQIJQHA"/>
+        <updated>2021-05-20T02:51:15.000Z</updated>
+        <author>
+            <name>rSL. Shake</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[休日ニートタイムぺクス]]></title>
+        <id>https://www.youtube.com/watch?v=GQr1dkWLybM</id>
+        <link href="https://www.youtube.com/watch?v=GQr1dkWLybM"/>
+        <updated>2021-05-18T19:07:46.000Z</updated>
+        <author>
+            <name>rSL. Shake</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アソビ大全がやりたいだけの男]]></title>
+        <id>https://www.youtube.com/watch?v=JQoeg1GWc9Q</id>
+        <link href="https://www.youtube.com/watch?v=JQoeg1GWc9Q"/>
+        <updated>2021-05-18T01:34:58.000Z</updated>
+        <author>
+            <name>rSL. Shake</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[手マルチ]]></title>
+        <id>https://www.youtube.com/watch?v=mmFxjK3Mv7o</id>
+        <link href="https://www.youtube.com/watch?v=mmFxjK3Mv7o"/>
+        <updated>2021-05-17T15:27:34.000Z</updated>
+        <author>
+            <name>rSL. Shake</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【超鬼畜企画】Gフォース～最強の蒼き閃光～　第6話【マリオカート8DX】]]></title>
+        <id>https://www.youtube.com/watch?v=NA7kcUPFUhM</id>
+        <link href="https://www.youtube.com/watch?v=NA7kcUPFUhM"/>
+        <updated>2021-05-17T14:13:12.000Z</updated>
+        <author>
+            <name>rulebreaker3</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【MK8DX】RsT vs LIT【交流戦】]]></title>
+        <id>https://www.youtube.com/watch?v=W4nDj17iFcI</id>
+        <link href="https://www.youtube.com/watch?v=W4nDj17iFcI"/>
+        <updated>2021-05-14T01:02:33.000Z</updated>
+        <author>
+            <name>ぴっぴGames</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【MHR】金王冠いっぱいつけたいなday3【マルチ】【ランス】]]></title>
+        <id>https://www.youtube.com/watch?v=hFkgOU0aH2A</id>
+        <link href="https://www.youtube.com/watch?v=hFkgOU0aH2A"/>
+        <updated>2021-05-13T15:27:34.000Z</updated>
+        <author>
+            <name>ぴっぴGames</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【MHR】金王冠いっぱいつけたいなday2【マルチ】【ランス】]]></title>
+        <id>https://www.youtube.com/watch?v=s2WMs_LFd0M</id>
+        <link href="https://www.youtube.com/watch?v=s2WMs_LFd0M"/>
+        <updated>2021-05-12T16:16:13.000Z</updated>
+        <author>
+            <name>ぴっぴGames</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【MHR】金王冠いっぱいつけたいな【マルチ】【ランス】]]></title>
+        <id>https://www.youtube.com/watch?v=AhNgK18NeQs</id>
+        <link href="https://www.youtube.com/watch?v=AhNgK18NeQs"/>
+        <updated>2021-05-12T03:35:47.000Z</updated>
+        <author>
+            <name>ぴっぴGames</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【MHR】オロミドロのたまがほしい【マルチ】]]></title>
+        <id>https://www.youtube.com/watch?v=tOC8tkMylhg</id>
+        <link href="https://www.youtube.com/watch?v=tOC8tkMylhg"/>
+        <updated>2021-05-11T03:57:39.000Z</updated>
+        <author>
+            <name>ぴっぴGames</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【超鬼畜企画】Gフォース～最強の蒼き閃光～　第5話【マリオカート8DX】]]></title>
+        <id>https://www.youtube.com/watch?v=QLf7jXmbzCw</id>
+        <link href="https://www.youtube.com/watch?v=QLf7jXmbzCw"/>
+        <updated>2021-05-10T08:40:40.000Z</updated>
+        <author>
+            <name>rulebreaker3</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ポケモン剣盾】ポケモンHOME使用率上位150位使用禁止でランクマッチ【ランクマッチ】【シングル】]]></title>
+        <id>https://www.youtube.com/watch?v=cIesb9GoihM</id>
+        <link href="https://www.youtube.com/watch?v=cIesb9GoihM"/>
+        <updated>2021-05-09T19:26:41.000Z</updated>
+        <author>
+            <name>ぴっぴGames</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マリオカート８ＤＸ]]></title>
+        <id>https://www.youtube.com/watch?v=BoFnOtFyKpI</id>
+        <link href="https://www.youtube.com/watch?v=BoFnOtFyKpI"/>
+        <updated>2021-05-07T01:19:53.000Z</updated>
+        <author>
+            <name>みりん.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ぢゅ]]></title>
+        <id>https://www.youtube.com/watch?v=VB8twVeoYhQ</id>
+        <link href="https://www.youtube.com/watch?v=VB8twVeoYhQ"/>
+        <updated>2021-05-05T12:12:07.000Z</updated>
+        <author>
+            <name>Zk garnet</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マリオカート８ＤＸ]]></title>
+        <id>https://www.youtube.com/watch?v=0Ong9oHyoZ0</id>
+        <link href="https://www.youtube.com/watch?v=0Ong9oHyoZ0"/>
+        <updated>2021-05-04T20:09:53.000Z</updated>
+        <author>
+            <name>みりん.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ぢゅ]]></title>
+        <id>https://www.youtube.com/watch?v=_Up_xjut_ls</id>
+        <link href="https://www.youtube.com/watch?v=_Up_xjut_ls"/>
+        <updated>2021-05-04T16:08:01.000Z</updated>
+        <author>
+            <name>Zk garnet</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【超鬼畜企画】Gフォース～最強の蒼き閃光～　第4話【マリオカート8DX】]]></title>
+        <id>https://www.youtube.com/watch?v=vLYcz_q9bR4</id>
+        <link href="https://www.youtube.com/watch?v=vLYcz_q9bR4"/>
+        <updated>2021-05-03T14:02:22.000Z</updated>
+        <author>
+            <name>rulebreaker3</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ゼルダの伝説BotW　マスターモード#10]]></title>
+        <id>https://www.youtube.com/watch?v=wSds84IHm7Q</id>
+        <link href="https://www.youtube.com/watch?v=wSds84IHm7Q"/>
+        <updated>2021-05-02T23:27:10.000Z</updated>
+        <author>
+            <name>みりん.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ポケモン剣盾】エルレイドと令和相棒自慢杯に参加するぞ！【しぇいどさん主催】【仲間大会】【シングル】]]></title>
+        <id>https://www.youtube.com/watch?v=Zh7vXmBO_Ws</id>
+        <link href="https://www.youtube.com/watch?v=Zh7vXmBO_Ws"/>
+        <updated>2021-05-02T14:11:52.000Z</updated>
+        <author>
+            <name>ぴっぴGames</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ぢゅ]]></title>
+        <id>https://www.youtube.com/watch?v=Z_BoXFbGuJI</id>
+        <link href="https://www.youtube.com/watch?v=Z_BoXFbGuJI"/>
+        <updated>2021-05-02T09:55:05.000Z</updated>
+        <author>
+            <name>Zk garnet</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ポケモン剣盾】珍しくシリーズ初日が休みなので序盤元気で高順位とってみたい（取れるとは言ってない）【ランクマッチ】【シングル】]]></title>
+        <id>https://www.youtube.com/watch?v=CC6YeI1NAfw</id>
+        <link href="https://www.youtube.com/watch?v=CC6YeI1NAfw"/>
+        <updated>2021-05-01T17:43:09.000Z</updated>
+        <author>
+            <name>ぴっぴGames</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マリオカート８ＤＸ]]></title>
+        <id>https://www.youtube.com/watch?v=oalG45UgekU</id>
+        <link href="https://www.youtube.com/watch?v=oalG45UgekU"/>
+        <updated>2021-04-30T12:20:59.000Z</updated>
+        <author>
+            <name>みりん.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マリオカート８ＤＸ 　明日仕事ってマ？]]></title>
+        <id>https://www.youtube.com/watch?v=kqyZxpY7rcI</id>
+        <link href="https://www.youtube.com/watch?v=kqyZxpY7rcI"/>
+        <updated>2021-04-30T01:38:07.000Z</updated>
+        <author>
+            <name>みりん.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ぢゅ]]></title>
+        <id>https://www.youtube.com/watch?v=Om467qtI9Eg</id>
+        <link href="https://www.youtube.com/watch?v=Om467qtI9Eg"/>
+        <updated>2021-04-29T13:48:01.000Z</updated>
+        <author>
+            <name>Zk garnet</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[海外勢からレートを吸い上げる男　配信切り抜き【2021/04/26】]]></title>
+        <id>https://www.youtube.com/watch?v=sVBCJ6RSZwg</id>
+        <link href="https://www.youtube.com/watch?v=sVBCJ6RSZwg"/>
+        <updated>2021-04-28T23:02:01.000Z</updated>
+        <author>
+            <name>rulebreaker3</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【超鬼畜企画】Gフォース～最強の蒼き閃光～　第3話【マリオカート8DX】]]></title>
+        <id>https://www.youtube.com/watch?v=ZjISZhlNJFw</id>
+        <link href="https://www.youtube.com/watch?v=ZjISZhlNJFw"/>
+        <updated>2021-04-26T11:36:20.000Z</updated>
+        <author>
+            <name>rulebreaker3</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一番マリカやりたくない男の4周年大規模個人杯 Day1【マリオカート8DX】]]></title>
+        <id>https://www.youtube.com/watch?v=4UCY7YqPWfA</id>
+        <link href="https://www.youtube.com/watch?v=4UCY7YqPWfA"/>
+        <updated>2021-04-24T17:34:59.000Z</updated>
+        <author>
+            <name>rulebreaker3</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マリオカート８ＤＸ 　少々」]]></title>
+        <id>https://www.youtube.com/watch?v=6WACNNbCtfU</id>
+        <link href="https://www.youtube.com/watch?v=6WACNNbCtfU"/>
+        <updated>2021-04-21T01:06:37.000Z</updated>
+        <author>
+            <name>みりん.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【超鬼畜企画】Gフォース～最強の蒼き閃光～　第2話【マリオカート8DX】]]></title>
+        <id>https://www.youtube.com/watch?v=GAZjHIPmWs8</id>
+        <link href="https://www.youtube.com/watch?v=GAZjHIPmWs8"/>
+        <updated>2021-04-19T14:16:31.000Z</updated>
+        <author>
+            <name>rulebreaker3</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ポケモン剣盾】マスボ行くまで！【ランクマッチ】【ダブル】]]></title>
+        <id>https://www.youtube.com/watch?v=OV6jk6o5vaI</id>
+        <link href="https://www.youtube.com/watch?v=OV6jk6o5vaI"/>
+        <updated>2021-04-17T16:26:32.000Z</updated>
+        <author>
+            <name>ぴっぴGames</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ポケモン剣盾】マスボ行くまで！【ランクマッチ】【シングル】]]></title>
+        <id>https://www.youtube.com/watch?v=cMAHmSy70SE</id>
+        <link href="https://www.youtube.com/watch?v=cMAHmSy70SE"/>
+        <updated>2021-04-17T15:43:58.000Z</updated>
+        <author>
+            <name>ぴっぴGames</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【超鬼畜企画】Gフォース～最強の蒼き閃光～　第1話【マリオカート8DX】]]></title>
+        <id>https://www.youtube.com/watch?v=sNmrBPPFCw8</id>
+        <link href="https://www.youtube.com/watch?v=sNmrBPPFCw8"/>
+        <updated>2021-04-12T09:23:49.000Z</updated>
+        <author>
+            <name>rulebreaker3</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[21時からチャンネル対抗【マリオカート8DX】]]></title>
+        <id>https://www.youtube.com/watch?v=ZHskphvMK2g</id>
+        <link href="https://www.youtube.com/watch?v=ZHskphvMK2g"/>
+        <updated>2021-04-12T01:15:10.000Z</updated>
+        <author>
+            <name>rulebreaker3</name>
         </author>
     </entry>
 </feed>
