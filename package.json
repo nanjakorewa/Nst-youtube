@@ -1,22 +1,23 @@
 {
-  "name": "youtube-dark",
+  "name": "nst-youtube",
   "version": "1.0.0",
-  "description": "Use this template to create the UI and content of an RSS feed reader.",
+  "description": "Nst youtube feed page.",
   "main": "index.js",
   "scripts": {
     "build": "osmosfeed"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/osmoscraft/osmosfeed-template.git"
+    "url": "git+https://github.com/nanjakorewa/Nst-youtube.git"
   },
-  "keywords": [],
-  "author": "osmoscraft",
+  "author": "nanjakorewa",
+  "contributors": [
+    {
+      "name": "takagi",
+      "url": "https://github.com/iamtakagi"
+    }
+  ],
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/osmoscraft/osmosfeed-template/issues"
-  },
-  "homepage": "https://github.com/osmoscraft/osmosfeed-template#readme",
   "dependencies": {
     "@osmoscraft/osmosfeed": "^1.4.0"
   }
