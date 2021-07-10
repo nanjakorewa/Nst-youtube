@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-10T08:03:31.722Z</id>
+    <id>urn:2021-07-10T08:06:48.808Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-10T08:03:31.722Z</updated>
+    <updated>2021-07-10T08:06:48.808Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -15,37 +15,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【マリオカート8DX交流戦】にゃんぱす vs チームRtA様]]></title>
-        <id>https://www.youtube.com/watch?v=QjlGLnU4b30</id>
-        <link href="https://www.youtube.com/watch?v=QjlGLnU4b30"/>
-        <updated>2021-07-10T04:10:55.000Z</updated>
-        <author>
-            <name>なんじゃ</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【マリオカート8DX交流戦】にゃんぱす vs チームJxS様]]></title>
         <id>https://www.youtube.com/watch?v=BfWtcPfo-6g</id>
         <link href="https://www.youtube.com/watch?v=BfWtcPfo-6g"/>
         <updated>2021-07-10T03:04:43.000Z</updated>
-        <author>
-            <name>なんじゃ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【マリオカート8DX交流戦】にゃんぱす vs チームJxS様]]></title>
-        <id>https://www.youtube.com/watch?v=BfWtcPfo-6g</id>
-        <link href="https://www.youtube.com/watch?v=BfWtcPfo-6g"/>
-        <updated>2021-07-10T03:04:43.000Z</updated>
-        <author>
-            <name>なんじゃ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マリオカートの野良#6]]></title>
-        <id>https://www.youtube.com/watch?v=5mXT-wNHcyY</id>
-        <link href="https://www.youtube.com/watch?v=5mXT-wNHcyY"/>
-        <updated>2021-07-10T02:20:09.000Z</updated>
         <author>
             <name>なんじゃ</name>
         </author>
@@ -150,15 +123,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[マリオカートの練習#6]]></title>
-        <id>https://www.youtube.com/watch?v=mYV9b82gEwg</id>
-        <link href="https://www.youtube.com/watch?v=mYV9b82gEwg"/>
-        <updated>2021-07-08T02:21:51.000Z</updated>
-        <author>
-            <name>なんじゃ</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【過去作】7年前に発売された”マリオカート8(WiiU版)”のオンライン対戦を未だにしているユーザーはいるのか環境調査をしてきた結果ｗｗｗｗｗ【マリオカート8】]]></title>
         <id>https://www.youtube.com/watch?v=mPhBLTs5a0M</id>
         <link href="https://www.youtube.com/watch?v=mPhBLTs5a0M"/>
@@ -213,15 +177,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[マリオカートの練習#5]]></title>
-        <id>https://www.youtube.com/watch?v=JNFzQpvk8aQ</id>
-        <link href="https://www.youtube.com/watch?v=JNFzQpvk8aQ"/>
-        <updated>2021-07-07T02:27:17.000Z</updated>
-        <author>
-            <name>なんじゃ</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【成金】YouTuberやってるんだしマリオカートでも豪遊するわｗｗｗ【マリオカート8デラックス】#856]]></title>
         <id>https://www.youtube.com/watch?v=l2E-4CdgiCQ</id>
         <link href="https://www.youtube.com/watch?v=l2E-4CdgiCQ"/>
@@ -237,15 +192,6 @@
         <updated>2021-07-06T12:22:41.000Z</updated>
         <author>
             <name>くそきもす</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【マリオカート】フォーマン模擬]]></title>
-        <id>https://www.youtube.com/watch?v=5h_Q5Db06wc</id>
-        <link href="https://www.youtube.com/watch?v=5h_Q5Db06wc"/>
-        <updated>2021-07-06T02:02:52.000Z</updated>
-        <author>
-            <name>なんじゃ</name>
         </author>
     </entry>
     <entry>
@@ -303,30 +249,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【マリオカート】トリプルス模擬]]></title>
-        <id>https://www.youtube.com/watch?v=yVE9LzISTPo</id>
-        <link href="https://www.youtube.com/watch?v=yVE9LzISTPo"/>
-        <updated>2021-07-05T01:40:30.000Z</updated>
-        <author>
-            <name>なんじゃ</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【スプラトゥーン2】3千年ぶりのイカ]]></title>
         <id>https://www.youtube.com/watch?v=dkbPTQF5-_w</id>
         <link href="https://www.youtube.com/watch?v=dkbPTQF5-_w"/>
         <updated>2021-07-05T01:18:33.000Z</updated>
         <author>
             <name>かくゆいch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マリオカートの練習#4]]></title>
-        <id>https://www.youtube.com/watch?v=i08k1vNCuqo</id>
-        <link href="https://www.youtube.com/watch?v=i08k1vNCuqo"/>
-        <updated>2021-07-05T00:34:31.000Z</updated>
-        <author>
-            <name>なんじゃ</name>
         </author>
     </entry>
     <entry>
@@ -361,24 +289,6 @@
         <id>https://www.youtube.com/watch?v=9l8pPNO1XMw</id>
         <link href="https://www.youtube.com/watch?v=9l8pPNO1XMw"/>
         <updated>2021-07-04T04:08:38.000Z</updated>
-        <author>
-            <name>なんじゃ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【マリオカート8DX交流戦】にゃんぱす vs チームXYZ様]]></title>
-        <id>https://www.youtube.com/watch?v=9l8pPNO1XMw</id>
-        <link href="https://www.youtube.com/watch?v=9l8pPNO1XMw"/>
-        <updated>2021-07-04T04:08:38.000Z</updated>
-        <author>
-            <name>なんじゃ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【マリオカート】模擬タッグ]]></title>
-        <id>https://www.youtube.com/watch?v=T7Wq2jrqx4Y</id>
-        <link href="https://www.youtube.com/watch?v=T7Wq2jrqx4Y"/>
-        <updated>2021-07-04T00:52:54.000Z</updated>
         <author>
             <name>なんじゃ</name>
         </author>
@@ -420,15 +330,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【マリオカート】トリプルス模擬]]></title>
-        <id>https://www.youtube.com/watch?v=UEjavBBkeFM</id>
-        <link href="https://www.youtube.com/watch?v=UEjavBBkeFM"/>
-        <updated>2021-07-03T03:10:41.000Z</updated>
-        <author>
-            <name>なんじゃ</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[待望のアップデートきちゃ！]]></title>
         <id>https://www.youtube.com/watch?v=yOiyDyyCx9c</id>
         <link href="https://www.youtube.com/watch?v=yOiyDyyCx9c"/>
@@ -444,15 +345,6 @@
         <updated>2021-07-03T02:39:38.000Z</updated>
         <author>
             <name>みりん.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マリオカートの練習#3]]></title>
-        <id>https://www.youtube.com/watch?v=BW3Tul31VdU</id>
-        <link href="https://www.youtube.com/watch?v=BW3Tul31VdU"/>
-        <updated>2021-07-03T01:29:00.000Z</updated>
-        <author>
-            <name>なんじゃ</name>
         </author>
     </entry>
     <entry>
@@ -501,15 +393,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[マリオカートの練習#2]]></title>
-        <id>https://www.youtube.com/watch?v=C952dnd9UDw</id>
-        <link href="https://www.youtube.com/watch?v=C952dnd9UDw"/>
-        <updated>2021-07-02T01:30:32.000Z</updated>
-        <author>
-            <name>なんじゃ</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【1人400cc】速さのみに命をかけた”スピード最高速カスタム”で暴れ回る。【マリオカート8デラックス】#851]]></title>
         <id>https://www.youtube.com/watch?v=NQk6nr3nYms</id>
         <link href="https://www.youtube.com/watch?v=NQk6nr3nYms"/>
@@ -546,15 +429,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【マリオカート8DX交流戦】にゃんぱす vs チームたまげた様]]></title>
-        <id>https://www.youtube.com/watch?v=reZ_yT_z-DI</id>
-        <link href="https://www.youtube.com/watch?v=reZ_yT_z-DI"/>
-        <updated>2021-07-01T03:06:07.000Z</updated>
-        <author>
-            <name>なんじゃ</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[のら]]></title>
         <id>https://www.youtube.com/watch?v=Z_ZebBPLdKQ</id>
         <link href="https://www.youtube.com/watch?v=Z_ZebBPLdKQ"/>
@@ -570,15 +444,6 @@
         <updated>2021-06-30T22:00:10.000Z</updated>
         <author>
             <name>GzKぎぞく</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マリオカートの練習#1]]></title>
-        <id>https://www.youtube.com/watch?v=w-XXOtBdnD0</id>
-        <link href="https://www.youtube.com/watch?v=w-XXOtBdnD0"/>
-        <updated>2021-06-30T13:32:58.000Z</updated>
-        <author>
-            <name>なんじゃ</name>
         </author>
     </entry>
     <entry>
