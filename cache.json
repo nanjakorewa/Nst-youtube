@@ -1290,6 +1290,148 @@
           "title": "マリオカートの練習#1"
         }
       ]
+    },
+    {
+      "title": "KyoaniChannel",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpGY2vcoKXf7K6tFzsbSv7w",
+      "siteUrl": "https://www.youtube.com/channel/UCpGY2vcoKXf7K6tFzsbSv7w",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=2cnIrNWWDkE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2cnIrNWWDkE",
+          "publishedOn": "2021-07-08T09:00:00.000Z",
+          "wordCount": null,
+          "title": "『ミニドラ』SP1 偽装工作（可愛いので許します）【期間限定配信】"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Mp3vtjlz07Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Mp3vtjlz07Q",
+          "publishedOn": "2021-07-08T03:00:12.000Z",
+          "wordCount": null,
+          "title": "京都アニメーション CM「想像編」"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=N7HVXjORQFA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=N7HVXjORQFA",
+          "publishedOn": "2021-07-08T03:00:04.000Z",
+          "wordCount": null,
+          "title": "京都アニメーション CM「明治編」"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=kMWLe37SMBs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kMWLe37SMBs",
+          "publishedOn": "2021-07-07T15:30:12.000Z",
+          "wordCount": null,
+          "title": "【期間限定公開】TVアニメ『小林さんちのメイドラゴンＳ』ノンテロップエンディング映像"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=bEb4xT8lnYU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bEb4xT8lnYU",
+          "publishedOn": "2021-07-07T15:30:07.000Z",
+          "wordCount": null,
+          "title": "【期間限定公開】TVアニメ『小林さんちのメイドラゴンＳ』ノンテロップオープニング映像"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=6vvJR3sgiNw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6vvJR3sgiNw",
+          "publishedOn": "2021-07-07T15:30:01.000Z",
+          "wordCount": null,
+          "title": "TVアニメ『小林さんちのメイドラゴンＳ』Blu-ray&DVD CM"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=kowRgF6hyh8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kowRgF6hyh8",
+          "publishedOn": "2021-07-05T03:00:26.000Z",
+          "wordCount": null,
+          "title": "『劇場版 ヴァイオレット・エヴァーガーデン』Blu-ray＆DVD CM"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=i1fCVbq32_Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=i1fCVbq32_Y",
+          "publishedOn": "2021-06-30T09:00:30.000Z",
+          "wordCount": null,
+          "title": "『ミニドラ』最終話 ハニームーン（結局こうなります）【期間限定配信】"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Cn5ynGko8eQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Cn5ynGko8eQ",
+          "publishedOn": "2021-06-25T08:02:12.000Z",
+          "wordCount": null,
+          "title": "『劇場版 ヴァイオレット・エヴァーガーデン』公式ファンブック 好評販売中CM（ディートフリート ナレーションver.）"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Na2Cyh_onMw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Na2Cyh_onMw",
+          "publishedOn": "2021-06-25T08:02:00.000Z",
+          "wordCount": null,
+          "title": "『劇場版 ヴァイオレット・エヴァーガーデン』公式ファンブック 好評販売中CM（ホッジンズ ナレーションver.）"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=LJDzXglOUww",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LJDzXglOUww",
+          "publishedOn": "2021-06-25T08:01:49.000Z",
+          "wordCount": null,
+          "title": "『劇場版 ヴァイオレット・エヴァーガーデン』公式ファンブック 好評販売中CM（ギルベルト ナレーションver.）"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=a_ZQA3oBCO4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=a_ZQA3oBCO4",
+          "publishedOn": "2021-06-25T08:01:25.000Z",
+          "wordCount": null,
+          "title": "『劇場版 ヴァイオレット・エヴァーガーデン』公式ファンブック 好評販売中CM（ヴァイオレット ナレーションver.）"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=qVBOCa1oOY8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qVBOCa1oOY8",
+          "publishedOn": "2021-06-23T09:00:32.000Z",
+          "wordCount": null,
+          "title": "『ミニドラ』第12話 顧客満足度（こんなので良いんだよ）【期間限定配信】"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=J5zBAmkwKgM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=J5zBAmkwKgM",
+          "publishedOn": "2021-06-16T09:00:06.000Z",
+          "wordCount": null,
+          "title": "『ミニドラ』第11話 才川パイセン（まさかの組み合わせです）【期間限定配信】"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=twSkVFkLocE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=twSkVFkLocE",
+          "publishedOn": "2021-06-09T09:00:31.000Z",
+          "wordCount": null,
+          "title": "『ミニドラ』第10話 パンキョー（人間って面倒ですね）【期間限定配信】"
+        }
+      ]
     }
   ],
   "cliVersion": "1.11.0"
