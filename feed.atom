@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-11T01:07:33.556Z</id>
+    <id>urn:2021-07-12T01:00:44.725Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-11T01:07:33.556Z</updated>
+    <updated>2021-07-12T01:00:44.725Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[マリオカートの練習#7]]></title>
+        <id>https://www.youtube.com/watch?v=0gPBQW3eC7k</id>
+        <link href="https://www.youtube.com/watch?v=0gPBQW3eC7k"/>
+        <updated>2021-07-12T00:52:20.000Z</updated>
+        <author>
+            <name>なんじゃ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【スプラトゥーン2】地元の友達と遊ぶ]]></title>
+        <id>https://www.youtube.com/watch?v=IepzQ6zUKBA</id>
+        <link href="https://www.youtube.com/watch?v=IepzQ6zUKBA"/>
+        <updated>2021-07-11T22:14:11.000Z</updated>
+        <author>
+            <name>かくゆいch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【現最強!?】新環境カスタム(亜種)が1位連発しまくってガチで強すぎてヤバイんだがｗｗｗｗｗ【マリオカート8デラックス】#860]]></title>
+        <id>https://www.youtube.com/watch?v=V48RgBv29XI</id>
+        <link href="https://www.youtube.com/watch?v=V48RgBv29XI"/>
+        <updated>2021-07-11T22:00:09.000Z</updated>
+        <author>
+            <name>GzKぎぞく</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[火力が強すぎたファイアトルネード]]></title>
+        <id>https://www.youtube.com/watch?v=rRwVnnjjyn0</id>
+        <link href="https://www.youtube.com/watch?v=rRwVnnjjyn0"/>
+        <updated>2021-07-11T13:53:29.000Z</updated>
+        <author>
+            <name>くそきもす</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【MK8DX】気分でラウンジ]]></title>
+        <id>https://www.youtube.com/watch?v=U3A39BDLbwk</id>
+        <link href="https://www.youtube.com/watch?v=U3A39BDLbwk"/>
+        <updated>2021-07-11T05:14:37.000Z</updated>
+        <author>
+            <name>かくゆいch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【マリオカート8DX交流戦】にゃんぱす vs チームTRB様]]></title>
+        <id>https://www.youtube.com/watch?v=v4d5MJDxnb0</id>
+        <link href="https://www.youtube.com/watch?v=v4d5MJDxnb0"/>
+        <updated>2021-07-11T04:06:07.000Z</updated>
+        <author>
+            <name>なんじゃ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【元最強】昔流行った重さもミニターボ値も4.0あるカスタムが今でも強かった。【マリオカート8デラックス】#859]]></title>
         <id>https://www.youtube.com/watch?v=7iFCdwHU-zw</id>
@@ -411,15 +465,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[マリオカートの練習#2]]></title>
-        <id>https://www.youtube.com/watch?v=C952dnd9UDw</id>
-        <link href="https://www.youtube.com/watch?v=C952dnd9UDw"/>
-        <updated>2021-07-02T01:30:32.000Z</updated>
-        <author>
-            <name>なんじゃ</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【1人400cc】速さのみに命をかけた”スピード最高速カスタム”で暴れ回る。【マリオカート8デラックス】#851]]></title>
         <id>https://www.youtube.com/watch?v=NQk6nr3nYms</id>
         <link href="https://www.youtube.com/watch?v=NQk6nr3nYms"/>
@@ -447,30 +492,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【マリオカート8DX交流戦】にゃんぱす vs チームたまげた様]]></title>
-        <id>https://www.youtube.com/watch?v=reZ_yT_z-DI</id>
-        <link href="https://www.youtube.com/watch?v=reZ_yT_z-DI"/>
-        <updated>2021-07-01T03:06:07.000Z</updated>
-        <author>
-            <name>なんじゃ</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[のら]]></title>
         <id>https://www.youtube.com/watch?v=Z_ZebBPLdKQ</id>
         <link href="https://www.youtube.com/watch?v=Z_ZebBPLdKQ"/>
         <updated>2021-07-01T00:17:15.000Z</updated>
         <author>
             <name>みりん.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[あの鬼畜企画が遂に帰ってきた。”被弾をしたら即終了縛り”で1位を取るまで終われない。【マリオカート8デラックス】#850]]></title>
-        <id>https://www.youtube.com/watch?v=8-ryAPKnfK0</id>
-        <link href="https://www.youtube.com/watch?v=8-ryAPKnfK0"/>
-        <updated>2021-06-30T22:00:10.000Z</updated>
-        <author>
-            <name>GzKぎぞく</name>
         </author>
     </entry>
     <entry>
@@ -561,15 +588,6 @@
         <updated>2021-06-27T00:45:36.000Z</updated>
         <author>
             <name>rSL. Shake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[龍が如く]]></title>
-        <id>https://www.youtube.com/watch?v=FIGcLbZ4zp4</id>
-        <link href="https://www.youtube.com/watch?v=FIGcLbZ4zp4"/>
-        <updated>2021-06-26T13:04:43.000Z</updated>
-        <author>
-            <name>くそきもす</name>
         </author>
     </entry>
     <entry>
@@ -879,15 +897,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【MK8DX】寝る前に少し世界]]></title>
-        <id>https://www.youtube.com/watch?v=vTCh2zPUeyo</id>
-        <link href="https://www.youtube.com/watch?v=vTCh2zPUeyo"/>
-        <updated>2021-05-25T05:01:40.000Z</updated>
-        <author>
-            <name>かくゆいch</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[居残り学習アリーナ]]></title>
         <id>https://www.youtube.com/watch?v=6837CVrUU_4</id>
         <link href="https://www.youtube.com/watch?v=6837CVrUU_4"/>
@@ -912,15 +921,6 @@
         <updated>2021-05-22T04:04:43.000Z</updated>
         <author>
             <name>rSL. Shake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【MK8DX】Nst vs Frp]]></title>
-        <id>https://www.youtube.com/watch?v=lP7SEJwF3fQ</id>
-        <link href="https://www.youtube.com/watch?v=lP7SEJwF3fQ"/>
-        <updated>2021-05-22T01:02:51.000Z</updated>
-        <author>
-            <name>かくゆいch</name>
         </author>
     </entry>
     <entry>
