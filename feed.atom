@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-14T00:58:34.499Z</id>
+    <id>urn:2021-07-15T01:03:07.983Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-14T00:58:34.499Z</updated>
+    <updated>2021-07-15T01:03:07.983Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【400cc！？】”サンダードリフト”がガチで速すぎてヤバイんだがｗｗｗ【マリオカート8】#2]]></title>
+        <id>https://www.youtube.com/watch?v=rV9sjBNxMy0</id>
+        <link href="https://www.youtube.com/watch?v=rV9sjBNxMy0"/>
+        <updated>2021-07-14T22:00:19.000Z</updated>
+        <author>
+            <name>GzKぎぞく</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[布団の中からサプライズ登場する瑛人]]></title>
+        <id>https://www.youtube.com/watch?v=BVUlZin2r-g</id>
+        <link href="https://www.youtube.com/watch?v=BVUlZin2r-g"/>
+        <updated>2021-07-14T12:57:04.000Z</updated>
+        <author>
+            <name>くそきもす</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【バカゲー】バグがなければ無双しまくるぎぞく。【Gang Beasts】]]></title>
+        <id>https://www.youtube.com/watch?v=nKx-bNuBuxk</id>
+        <link href="https://www.youtube.com/watch?v=nKx-bNuBuxk"/>
+        <updated>2021-07-14T09:00:15.000Z</updated>
+        <author>
+            <name>GzKぎぞく</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【マリオカート】トリプルす模擬]]></title>
+        <id>https://www.youtube.com/watch?v=nqvE8dd1Nng</id>
+        <link href="https://www.youtube.com/watch?v=nqvE8dd1Nng"/>
+        <updated>2021-07-14T01:41:44.000Z</updated>
+        <author>
+            <name>なんじゃ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【過去最強】64時代の最強カスタムを使ったら1位連発しすぎて脳汁が止まらねぇｗｗｗｗｗ【マリオカート8デラックス】#862]]></title>
         <id>https://www.youtube.com/watch?v=GT6bbZWdCrY</id>
@@ -465,39 +501,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【マリオカート】模擬タッグ]]></title>
-        <id>https://www.youtube.com/watch?v=T7Wq2jrqx4Y</id>
-        <link href="https://www.youtube.com/watch?v=T7Wq2jrqx4Y"/>
-        <updated>2021-07-04T00:52:54.000Z</updated>
-        <author>
-            <name>なんじゃ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【元最強】初期に流行った”化石カスタム”で走ったら驚きの展開が連続で起きまくるんだがｗｗｗ【マリオカート8デラックス】#853]]></title>
-        <id>https://www.youtube.com/watch?v=8MZQnN9Z_oQ</id>
-        <link href="https://www.youtube.com/watch?v=8MZQnN9Z_oQ"/>
-        <updated>2021-07-03T22:00:05.000Z</updated>
-        <author>
-            <name>GzKぎぞく</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[嬉しさのあまり幼児化してしまった大谷翔平]]></title>
         <id>https://www.youtube.com/watch?v=U25CNGq4Xw8</id>
         <link href="https://www.youtube.com/watch?v=U25CNGq4Xw8"/>
         <updated>2021-07-03T11:46:19.000Z</updated>
         <author>
             <name>くそきもす</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[待望のアップデートきちゃ！]]></title>
-        <id>https://www.youtube.com/watch?v=yOiyDyyCx9c</id>
-        <link href="https://www.youtube.com/watch?v=yOiyDyyCx9c"/>
-        <updated>2021-07-03T03:00:32.000Z</updated>
-        <author>
-            <name>GzKぎぞく</name>
         </author>
     </entry>
     <entry>
@@ -541,24 +550,6 @@
         <id>https://www.youtube.com/watch?v=Bu_2c_DSDOI</id>
         <link href="https://www.youtube.com/watch?v=Bu_2c_DSDOI"/>
         <updated>2021-06-30T12:51:22.000Z</updated>
-        <author>
-            <name>くそきもす</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[『ミニドラ』最終話 ハニームーン（結局こうなります）【期間限定配信】]]></title>
-        <id>https://www.youtube.com/watch?v=i1fCVbq32_Y</id>
-        <link href="https://www.youtube.com/watch?v=i1fCVbq32_Y"/>
-        <updated>2021-06-30T09:00:30.000Z</updated>
-        <author>
-            <name>KyoaniChannel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[おそらくゲームに参加させてもらえない秋山深一]]></title>
-        <id>https://www.youtube.com/watch?v=hwm36PgQ94M</id>
-        <link href="https://www.youtube.com/watch?v=hwm36PgQ94M"/>
-        <updated>2021-06-29T12:33:43.000Z</updated>
         <author>
             <name>くそきもす</name>
         </author>
@@ -654,15 +645,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[『ミニドラ』第12話 顧客満足度（こんなので良いんだよ）【期間限定配信】]]></title>
-        <id>https://www.youtube.com/watch?v=qVBOCa1oOY8</id>
-        <link href="https://www.youtube.com/watch?v=qVBOCa1oOY8"/>
-        <updated>2021-06-23T09:00:32.000Z</updated>
-        <author>
-            <name>KyoaniChannel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ついに金マリを出す【マリオカート8DX】]]></title>
         <id>https://www.youtube.com/watch?v=n_XENl0hL5g</id>
         <link href="https://www.youtube.com/watch?v=n_XENl0hL5g"/>
@@ -705,15 +687,6 @@
         <updated>2021-06-18T00:30:46.000Z</updated>
         <author>
             <name>みりん.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[『ミニドラ』第11話 才川パイセン（まさかの組み合わせです）【期間限定配信】]]></title>
-        <id>https://www.youtube.com/watch?v=J5zBAmkwKgM</id>
-        <link href="https://www.youtube.com/watch?v=J5zBAmkwKgM"/>
-        <updated>2021-06-16T09:00:06.000Z</updated>
-        <author>
-            <name>KyoaniChannel</name>
         </author>
     </entry>
     <entry>
@@ -771,15 +744,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[『ミニドラ』第10話 パンキョー（人間って面倒ですね）【期間限定配信】]]></title>
-        <id>https://www.youtube.com/watch?v=twSkVFkLocE</id>
-        <link href="https://www.youtube.com/watch?v=twSkVFkLocE"/>
-        <updated>2021-06-09T09:00:31.000Z</updated>
-        <author>
-            <name>KyoaniChannel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【MK8DX】本日のら・うんじ～]]></title>
         <id>https://www.youtube.com/watch?v=HuxWwUiAekE</id>
         <link href="https://www.youtube.com/watch?v=HuxWwUiAekE"/>
@@ -795,6 +759,15 @@
         <updated>2021-06-05T20:53:50.000Z</updated>
         <author>
             <name>かくゆいch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TVアニメ『小林さんちのメイドラゴンＳ』PV第2弾 2021年7月7日より放送開始！]]></title>
+        <id>https://www.youtube.com/watch?v=rsZGiaTMa24</id>
+        <link href="https://www.youtube.com/watch?v=rsZGiaTMa24"/>
+        <updated>2021-06-05T09:00:31.000Z</updated>
+        <author>
+            <name>KyoaniChannel</name>
         </author>
     </entry>
     <entry>
@@ -867,6 +840,15 @@
         <updated>2021-05-31T15:50:35.000Z</updated>
         <author>
             <name>ぴっぴGames</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第5回京都アニメーションファン感謝イベント 「KYOANI MUSIC FESTIVAL ―感動を未来へ―」 開催決定CM]]></title>
+        <id>https://www.youtube.com/watch?v=oTuRjVWBjFY</id>
+        <link href="https://www.youtube.com/watch?v=oTuRjVWBjFY"/>
+        <updated>2021-05-31T02:59:51.000Z</updated>
+        <author>
+            <name>KyoaniChannel</name>
         </author>
     </entry>
     <entry>
@@ -1047,6 +1029,15 @@
         <updated>2021-05-09T19:26:41.000Z</updated>
         <author>
             <name>ぴっぴGames</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KAエスマ文庫CM「わくわくはじける編」]]></title>
+        <id>https://www.youtube.com/watch?v=1FxiL267uys</id>
+        <link href="https://www.youtube.com/watch?v=1FxiL267uys"/>
+        <updated>2021-05-07T08:00:01.000Z</updated>
+        <author>
+            <name>KyoaniChannel</name>
         </author>
     </entry>
     <entry>
