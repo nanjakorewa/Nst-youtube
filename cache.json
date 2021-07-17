@@ -6,6 +6,15 @@
       "siteUrl": "https://www.youtube.com/channel/UC8p6hrVBIwbhetxvKw7pFqA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=UPUtZt9UUvY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=UPUtZt9UUvY",
+          "publishedOn": "2021-07-16T14:18:43.000Z",
+          "wordCount": null,
+          "title": "増幅した力を抑えきれなかった福くん"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=7ptIW_qLxRA",
           "author": null,
           "description": "",
@@ -130,15 +139,6 @@
           "publishedOn": "2021-07-02T14:15:20.000Z",
           "wordCount": null,
           "title": "ペルソナ5が全く気付かないうちに名探偵コナンになる"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=XKx_ViGzjJ8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=XKx_ViGzjJ8",
-          "publishedOn": "2021-07-01T13:37:40.000Z",
-          "wordCount": null,
-          "title": "キレすぎておかしくなってしまったタケシ"
         }
       ]
     },
@@ -147,6 +147,15 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBcxCarYR_l_Zt_Kf4yopXw",
       "siteUrl": "https://www.youtube.com/channel/UCBcxCarYR_l_Zt_Kf4yopXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=o55jsbvWtBI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=o55jsbvWtBI",
+          "publishedOn": "2021-07-16T22:00:13.000Z",
+          "wordCount": null,
+          "title": "【滑りやすさMAX】”最も滑りにくいカスタム”の恐ろしい弊害とは…？【マリオカート8デラックス】#864"
+        },
         {
           "id": "https://www.youtube.com/watch?v=EyLxgDs61iA",
           "author": null,
@@ -272,15 +281,6 @@
           "publishedOn": "2021-07-03T03:00:32.000Z",
           "wordCount": null,
           "title": "待望のアップデートきちゃ！"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=oHqJsREq7YE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=oHqJsREq7YE",
-          "publishedOn": "2021-07-02T22:00:31.000Z",
-          "wordCount": null,
-          "title": "【1人30cc！？】”スピードが最も遅いカスタム”が実は”最も速い理由”とは…？【マリオカート8デラックス】#852"
         }
       ]
     },
@@ -538,24 +538,6 @@
           "publishedOn": "2021-05-01T17:43:09.000Z",
           "wordCount": null,
           "title": "【ポケモン剣盾】珍しくシリーズ初日が休みなので序盤元気で高順位とってみたい（取れるとは言ってない）【ランクマッチ】【シングル】"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=OV6jk6o5vaI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=OV6jk6o5vaI",
-          "publishedOn": "2021-04-17T16:26:32.000Z",
-          "wordCount": null,
-          "title": "【ポケモン剣盾】マスボ行くまで！【ランクマッチ】【ダブル】"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=cMAHmSy70SE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=cMAHmSy70SE",
-          "publishedOn": "2021-04-17T15:43:58.000Z",
-          "wordCount": null,
-          "title": "【ポケモン剣盾】マスボ行くまで！【ランクマッチ】【シングル】"
         }
       ]
     },
@@ -1155,6 +1137,15 @@
       "siteUrl": "https://www.youtube.com/channel/UCpGY2vcoKXf7K6tFzsbSv7w",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=K5TWmn7ems0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=K5TWmn7ems0",
+          "publishedOn": "2021-07-16T07:51:45.000Z",
+          "wordCount": null,
+          "title": "株式会社京都アニメーション 二年目の追悼式"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Mp3vtjlz07Q",
           "author": null,
           "description": "",
@@ -1279,15 +1270,6 @@
           "publishedOn": "2021-05-05T08:00:16.000Z",
           "wordCount": null,
           "title": "【京アニショップ！】ヴァイオレット・エヴァーガーデンシリーズ『美術背景画集』発売決定CM"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=x5-dovT_dgs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=x5-dovT_dgs",
-          "publishedOn": "2021-04-26T09:00:16.000Z",
-          "wordCount": null,
-          "title": "『劇場版 Free!–the Final Stroke–』 特報"
         }
       ]
     }
