@@ -1,12 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-17T01:00:46.135Z</id>
+    <id>urn:2021-07-18T01:04:25.591Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-17T01:00:46.135Z</updated>
+    <updated>2021-07-18T01:04:25.591Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[【滑りやすさMAX】”最も滑りにくいカスタム”の恐ろしい弊害とは…？【マリオカート8デラックス】#864]]></title>
+        <title type="html"><![CDATA[スカイウォードする会#2]]></title>
+        <id>https://www.youtube.com/watch?v=B2nnuW38ifM</id>
+        <link href="https://www.youtube.com/watch?v=B2nnuW38ifM"/>
+        <updated>2021-07-18T00:44:23.000Z</updated>
+        <author>
+            <name>なんじゃ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【検証】”最も滑りやすいカスタム”を使って滑りやすいダートコースで勝てる？【マリオカート8デラックス】#865]]></title>
+        <id>https://www.youtube.com/watch?v=GviNmJTmKjA</id>
+        <link href="https://www.youtube.com/watch?v=GviNmJTmKjA"/>
+        <updated>2021-07-17T22:00:04.000Z</updated>
+        <author>
+            <name>GzKぎぞく</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【MK8DX】ららららうん爺]]></title>
+        <id>https://www.youtube.com/watch?v=paPpwmyl_t0</id>
+        <link href="https://www.youtube.com/watch?v=paPpwmyl_t0"/>
+        <updated>2021-07-17T19:38:17.000Z</updated>
+        <author>
+            <name>かくゆいch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ぢゅ]]></title>
+        <id>https://www.youtube.com/watch?v=Ek0b20ssC4Y</id>
+        <link href="https://www.youtube.com/watch?v=Ek0b20ssC4Y"/>
+        <updated>2021-07-17T15:00:54.000Z</updated>
+        <author>
+            <name>Zk garnet</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今後について]]></title>
+        <id>https://www.youtube.com/watch?v=kx_krtHqJ10</id>
+        <link href="https://www.youtube.com/watch?v=kx_krtHqJ10"/>
+        <updated>2021-07-17T14:07:15.000Z</updated>
+        <author>
+            <name>くそきもす</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スカイウォードする会#1]]></title>
+        <id>https://www.youtube.com/watch?v=6ur1D8gqc4I</id>
+        <link href="https://www.youtube.com/watch?v=6ur1D8gqc4I"/>
+        <updated>2021-07-17T02:51:33.000Z</updated>
+        <author>
+            <name>なんじゃ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【滑りにくさMAX】”最も滑りにくいカスタム”の恐ろしい弊害とは…？【マリオカート8デラックス】#864]]></title>
         <id>https://www.youtube.com/watch?v=o55jsbvWtBI</id>
         <link href="https://www.youtube.com/watch?v=o55jsbvWtBI"/>
         <updated>2021-07-16T22:00:13.000Z</updated>
@@ -420,15 +474,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【マリオカート】フォーマン模擬]]></title>
-        <id>https://www.youtube.com/watch?v=5h_Q5Db06wc</id>
-        <link href="https://www.youtube.com/watch?v=5h_Q5Db06wc"/>
-        <updated>2021-07-06T02:02:52.000Z</updated>
-        <author>
-            <name>なんじゃ</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[被弾したらゲームセット!?”加速最低値カスタム”で走ったら地獄すぎたｗｗｗｗｗ【マリオカート8デラックス】#855]]></title>
         <id>https://www.youtube.com/watch?v=wg77wc2zo9E</id>
         <link href="https://www.youtube.com/watch?v=wg77wc2zo9E"/>
@@ -462,15 +507,6 @@
         <updated>2021-07-05T03:00:26.000Z</updated>
         <author>
             <name>KyoaniChannel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【マリオカート】トリプルス模擬]]></title>
-        <id>https://www.youtube.com/watch?v=yVE9LzISTPo</id>
-        <link href="https://www.youtube.com/watch?v=yVE9LzISTPo"/>
-        <updated>2021-07-05T01:40:30.000Z</updated>
-        <author>
-            <name>なんじゃ</name>
         </author>
     </entry>
     <entry>
@@ -519,30 +555,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[待望のアップデートきちゃ！]]></title>
-        <id>https://www.youtube.com/watch?v=yOiyDyyCx9c</id>
-        <link href="https://www.youtube.com/watch?v=yOiyDyyCx9c"/>
-        <updated>2021-07-03T03:00:32.000Z</updated>
-        <author>
-            <name>GzKぎぞく</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ちょっとだけまりか　【ラジオ動画見てくれましたか】]]></title>
         <id>https://www.youtube.com/watch?v=CIbgdevSOuM</id>
         <link href="https://www.youtube.com/watch?v=CIbgdevSOuM"/>
         <updated>2021-07-03T02:39:38.000Z</updated>
         <author>
             <name>みりん.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ペルソナ5が全く気付かないうちに名探偵コナンになる]]></title>
-        <id>https://www.youtube.com/watch?v=aANpaqTZK6Y</id>
-        <link href="https://www.youtube.com/watch?v=aANpaqTZK6Y"/>
-        <updated>2021-07-02T14:15:20.000Z</updated>
-        <author>
-            <name>くそきもす</name>
         </author>
     </entry>
     <entry>
@@ -876,15 +894,6 @@
         <updated>2021-05-27T10:56:19.000Z</updated>
         <author>
             <name>Zk garnet</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【MK8DX】寝る前に少し世界その１]]></title>
-        <id>https://www.youtube.com/watch?v=P-hZ1udlZNM</id>
-        <link href="https://www.youtube.com/watch?v=P-hZ1udlZNM"/>
-        <updated>2021-05-27T04:37:11.000Z</updated>
-        <author>
-            <name>かくゆいch</name>
         </author>
     </entry>
     <entry>
