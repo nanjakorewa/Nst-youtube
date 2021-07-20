@@ -6,6 +6,15 @@
       "siteUrl": "https://www.youtube.com/channel/UC8p6hrVBIwbhetxvKw7pFqA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=x5Dx9nffwaU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=x5Dx9nffwaU",
+          "publishedOn": "2021-07-19T14:06:00.000Z",
+          "wordCount": null,
+          "title": "意味が分からないオルガ"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=nYq2U-LxFYE",
           "author": null,
           "description": "",
@@ -130,15 +139,6 @@
           "publishedOn": "2021-07-05T13:41:59.000Z",
           "wordCount": null,
           "title": "狂った匠によるビフォーアフター"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fXzzcoKbXjk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fXzzcoKbXjk",
-          "publishedOn": "2021-07-04T12:44:41.000Z",
-          "wordCount": null,
-          "title": "にんげんっていいな　バッドエンド"
         }
       ]
     },
@@ -147,6 +147,15 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBcxCarYR_l_Zt_Kf4yopXw",
       "siteUrl": "https://www.youtube.com/channel/UCBcxCarYR_l_Zt_Kf4yopXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=FqKPRplziN0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=FqKPRplziN0",
+          "publishedOn": "2021-07-19T22:00:05.000Z",
+          "wordCount": null,
+          "title": "【過去最強】”マリオカート7最強カスタム”で走ったら撮れ高がエグすぎた。ラストレースはガチ必見。【マリオカート8デラックス】#867"
+        },
         {
           "id": "https://www.youtube.com/watch?v=5zcbF_f0p98",
           "author": null,
@@ -272,15 +281,6 @@
           "publishedOn": "2021-07-05T22:00:15.000Z",
           "wordCount": null,
           "title": "被弾したらゲームセット!?”加速最低値カスタム”で走ったら地獄すぎたｗｗｗｗｗ【マリオカート8デラックス】#855"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=C64n7gHvs2c",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=C64n7gHvs2c",
-          "publishedOn": "2021-07-04T22:00:03.000Z",
-          "wordCount": null,
-          "title": "”加速MAXカスタム”は被弾しても実質ダメージがないためストレスフリーで走れます。【マリオカート8デラックス】#854"
         }
       ]
     },
@@ -414,15 +414,6 @@
           "publishedOn": "2021-04-30T01:38:07.000Z",
           "wordCount": null,
           "title": "マリオカート８ＤＸ 　明日仕事ってマ？"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6WACNNbCtfU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6WACNNbCtfU",
-          "publishedOn": "2021-04-21T01:06:37.000Z",
-          "wordCount": null,
-          "title": "マリオカート８ＤＸ 　少々」"
         }
       ]
     },
