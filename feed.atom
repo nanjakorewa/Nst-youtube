@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-22T01:04:28.230Z</id>
+    <id>urn:2021-07-23T01:03:38.324Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-22T01:04:28.230Z</updated>
+    <updated>2021-07-23T01:03:38.325Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【縛りプレイ】”初手20秒停止”で走ったらありえないレベルでサンダー回避しまくったんだがｗｗｗ【マリオカート8デラックス】#870]]></title>
+        <id>https://www.youtube.com/watch?v=XpOkwypJ_rM</id>
+        <link href="https://www.youtube.com/watch?v=XpOkwypJ_rM"/>
+        <updated>2021-07-22T22:00:21.000Z</updated>
+        <author>
+            <name>GzKぎぞく</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【APEX】配信test]]></title>
+        <id>https://www.youtube.com/watch?v=k5YLPQ5NeS0</id>
+        <link href="https://www.youtube.com/watch?v=k5YLPQ5NeS0"/>
+        <updated>2021-07-22T20:13:38.000Z</updated>
+        <author>
+            <name>かくゆいch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【マリオカート】トリプルす模擬]]></title>
+        <id>https://www.youtube.com/watch?v=VcGc23F0a5E</id>
+        <link href="https://www.youtube.com/watch?v=VcGc23F0a5E"/>
+        <updated>2021-07-22T02:57:37.000Z</updated>
+        <author>
+            <name>なんじゃ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ミニターボ最低値】このゲーム史上”最も弱いカスタム”で1位を取ることは○○です。【マリオカート8デラックス】#869]]></title>
         <id>https://www.youtube.com/watch?v=q_UVPY7HDKM</id>
@@ -402,15 +429,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[マリオカートの野良#6]]></title>
-        <id>https://www.youtube.com/watch?v=5mXT-wNHcyY</id>
-        <link href="https://www.youtube.com/watch?v=5mXT-wNHcyY"/>
-        <updated>2021-07-10T02:20:09.000Z</updated>
-        <author>
-            <name>なんじゃ</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【曲がりやすさ最低】世界一キャラコンが難しいカスタムの扱いは女心と秋の空並に難しい。【マリオカート8デラックス】#858]]></title>
         <id>https://www.youtube.com/watch?v=zIwQROboYbc</id>
         <link href="https://www.youtube.com/watch?v=zIwQROboYbc"/>
@@ -471,15 +489,6 @@
         <updated>2021-07-08T03:00:04.000Z</updated>
         <author>
             <name>KyoaniChannel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【過去作】7年前に発売された”マリオカート8(WiiU版)”のオンライン対戦を未だにしているユーザーはいるのか環境調査をしてきた結果ｗｗｗｗｗ【マリオカート8】]]></title>
-        <id>https://www.youtube.com/watch?v=mPhBLTs5a0M</id>
-        <link href="https://www.youtube.com/watch?v=mPhBLTs5a0M"/>
-        <updated>2021-07-07T22:00:14.000Z</updated>
-        <author>
-            <name>GzKぎぞく</name>
         </author>
     </entry>
     <entry>
@@ -858,15 +867,6 @@
         <updated>2021-05-31T02:59:51.000Z</updated>
         <author>
             <name>KyoaniChannel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【MK8DX】深夜ら・うんじ]]></title>
-        <id>https://www.youtube.com/watch?v=sDgCsvAtG0Q</id>
-        <link href="https://www.youtube.com/watch?v=sDgCsvAtG0Q"/>
-        <updated>2021-05-30T04:06:21.000Z</updated>
-        <author>
-            <name>かくゆいch</name>
         </author>
     </entry>
     <entry>
