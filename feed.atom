@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-23T01:03:38.324Z</id>
+    <id>urn:2021-07-24T01:03:08.552Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-23T01:03:38.325Z</updated>
+    <updated>2021-07-24T01:03:08.552Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【悲報】ぎぞくの脳年齢、壊れる。【もっと脳を鍛える大人のDSトレーニング】]]></title>
+        <id>https://www.youtube.com/watch?v=7QYrulwjg9k</id>
+        <link href="https://www.youtube.com/watch?v=7QYrulwjg9k"/>
+        <updated>2021-07-23T22:00:07.000Z</updated>
+        <author>
+            <name>GzKぎぞく</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[オリンピック開会式に勝手に参加するヤバい集団]]></title>
+        <id>https://www.youtube.com/watch?v=mG0zMkBK8Mw</id>
+        <link href="https://www.youtube.com/watch?v=mG0zMkBK8Mw"/>
+        <updated>2021-07-23T13:08:55.000Z</updated>
+        <author>
+            <name>くそきもす</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【APEX】4000ダメージを目指して]]></title>
+        <id>https://www.youtube.com/watch?v=zCjiwTH7yFg</id>
+        <link href="https://www.youtube.com/watch?v=zCjiwTH7yFg"/>
+        <updated>2021-07-23T07:50:00.000Z</updated>
+        <author>
+            <name>かくゆいch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【マリオカート8DX交流戦】にゃんぱす vs 即席チーム様]]></title>
+        <id>https://www.youtube.com/watch?v=Yz5gUkUa2UM</id>
+        <link href="https://www.youtube.com/watch?v=Yz5gUkUa2UM"/>
+        <updated>2021-07-23T04:03:38.000Z</updated>
+        <author>
+            <name>なんじゃ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【縛りプレイ】”初手20秒停止”で走ったらありえないレベルでサンダー回避しまくったんだがｗｗｗ【マリオカート8デラックス】#870]]></title>
         <id>https://www.youtube.com/watch?v=XpOkwypJ_rM</id>
@@ -420,15 +456,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【マリオカート8DX交流戦】にゃんぱす vs チームJxS様]]></title>
-        <id>https://www.youtube.com/watch?v=BfWtcPfo-6g</id>
-        <link href="https://www.youtube.com/watch?v=BfWtcPfo-6g"/>
-        <updated>2021-07-10T03:04:43.000Z</updated>
-        <author>
-            <name>なんじゃ</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【曲がりやすさ最低】世界一キャラコンが難しいカスタムの扱いは女心と秋の空並に難しい。【マリオカート8デラックス】#858]]></title>
         <id>https://www.youtube.com/watch?v=zIwQROboYbc</id>
         <link href="https://www.youtube.com/watch?v=zIwQROboYbc"/>
@@ -453,15 +480,6 @@
         <updated>2021-07-09T07:00:07.000Z</updated>
         <author>
             <name>ぴっぴGames</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【曲がりやすさMAX】普通なら落下不可避の状況も、このカスタムだから落下せずに済んだんだがｗｗｗ【マリオカート8デラックス】#857]]></title>
-        <id>https://www.youtube.com/watch?v=9rXnNi1vQzA</id>
-        <link href="https://www.youtube.com/watch?v=9rXnNi1vQzA"/>
-        <updated>2021-07-08T22:00:08.000Z</updated>
-        <author>
-            <name>GzKぎぞく</name>
         </author>
     </entry>
     <entry>
@@ -516,15 +534,6 @@
         <updated>2021-07-07T15:30:01.000Z</updated>
         <author>
             <name>KyoaniChannel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[とんでもない所に閉じ込められている瑛人]]></title>
-        <id>https://www.youtube.com/watch?v=WyUNhGNj4pc</id>
-        <link href="https://www.youtube.com/watch?v=WyUNhGNj4pc"/>
-        <updated>2021-07-07T13:12:15.000Z</updated>
-        <author>
-            <name>くそきもす</name>
         </author>
     </entry>
     <entry>
@@ -822,15 +831,6 @@
         <updated>2021-06-02T10:25:22.000Z</updated>
         <author>
             <name>rSL. Shake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【MK8DX】祝！Stv4周年記念内戦！]]></title>
-        <id>https://www.youtube.com/watch?v=6ck_QP3dSwM</id>
-        <link href="https://www.youtube.com/watch?v=6ck_QP3dSwM"/>
-        <updated>2021-06-02T03:06:56.000Z</updated>
-        <author>
-            <name>かくゆいch</name>
         </author>
     </entry>
     <entry>
@@ -1182,15 +1182,6 @@
         <updated>2021-04-26T09:00:16.000Z</updated>
         <author>
             <name>KyoaniChannel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一番マリカやりたくない男の4周年大規模個人杯 Day1【マリオカート8DX】]]></title>
-        <id>https://www.youtube.com/watch?v=4UCY7YqPWfA</id>
-        <link href="https://www.youtube.com/watch?v=4UCY7YqPWfA"/>
-        <updated>2021-04-24T17:34:59.000Z</updated>
-        <author>
-            <name>rulebreaker3</name>
         </author>
     </entry>
 </feed>
