@@ -6,6 +6,15 @@
       "siteUrl": "https://www.youtube.com/channel/UC8p6hrVBIwbhetxvKw7pFqA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=faKi1S_XePI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=faKi1S_XePI",
+          "publishedOn": "2021-07-24T08:44:31.000Z",
+          "wordCount": null,
+          "title": "どうしたのカバオくん、何で泣いてるの？"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=mG0zMkBK8Mw",
           "author": null,
           "description": "",
@@ -130,15 +139,6 @@
           "publishedOn": "2021-07-09T12:55:31.000Z",
           "wordCount": null,
           "title": "とんでもないズルをしようとしているカイジ"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=D_3sYbod8xM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=D_3sYbod8xM",
-          "publishedOn": "2021-07-08T13:42:50.000Z",
-          "wordCount": null,
-          "title": "勝手に止めてくる貞子"
         }
       ]
     },
@@ -147,6 +147,15 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBcxCarYR_l_Zt_Kf4yopXw",
       "siteUrl": "https://www.youtube.com/channel/UCBcxCarYR_l_Zt_Kf4yopXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=5FvV7-rqlsA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5FvV7-rqlsA",
+          "publishedOn": "2021-07-24T22:00:03.000Z",
+          "wordCount": null,
+          "title": "【ドッキリ】日頃の感謝を込めてヒカック&なつしばにドッキリを仕掛けたったwww【マリオカート8デラックス】"
+        },
         {
           "id": "https://www.youtube.com/watch?v=7QYrulwjg9k",
           "author": null,
@@ -272,15 +281,6 @@
           "publishedOn": "2021-07-10T22:00:02.000Z",
           "wordCount": null,
           "title": "【元最強】昔流行った重さもミニターボ値も4.0あるカスタムが今でも強かった。【マリオカート8デラックス】#859"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=zIwQROboYbc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=zIwQROboYbc",
-          "publishedOn": "2021-07-09T22:00:19.000Z",
-          "wordCount": null,
-          "title": "【曲がりやすさ最低】世界一キャラコンが難しいカスタムの扱いは女心と秋の空並に難しい。【マリオカート8デラックス】#858"
         }
       ]
     },
@@ -811,15 +811,6 @@
           "publishedOn": "2021-04-28T23:02:01.000Z",
           "wordCount": null,
           "title": "海外勢からレートを吸い上げる男　配信切り抜き【2021/04/26】"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ZjISZhlNJFw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ZjISZhlNJFw",
-          "publishedOn": "2021-04-26T11:36:20.000Z",
-          "wordCount": null,
-          "title": "【超鬼畜企画】Gフォース～最強の蒼き閃光～　第3話【マリオカート8DX】"
         }
       ]
     },
@@ -1243,15 +1234,6 @@
           "publishedOn": "2021-05-05T08:00:16.000Z",
           "wordCount": null,
           "title": "【京アニショップ！】ヴァイオレット・エヴァーガーデンシリーズ『美術背景画集』発売決定CM"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=x5-dovT_dgs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=x5-dovT_dgs",
-          "publishedOn": "2021-04-26T09:00:16.000Z",
-          "wordCount": null,
-          "title": "『劇場版 Free!–the Final Stroke–』 特報"
         }
       ]
     }
