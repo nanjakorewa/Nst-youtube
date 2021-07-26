@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-25T01:04:37.530Z</id>
+    <id>urn:2021-07-26T01:02:30.905Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-25T01:04:37.530Z</updated>
+    <updated>2021-07-26T01:02:30.905Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[マリオカート合計4500時間プレイしてるけど、ぎぞくが今まで1番使用してるカスタムって何か分かる？【マリオカート8デラックス】#871]]></title>
+        <id>https://www.youtube.com/watch?v=zO04X4HeL24</id>
+        <link href="https://www.youtube.com/watch?v=zO04X4HeL24"/>
+        <updated>2021-07-25T22:00:18.000Z</updated>
+        <author>
+            <name>GzKぎぞく</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[困ったときに開けてごらん。君に必要なモノが出てくる。]]></title>
+        <id>https://www.youtube.com/watch?v=R0RtqdmxZ_A</id>
+        <link href="https://www.youtube.com/watch?v=R0RtqdmxZ_A"/>
+        <updated>2021-07-25T12:57:45.000Z</updated>
+        <author>
+            <name>くそきもす</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【マリオカート8DX交流戦】にゃんぱす vs チームBKN様]]></title>
+        <id>https://www.youtube.com/watch?v=Cd0uFPPUAco</id>
+        <link href="https://www.youtube.com/watch?v=Cd0uFPPUAco"/>
+        <updated>2021-07-25T05:13:03.000Z</updated>
+        <author>
+            <name>なんじゃ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【マリオカート8DX交流戦】にゃんぱす vs チームRainbow様]]></title>
+        <id>https://www.youtube.com/watch?v=4dDjwwnlhNo</id>
+        <link href="https://www.youtube.com/watch?v=4dDjwwnlhNo"/>
+        <updated>2021-07-25T04:03:59.000Z</updated>
+        <author>
+            <name>なんじゃ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ドッキリ】日頃の感謝を込めてヒカック&なつしばにドッキリを仕掛けたったwww【マリオカート8デラックス】]]></title>
         <id>https://www.youtube.com/watch?v=5FvV7-rqlsA</id>
@@ -438,46 +474,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【元最強】昔流行った重さもミニターボ値も4.0あるカスタムが今でも強かった。【マリオカート8デラックス】#859]]></title>
-        <id>https://www.youtube.com/watch?v=7iFCdwHU-zw</id>
-        <link href="https://www.youtube.com/watch?v=7iFCdwHU-zw"/>
-        <updated>2021-07-10T22:00:02.000Z</updated>
-        <author>
-            <name>GzKぎぞく</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[バスケどころではなさそうな三井寿]]></title>
         <id>https://www.youtube.com/watch?v=A0YRe0OapLU</id>
         <link href="https://www.youtube.com/watch?v=A0YRe0OapLU"/>
         <updated>2021-07-10T13:05:12.000Z</updated>
-        <author>
-            <name>くそきもす</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[パクスラの壁を超える #Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=8lxs4v-a35A</id>
-        <link href="https://www.youtube.com/watch?v=8lxs4v-a35A"/>
-        <updated>2021-07-10T09:00:05.000Z</updated>
-        <author>
-            <name>なんじゃ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【マリオカート8DX交流戦】にゃんぱす vs チームRtA様]]></title>
-        <id>https://www.youtube.com/watch?v=QjlGLnU4b30</id>
-        <link href="https://www.youtube.com/watch?v=QjlGLnU4b30"/>
-        <updated>2021-07-10T04:10:55.000Z</updated>
-        <author>
-            <name>なんじゃ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[とんでもないズルをしようとしているカイジ]]></title>
-        <id>https://www.youtube.com/watch?v=dmhlhSL76sU</id>
-        <link href="https://www.youtube.com/watch?v=dmhlhSL76sU"/>
-        <updated>2021-07-09T12:55:31.000Z</updated>
         <author>
             <name>くそきもす</name>
         </author>
