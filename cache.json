@@ -6,6 +6,15 @@
       "siteUrl": "https://www.youtube.com/channel/UC8p6hrVBIwbhetxvKw7pFqA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=aLMgNGgFenk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=aLMgNGgFenk",
+          "publishedOn": "2021-07-26T14:21:19.000Z",
+          "wordCount": null,
+          "title": "飲み方のクセが強すぎるひろゆき"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=R0RtqdmxZ_A",
           "author": null,
           "description": "",
@@ -130,15 +139,6 @@
           "publishedOn": "2021-07-11T13:53:29.000Z",
           "wordCount": null,
           "title": "火力が強すぎたファイアトルネード"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=A0YRe0OapLU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=A0YRe0OapLU",
-          "publishedOn": "2021-07-10T13:05:12.000Z",
-          "wordCount": null,
-          "title": "バスケどころではなさそうな三井寿"
         }
       ]
     },
@@ -147,6 +147,24 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBcxCarYR_l_Zt_Kf4yopXw",
       "siteUrl": "https://www.youtube.com/channel/UCBcxCarYR_l_Zt_Kf4yopXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=jkdPU9EIHpc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jkdPU9EIHpc",
+          "publishedOn": "2021-07-26T22:00:31.000Z",
+          "wordCount": null,
+          "title": "”水中最速カスタム”でドルフィン岬を走ったら負けるわけがないだろｗｗｗｗｗ【マリオカート8デラックス】#872"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=p3oQPsUTOmk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=p3oQPsUTOmk",
+          "publishedOn": "2021-07-26T17:28:41.000Z",
+          "wordCount": null,
+          "title": "【生放送】ヒカックと1,2位フィニッシュするまで終われない。【マリオカート8DX】"
+        },
         {
           "id": "https://www.youtube.com/watch?v=zO04X4HeL24",
           "author": null,
@@ -263,24 +281,6 @@
           "publishedOn": "2021-07-13T22:00:12.000Z",
           "wordCount": null,
           "title": "【過去最強】64時代の最強カスタムを使ったら1位連発しすぎて脳汁が止まらねぇｗｗｗｗｗ【マリオカート8デラックス】#862"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=reOc-Ap7KUo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=reOc-Ap7KUo",
-          "publishedOn": "2021-07-12T22:00:13.000Z",
-          "wordCount": null,
-          "title": "【重さMAX】重さ最大だから全員踏み潰すつもりでいたのに、逆に踏み潰されてしまいました…。【マリオカート8デラックス】#861"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=V48RgBv29XI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=V48RgBv29XI",
-          "publishedOn": "2021-07-11T22:00:09.000Z",
-          "wordCount": null,
-          "title": "【現最強!?】新環境カスタム(亜種)が1位連発しまくってガチで強すぎてヤバイんだがｗｗｗｗｗ【マリオカート8デラックス】#860"
         }
       ]
     },
@@ -1109,6 +1109,15 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpGY2vcoKXf7K6tFzsbSv7w",
       "siteUrl": "https://www.youtube.com/channel/UCpGY2vcoKXf7K6tFzsbSv7w",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=xnXcfX04GOs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xnXcfX04GOs",
+          "publishedOn": "2021-07-26T09:00:09.000Z",
+          "wordCount": null,
+          "title": "『劇場版 Free!–the Final Stroke–』 特報第２弾"
+        },
         {
           "id": "https://www.youtube.com/watch?v=Mp3vtjlz07Q",
           "author": null,
