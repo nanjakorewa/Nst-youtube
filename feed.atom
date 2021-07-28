@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-27T01:03:45.120Z</id>
+    <id>urn:2021-07-28T01:06:23.402Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-27T01:03:45.120Z</updated>
+    <updated>2021-07-28T01:06:23.402Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【過去最強】サンドリ、ねじれで一世を風靡した”マリオカート8最強カスタム”で世の中を斬る。【マリオカート8デラックス】#873]]></title>
+        <id>https://www.youtube.com/watch?v=Ustx0MFU_ZA</id>
+        <link href="https://www.youtube.com/watch?v=Ustx0MFU_ZA"/>
+        <updated>2021-07-27T22:00:09.000Z</updated>
+        <author>
+            <name>GzKぎぞく</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[何もかもうまくいかないゾロ]]></title>
+        <id>https://www.youtube.com/watch?v=qOwJAchf7qw</id>
+        <link href="https://www.youtube.com/watch?v=qOwJAchf7qw"/>
+        <updated>2021-07-27T13:37:06.000Z</updated>
+        <author>
+            <name>くそきもす</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第5回京都アニメーションファン感謝イベント 「KYOANI MUSIC FESTIVAL ―感動を未来へ―」 出演アーティスト第1弾発表CM]]></title>
+        <id>https://www.youtube.com/watch?v=JLV184Vdrzw</id>
+        <link href="https://www.youtube.com/watch?v=JLV184Vdrzw"/>
+        <updated>2021-07-27T09:00:13.000Z</updated>
+        <author>
+            <name>KyoaniChannel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『ムント』シリーズ Blu-rayBOX 発売決定CM]]></title>
+        <id>https://www.youtube.com/watch?v=STmIj5Yj_xw</id>
+        <link href="https://www.youtube.com/watch?v=STmIj5Yj_xw"/>
+        <updated>2021-07-27T09:00:12.000Z</updated>
+        <author>
+            <name>KyoaniChannel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[”水中最速カスタム”でドルフィン岬を走ったら負けるわけがないだろｗｗｗｗｗ【マリオカート8デラックス】#872]]></title>
         <id>https://www.youtube.com/watch?v=jkdPU9EIHpc</id>
@@ -15,7 +51,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【生放送】ヒカックと1,2位フィニッシュするまで終われない。【マリオカート8DX】]]></title>
+        <title type="html"><![CDATA[【神回】ヒカックと1,2位フィニッシュするまで終われない→途中からサワも合流【マリオカート8DX】]]></title>
         <id>https://www.youtube.com/watch?v=p3oQPsUTOmk</id>
         <link href="https://www.youtube.com/watch?v=p3oQPsUTOmk"/>
         <updated>2021-07-26T17:28:41.000Z</updated>
@@ -24,7 +60,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[飲み方のクセが強すぎるひろゆき]]></title>
+        <title type="html"><![CDATA[飲み方のクセが強いひろゆき]]></title>
         <id>https://www.youtube.com/watch?v=aLMgNGgFenk</id>
         <link href="https://www.youtube.com/watch?v=aLMgNGgFenk"/>
         <updated>2021-07-26T14:21:19.000Z</updated>
@@ -384,15 +420,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【過去最強】64時代の最強カスタムを使ったら1位連発しすぎて脳汁が止まらねぇｗｗｗｗｗ【マリオカート8デラックス】#862]]></title>
-        <id>https://www.youtube.com/watch?v=GT6bbZWdCrY</id>
-        <link href="https://www.youtube.com/watch?v=GT6bbZWdCrY"/>
-        <updated>2021-07-13T22:00:12.000Z</updated>
-        <author>
-            <name>GzKぎぞく</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ポケモン　シルエットクイズ]]></title>
         <id>https://www.youtube.com/watch?v=zW2ajiYZ3Vs</id>
         <link href="https://www.youtube.com/watch?v=zW2ajiYZ3Vs"/>
@@ -462,15 +489,6 @@
         <updated>2021-07-11T22:14:11.000Z</updated>
         <author>
             <name>かくゆいch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[火力が強すぎたファイアトルネード]]></title>
-        <id>https://www.youtube.com/watch?v=rRwVnnjjyn0</id>
-        <link href="https://www.youtube.com/watch?v=rRwVnnjjyn0"/>
-        <updated>2021-07-11T13:53:29.000Z</updated>
-        <author>
-            <name>くそきもす</name>
         </author>
     </entry>
     <entry>
@@ -1041,15 +1059,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[KAエスマ文庫CM「わくわくはじける編」]]></title>
-        <id>https://www.youtube.com/watch?v=1FxiL267uys</id>
-        <link href="https://www.youtube.com/watch?v=1FxiL267uys"/>
-        <updated>2021-05-07T08:00:01.000Z</updated>
-        <author>
-            <name>KyoaniChannel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[マリオカート８ＤＸ]]></title>
         <id>https://www.youtube.com/watch?v=BoFnOtFyKpI</id>
         <link href="https://www.youtube.com/watch?v=BoFnOtFyKpI"/>
@@ -1065,15 +1074,6 @@
         <updated>2021-05-05T12:12:07.000Z</updated>
         <author>
             <name>Zk garnet</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【京アニショップ！】ヴァイオレット・エヴァーガーデンシリーズ『美術背景画集』発売決定CM]]></title>
-        <id>https://www.youtube.com/watch?v=Nk1T17uBeEY</id>
-        <link href="https://www.youtube.com/watch?v=Nk1T17uBeEY"/>
-        <updated>2021-05-05T08:00:16.000Z</updated>
-        <author>
-            <name>KyoaniChannel</name>
         </author>
     </entry>
     <entry>
@@ -1164,15 +1164,6 @@
         <updated>2021-04-29T13:48:01.000Z</updated>
         <author>
             <name>Zk garnet</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[海外勢からレートを吸い上げる男　配信切り抜き【2021/04/26】]]></title>
-        <id>https://www.youtube.com/watch?v=sVBCJ6RSZwg</id>
-        <link href="https://www.youtube.com/watch?v=sVBCJ6RSZwg"/>
-        <updated>2021-04-28T23:02:01.000Z</updated>
-        <author>
-            <name>rulebreaker3</name>
         </author>
     </entry>
 </feed>
