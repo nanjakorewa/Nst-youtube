@@ -148,6 +148,15 @@
       "siteUrl": "https://www.youtube.com/channel/UCBcxCarYR_l_Zt_Kf4yopXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=VOGMmxVLkoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VOGMmxVLkoo",
+          "publishedOn": "2021-07-29T22:00:12.000Z",
+          "wordCount": null,
+          "title": "【アモマリタッグフレ戦/1GP】実況者達を相手に無双しまくってきました。私が最強のイン☆ポスターです。【マリオカート8デラックス】"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=CfjmGp1mDQU",
           "author": null,
           "description": "",
@@ -272,15 +281,6 @@
           "publishedOn": "2021-07-17T22:00:04.000Z",
           "wordCount": null,
           "title": "【検証】”最も滑りやすいカスタム”を使って滑りやすいダートコースで勝てる？【マリオカート8デラックス】#865"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=o55jsbvWtBI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=o55jsbvWtBI",
-          "publishedOn": "2021-07-16T22:00:13.000Z",
-          "wordCount": null,
-          "title": "【滑りにくさMAX】”最も滑りにくいカスタム”の恐ろしい弊害とは…？【マリオカート8デラックス】#864"
         }
       ]
     },
