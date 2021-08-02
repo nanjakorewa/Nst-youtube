@@ -6,6 +6,15 @@
       "siteUrl": "https://www.youtube.com/channel/UC8p6hrVBIwbhetxvKw7pFqA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=FKjRotpNZA0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=FKjRotpNZA0",
+          "publishedOn": "2021-08-01T12:56:17.000Z",
+          "wordCount": null,
+          "title": "金のオノ　SSR"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=f0vAztzTnuE",
           "author": null,
           "description": "",
@@ -130,15 +139,6 @@
           "publishedOn": "2021-07-14T12:57:04.000Z",
           "wordCount": null,
           "title": "布団の中からサプライズ登場する瑛人"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=zW2ajiYZ3Vs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=zW2ajiYZ3Vs",
-          "publishedOn": "2021-07-13T12:07:44.000Z",
-          "wordCount": null,
-          "title": "ポケモン　シルエットクイズ"
         }
       ]
     },
@@ -148,11 +148,20 @@
       "siteUrl": "https://www.youtube.com/channel/UCBcxCarYR_l_Zt_Kf4yopXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=5BbjXYHXe3o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5BbjXYHXe3o",
+          "publishedOn": "2021-08-01T22:00:03.000Z",
+          "wordCount": null,
+          "title": "【無双】しんたろーさんカスタムが軽量級なのに爆速すぎて1位しか取れねぇｗｗｗ【マリオカート8デラックス】#876"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=CoZ4t0ckvXc",
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=CoZ4t0ckvXc",
-          "publishedOn": "2021-08-01T01:09:26.000Z",
+          "publishedOn": "2021-08-01T16:47:25.000Z",
           "wordCount": null,
           "title": "【生放送】世界ランカーになるまで終われない。(現世界12位)【マリオカート8DX】"
         },
@@ -272,15 +281,6 @@
           "publishedOn": "2021-07-21T15:00:21.000Z",
           "wordCount": null,
           "title": "【ミニターボ最低値】このゲーム史上”最も弱いカスタム”で1位を取ることは○○です。【マリオカート8デラックス】#869"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=qE2repc9zyw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=qE2repc9zyw",
-          "publishedOn": "2021-07-20T22:00:13.000Z",
-          "wordCount": null,
-          "title": "【ミニターボ値MAX】初心者の方は必見！一瞬でミニターボが溜まる”神カスタム”を紹介します。【マリオカート8デラックス】#868"
         }
       ]
     },
@@ -289,6 +289,15 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0yFbble5t_9Xhow2Rn8nNw",
       "siteUrl": "https://www.youtube.com/channel/UC0yFbble5t_9Xhow2Rn8nNw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=R7E2KWERSUQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=R7E2KWERSUQ",
+          "publishedOn": "2021-08-01T02:47:56.000Z",
+          "wordCount": null,
+          "title": "ゼルダの伝説　スカイウォードソード#1"
+        },
         {
           "id": "https://www.youtube.com/watch?v=FcrldfE0Pqg",
           "author": null,
@@ -739,15 +748,6 @@
           "publishedOn": "2021-05-10T08:40:40.000Z",
           "wordCount": null,
           "title": "【超鬼畜企画】Gフォース～最強の蒼き閃光～　第5話【マリオカート8DX】"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vLYcz_q9bR4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vLYcz_q9bR4",
-          "publishedOn": "2021-05-03T14:02:22.000Z",
-          "wordCount": null,
-          "title": "【超鬼畜企画】Gフォース～最強の蒼き閃光～　第4話【マリオカート8DX】"
         }
       ]
     },

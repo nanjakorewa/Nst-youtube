@@ -1,17 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-01T01:11:34.290Z</id>
+    <id>urn:2021-08-02T01:02:47.860Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-01T01:11:34.290Z</updated>
+    <updated>2021-08-02T01:02:47.860Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【無双】しんたろーさんカスタムが軽量級なのに爆速すぎて1位しか取れねぇｗｗｗ【マリオカート8デラックス】#876]]></title>
+        <id>https://www.youtube.com/watch?v=5BbjXYHXe3o</id>
+        <link href="https://www.youtube.com/watch?v=5BbjXYHXe3o"/>
+        <updated>2021-08-01T22:00:03.000Z</updated>
+        <author>
+            <name>GzKぎぞく</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【生放送】世界ランカーになるまで終われない。(現世界12位)【マリオカート8DX】]]></title>
         <id>https://www.youtube.com/watch?v=CoZ4t0ckvXc</id>
         <link href="https://www.youtube.com/watch?v=CoZ4t0ckvXc"/>
-        <updated>2021-08-01T01:09:26.000Z</updated>
+        <updated>2021-08-01T16:47:25.000Z</updated>
         <author>
             <name>GzKぎぞく</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[金のオノ　SSR]]></title>
+        <id>https://www.youtube.com/watch?v=FKjRotpNZA0</id>
+        <link href="https://www.youtube.com/watch?v=FKjRotpNZA0"/>
+        <updated>2021-08-01T12:56:17.000Z</updated>
+        <author>
+            <name>くそきもす</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ゼルダの伝説　スカイウォードソード#1]]></title>
+        <id>https://www.youtube.com/watch?v=R7E2KWERSUQ</id>
+        <link href="https://www.youtube.com/watch?v=R7E2KWERSUQ"/>
+        <updated>2021-08-01T02:47:56.000Z</updated>
+        <author>
+            <name>みりん.</name>
         </author>
     </entry>
     <entry>
@@ -330,15 +357,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【ミニターボ値MAX】初心者の方は必見！一瞬でミニターボが溜まる”神カスタム”を紹介します。【マリオカート8デラックス】#868]]></title>
-        <id>https://www.youtube.com/watch?v=qE2repc9zyw</id>
-        <link href="https://www.youtube.com/watch?v=qE2repc9zyw"/>
-        <updated>2021-07-20T22:00:13.000Z</updated>
-        <author>
-            <name>GzKぎぞく</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[血も涙もない武藤遊戯]]></title>
         <id>https://www.youtube.com/watch?v=Apl7UH9V07A</id>
         <link href="https://www.youtube.com/watch?v=Apl7UH9V07A"/>
@@ -480,15 +498,6 @@
         <updated>2021-07-14T01:41:44.000Z</updated>
         <author>
             <name>なんじゃ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ポケモン　シルエットクイズ]]></title>
-        <id>https://www.youtube.com/watch?v=zW2ajiYZ3Vs</id>
-        <link href="https://www.youtube.com/watch?v=zW2ajiYZ3Vs"/>
-        <updated>2021-07-13T12:07:44.000Z</updated>
-        <author>
-            <name>くそきもす</name>
         </author>
     </entry>
     <entry>
@@ -1101,15 +1110,6 @@
         <updated>2021-05-04T16:08:01.000Z</updated>
         <author>
             <name>Zk garnet</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【超鬼畜企画】Gフォース～最強の蒼き閃光～　第4話【マリオカート8DX】]]></title>
-        <id>https://www.youtube.com/watch?v=vLYcz_q9bR4</id>
-        <link href="https://www.youtube.com/watch?v=vLYcz_q9bR4"/>
-        <updated>2021-05-03T14:02:22.000Z</updated>
-        <author>
-            <name>rulebreaker3</name>
         </author>
     </entry>
 </feed>
