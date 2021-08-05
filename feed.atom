@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-04T01:02:01.449Z</id>
+    <id>urn:2021-08-05T01:03:14.193Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-04T01:02:01.449Z</updated>
+    <updated>2021-08-05T01:03:14.193Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【アモマリタッグフレ戦/番外編】おまけのバトルでマジで”ありえない確率”の事件が起きて爆笑が止まらねぇｗｗｗｗｗ【マリオカート8デラックス】]]></title>
+        <id>https://www.youtube.com/watch?v=dFJxQOx6Jbc</id>
+        <link href="https://www.youtube.com/watch?v=dFJxQOx6Jbc"/>
+        <updated>2021-08-04T22:00:30.000Z</updated>
+        <author>
+            <name>GzKぎぞく</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スゴいけど最悪ないっこく堂]]></title>
+        <id>https://www.youtube.com/watch?v=PSnPRMwoucI</id>
+        <link href="https://www.youtube.com/watch?v=PSnPRMwoucI"/>
+        <updated>2021-08-04T11:47:20.000Z</updated>
+        <author>
+            <name>くそきもす</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【マリオカート8DX交流戦】にゃんぱす交流戦]]></title>
+        <id>https://www.youtube.com/watch?v=26LaJZil_7s</id>
+        <link href="https://www.youtube.com/watch?v=26LaJZil_7s"/>
+        <updated>2021-08-04T03:13:16.000Z</updated>
+        <author>
+            <name>なんじゃ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【MHR】追加されたチャレンジクエストで全武器”S”とる配信　feat.セイコー]]></title>
+        <id>https://www.youtube.com/watch?v=gyEAjimXLaY</id>
+        <link href="https://www.youtube.com/watch?v=gyEAjimXLaY"/>
+        <updated>2021-08-04T01:55:51.000Z</updated>
+        <author>
+            <name>ぴっぴGames</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[先端さんカスタムで走ったら上位連発しまくってエグすぎたｗｗｗ【マリオカート8デラックス】#877]]></title>
         <id>https://www.youtube.com/watch?v=sKSqQkVfEyo</id>
@@ -339,15 +375,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【ドッキリ】日頃の感謝を込めてヒカック&なつしばにドッキリを仕掛けたったwww【マリオカート8デラックス】]]></title>
-        <id>https://www.youtube.com/watch?v=5FvV7-rqlsA</id>
-        <link href="https://www.youtube.com/watch?v=5FvV7-rqlsA"/>
-        <updated>2021-07-24T22:00:03.000Z</updated>
-        <author>
-            <name>GzKぎぞく</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[どうしたのカバオくん、何で泣いてるの？]]></title>
         <id>https://www.youtube.com/watch?v=faKi1S_XePI</id>
         <link href="https://www.youtube.com/watch?v=faKi1S_XePI"/>
@@ -496,24 +523,6 @@
         <id>https://www.youtube.com/watch?v=6ur1D8gqc4I</id>
         <link href="https://www.youtube.com/watch?v=6ur1D8gqc4I"/>
         <updated>2021-07-17T02:51:33.000Z</updated>
-        <author>
-            <name>なんじゃ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[増幅した力を抑えきれなかった福くん]]></title>
-        <id>https://www.youtube.com/watch?v=UPUtZt9UUvY</id>
-        <link href="https://www.youtube.com/watch?v=UPUtZt9UUvY"/>
-        <updated>2021-07-16T14:18:43.000Z</updated>
-        <author>
-            <name>くそきもす</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マリオカートの練習#9]]></title>
-        <id>https://www.youtube.com/watch?v=UwcjhPO3iH0</id>
-        <link href="https://www.youtube.com/watch?v=UwcjhPO3iH0"/>
-        <updated>2021-07-16T01:01:34.000Z</updated>
         <author>
             <name>なんじゃ</name>
         </author>
@@ -1092,15 +1101,6 @@
         <updated>2021-05-09T19:26:41.000Z</updated>
         <author>
             <name>ぴっぴGames</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マリオカート８ＤＸ]]></title>
-        <id>https://www.youtube.com/watch?v=BoFnOtFyKpI</id>
-        <link href="https://www.youtube.com/watch?v=BoFnOtFyKpI"/>
-        <updated>2021-05-07T01:19:53.000Z</updated>
-        <author>
-            <name>みりん.</name>
         </author>
     </entry>
 </feed>
