@@ -148,6 +148,15 @@
       "siteUrl": "https://www.youtube.com/channel/UCBcxCarYR_l_Zt_Kf4yopXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=5mG2hwt8cTc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5mG2hwt8cTc",
+          "publishedOn": "2021-08-05T22:00:02.000Z",
+          "wordCount": null,
+          "title": "たけぉさんカスタムで”ゲスプレイ”連発しまくるわｗｗｗｗｗ【マリオカート8デラックス】#878"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=dFJxQOx6Jbc",
           "author": null,
           "description": "",
@@ -272,15 +281,6 @@
           "publishedOn": "2021-07-26T17:28:41.000Z",
           "wordCount": null,
           "title": "【神回】ヒカックと1,2位フィニッシュするまで終われない→途中からサワも合流【マリオカート8DX】"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=zO04X4HeL24",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=zO04X4HeL24",
-          "publishedOn": "2021-07-25T22:00:18.000Z",
-          "wordCount": null,
-          "title": "マリオカート合計4500時間プレイしてるけど、ぎぞくが今まで1番使用してるカスタムって何か分かる？【マリオカート8デラックス】#871"
         }
       ]
     },
