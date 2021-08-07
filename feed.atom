@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-06T01:06:12.788Z</id>
+    <id>urn:2021-08-07T00:57:27.114Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-06T01:06:12.788Z</updated>
+    <updated>2021-08-07T00:57:27.114Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[スナザメさんのカスタムエッ○すぎんだろ…。【マリオカート8デラックス】#879]]></title>
+        <id>https://www.youtube.com/watch?v=1sTnKPkc4p4</id>
+        <link href="https://www.youtube.com/watch?v=1sTnKPkc4p4"/>
+        <updated>2021-08-06T22:00:01.000Z</updated>
+        <author>
+            <name>GzKぎぞく</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【マリオカート8DX交流戦】にゃんぱす交流戦 vs チームXan様]]></title>
+        <id>https://www.youtube.com/watch?v=fKV8rb-Q9Sc</id>
+        <link href="https://www.youtube.com/watch?v=fKV8rb-Q9Sc"/>
+        <updated>2021-08-06T04:19:57.000Z</updated>
+        <author>
+            <name>なんじゃ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【マリオカート8DX交流戦】にゃんぱす交流戦 vs チームαX様]]></title>
+        <id>https://www.youtube.com/watch?v=e6-hLq_PwOg</id>
+        <link href="https://www.youtube.com/watch?v=e6-hLq_PwOg"/>
+        <updated>2021-08-06T03:08:08.000Z</updated>
+        <author>
+            <name>なんじゃ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[たけぉさんカスタムで”ゲスプレイ”連発しまくるわｗｗｗｗｗ【マリオカート8デラックス】#878]]></title>
         <id>https://www.youtube.com/watch?v=5mG2hwt8cTc</id>
@@ -321,15 +348,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【神回】ヒカックと1,2位フィニッシュするまで終われない→途中からサワも合流【マリオカート8DX】]]></title>
-        <id>https://www.youtube.com/watch?v=p3oQPsUTOmk</id>
-        <link href="https://www.youtube.com/watch?v=p3oQPsUTOmk"/>
-        <updated>2021-07-26T17:28:41.000Z</updated>
-        <author>
-            <name>GzKぎぞく</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[飲み方のクセが強いひろゆき]]></title>
         <id>https://www.youtube.com/watch?v=aLMgNGgFenk</id>
         <link href="https://www.youtube.com/watch?v=aLMgNGgFenk"/>
@@ -483,15 +501,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[スカイウォードする会#2]]></title>
-        <id>https://www.youtube.com/watch?v=B2nnuW38ifM</id>
-        <link href="https://www.youtube.com/watch?v=B2nnuW38ifM"/>
-        <updated>2021-07-18T00:44:23.000Z</updated>
-        <author>
-            <name>なんじゃ</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【MK8DX】ららららうん爺]]></title>
         <id>https://www.youtube.com/watch?v=paPpwmyl_t0</id>
         <link href="https://www.youtube.com/watch?v=paPpwmyl_t0"/>
@@ -516,15 +525,6 @@
         <updated>2021-07-17T14:07:15.000Z</updated>
         <author>
             <name>くそきもす</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スカイウォードする会#1]]></title>
-        <id>https://www.youtube.com/watch?v=6ur1D8gqc4I</id>
-        <link href="https://www.youtube.com/watch?v=6ur1D8gqc4I"/>
-        <updated>2021-07-17T02:51:33.000Z</updated>
-        <author>
-            <name>なんじゃ</name>
         </author>
     </entry>
     <entry>
