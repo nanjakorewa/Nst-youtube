@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-07T00:57:27.114Z</id>
+    <id>urn:2021-08-08T01:03:21.947Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-07T00:57:27.114Z</updated>
+    <updated>2021-08-08T01:03:21.947Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[遂に個性を出すことに成功したとりっぴぃカスタム。【マリオカート8デラックス】#880]]></title>
+        <id>https://www.youtube.com/watch?v=n9dfdi1-53I</id>
+        <link href="https://www.youtube.com/watch?v=n9dfdi1-53I"/>
+        <updated>2021-08-07T22:00:29.000Z</updated>
+        <author>
+            <name>GzKぎぞく</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【マリオカート】トリプルス模擬]]></title>
+        <id>https://www.youtube.com/watch?v=CaIckgn__6o</id>
+        <link href="https://www.youtube.com/watch?v=CaIckgn__6o"/>
+        <updated>2021-08-07T16:08:14.000Z</updated>
+        <author>
+            <name>なんじゃ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ハズレが混ざってる君の名は]]></title>
+        <id>https://www.youtube.com/watch?v=FwTa6XA3rxs</id>
+        <link href="https://www.youtube.com/watch?v=FwTa6XA3rxs"/>
+        <updated>2021-08-07T09:00:05.000Z</updated>
+        <author>
+            <name>くそきもす</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スカイウォードする会#4]]></title>
+        <id>https://www.youtube.com/watch?v=5IXChbbe124</id>
+        <link href="https://www.youtube.com/watch?v=5IXChbbe124"/>
+        <updated>2021-08-07T04:40:40.000Z</updated>
+        <author>
+            <name>なんじゃ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【マリオカート8DX交流戦】にゃんぱす交流戦 vs チームVse様]]></title>
+        <id>https://www.youtube.com/watch?v=1suBa09lwjE</id>
+        <link href="https://www.youtube.com/watch?v=1suBa09lwjE"/>
+        <updated>2021-08-07T04:02:29.000Z</updated>
+        <author>
+            <name>なんじゃ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【マリオカート8DX交流戦】にゃんぱす交流戦 vs チームVI様]]></title>
+        <id>https://www.youtube.com/watch?v=TcVWkMgY2dw</id>
+        <link href="https://www.youtube.com/watch?v=TcVWkMgY2dw"/>
+        <updated>2021-08-07T03:02:33.000Z</updated>
+        <author>
+            <name>なんじゃ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【マリオカート】トリプルス模擬]]></title>
+        <id>https://www.youtube.com/watch?v=EaOwKp7mN14</id>
+        <link href="https://www.youtube.com/watch?v=EaOwKp7mN14"/>
+        <updated>2021-08-07T01:15:29.000Z</updated>
+        <author>
+            <name>なんじゃ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[スナザメさんのカスタムエッ○すぎんだろ…。【マリオカート8デラックス】#879]]></title>
         <id>https://www.youtube.com/watch?v=1sTnKPkc4p4</id>
@@ -339,15 +402,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[”水中最速カスタム”でドルフィン岬を走ったら負けるわけがないだろｗｗｗｗｗ【マリオカート8デラックス】#872]]></title>
-        <id>https://www.youtube.com/watch?v=jkdPU9EIHpc</id>
-        <link href="https://www.youtube.com/watch?v=jkdPU9EIHpc"/>
-        <updated>2021-07-26T22:00:31.000Z</updated>
-        <author>
-            <name>GzKぎぞく</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[飲み方のクセが強いひろゆき]]></title>
         <id>https://www.youtube.com/watch?v=aLMgNGgFenk</id>
         <link href="https://www.youtube.com/watch?v=aLMgNGgFenk"/>
@@ -372,24 +426,6 @@
         <updated>2021-07-25T12:57:45.000Z</updated>
         <author>
             <name>くそきもす</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【マリオカート8DX交流戦】にゃんぱす vs チームBKN様]]></title>
-        <id>https://www.youtube.com/watch?v=Cd0uFPPUAco</id>
-        <link href="https://www.youtube.com/watch?v=Cd0uFPPUAco"/>
-        <updated>2021-07-25T05:13:03.000Z</updated>
-        <author>
-            <name>なんじゃ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【マリオカート8DX交流戦】にゃんぱす vs チームRainbow様]]></title>
-        <id>https://www.youtube.com/watch?v=4dDjwwnlhNo</id>
-        <link href="https://www.youtube.com/watch?v=4dDjwwnlhNo"/>
-        <updated>2021-07-25T04:03:59.000Z</updated>
-        <author>
-            <name>なんじゃ</name>
         </author>
     </entry>
     <entry>
@@ -420,30 +456,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【マリオカート8DX交流戦】にゃんぱす vs 即席チーム様]]></title>
-        <id>https://www.youtube.com/watch?v=Yz5gUkUa2UM</id>
-        <link href="https://www.youtube.com/watch?v=Yz5gUkUa2UM"/>
-        <updated>2021-07-23T04:03:38.000Z</updated>
-        <author>
-            <name>なんじゃ</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【APEX】配信test]]></title>
         <id>https://www.youtube.com/watch?v=k5YLPQ5NeS0</id>
         <link href="https://www.youtube.com/watch?v=k5YLPQ5NeS0"/>
         <updated>2021-07-22T20:13:38.000Z</updated>
         <author>
             <name>かくゆいch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【マリオカート】トリプルす模擬]]></title>
-        <id>https://www.youtube.com/watch?v=VcGc23F0a5E</id>
-        <link href="https://www.youtube.com/watch?v=VcGc23F0a5E"/>
-        <updated>2021-07-22T02:57:37.000Z</updated>
-        <author>
-            <name>なんじゃ</name>
         </author>
     </entry>
     <entry>
@@ -465,30 +483,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【マリオカート】トリプルす模擬]]></title>
-        <id>https://www.youtube.com/watch?v=gnBpCsjAz9M</id>
-        <link href="https://www.youtube.com/watch?v=gnBpCsjAz9M"/>
-        <updated>2021-07-20T01:24:24.000Z</updated>
-        <author>
-            <name>なんじゃ</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[意味が分からないオルガ]]></title>
         <id>https://www.youtube.com/watch?v=x5Dx9nffwaU</id>
         <link href="https://www.youtube.com/watch?v=x5Dx9nffwaU"/>
         <updated>2021-07-19T14:06:00.000Z</updated>
         <author>
             <name>くそきもす</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スカイウォードする会#3]]></title>
-        <id>https://www.youtube.com/watch?v=GDBRR3G-8CY</id>
-        <link href="https://www.youtube.com/watch?v=GDBRR3G-8CY"/>
-        <updated>2021-07-19T00:33:55.000Z</updated>
-        <author>
-            <name>なんじゃ</name>
         </author>
     </entry>
     <entry>
@@ -516,15 +516,6 @@
         <updated>2021-07-17T15:00:54.000Z</updated>
         <author>
             <name>Zk garnet</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今後について]]></title>
-        <id>https://www.youtube.com/watch?v=kx_krtHqJ10</id>
-        <link href="https://www.youtube.com/watch?v=kx_krtHqJ10"/>
-        <updated>2021-07-17T14:07:15.000Z</updated>
-        <author>
-            <name>くそきもす</name>
         </author>
     </entry>
     <entry>
@@ -1081,24 +1072,6 @@
         <id>https://www.youtube.com/watch?v=tOC8tkMylhg</id>
         <link href="https://www.youtube.com/watch?v=tOC8tkMylhg"/>
         <updated>2021-05-11T03:57:39.000Z</updated>
-        <author>
-            <name>ぴっぴGames</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【超鬼畜企画】Gフォース～最強の蒼き閃光～　第5話【マリオカート8DX】]]></title>
-        <id>https://www.youtube.com/watch?v=QLf7jXmbzCw</id>
-        <link href="https://www.youtube.com/watch?v=QLf7jXmbzCw"/>
-        <updated>2021-05-10T08:40:40.000Z</updated>
-        <author>
-            <name>rulebreaker3</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ポケモン剣盾】ポケモンHOME使用率上位150位使用禁止でランクマッチ【ランクマッチ】【シングル】]]></title>
-        <id>https://www.youtube.com/watch?v=cIesb9GoihM</id>
-        <link href="https://www.youtube.com/watch?v=cIesb9GoihM"/>
-        <updated>2021-05-09T19:26:41.000Z</updated>
         <author>
             <name>ぴっぴGames</name>
         </author>
