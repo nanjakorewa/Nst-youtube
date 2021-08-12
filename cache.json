@@ -148,6 +148,15 @@
       "siteUrl": "https://www.youtube.com/channel/UCBcxCarYR_l_Zt_Kf4yopXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=k-NsaleDVaE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=k-NsaleDVaE",
+          "publishedOn": "2021-08-11T22:00:15.000Z",
+          "wordCount": null,
+          "title": "【理不尽】不可解な被弾を繰り返しすぎてこのゲームの引退を決意しました。【マリオカート8デラックス】#883"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=LaB6a1mGNqE",
           "author": null,
           "description": "",
@@ -272,15 +281,6 @@
           "publishedOn": "2021-07-30T22:00:32.000Z",
           "wordCount": null,
           "title": "フレ戦で大活躍したテラゾーさんカスタムで遊ぶぞ！【マリオカート8デラックス】#875"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=VOGMmxVLkoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=VOGMmxVLkoo",
-          "publishedOn": "2021-07-29T22:00:12.000Z",
-          "wordCount": null,
-          "title": "【アモマリタッグフレ戦/1GP】実況者達を相手に無双しまくってきました。私が最強のイン☆ポスターです。【マリオカート8デラックス】"
         }
       ]
     },
@@ -457,24 +457,6 @@
           "publishedOn": "2021-05-31T15:50:35.000Z",
           "wordCount": null,
           "title": "【MHR】闘技大会 全武器”S”をとります【マルチ】"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=W4nDj17iFcI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=W4nDj17iFcI",
-          "publishedOn": "2021-05-14T01:02:33.000Z",
-          "wordCount": null,
-          "title": "【MK8DX】RsT vs LIT【交流戦】"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=hFkgOU0aH2A",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=hFkgOU0aH2A",
-          "publishedOn": "2021-05-13T15:27:34.000Z",
-          "wordCount": null,
-          "title": "【MHR】金王冠いっぱいつけたいなday3【マルチ】【ランス】"
         }
       ]
     },
@@ -851,6 +833,15 @@
       "siteUrl": "https://www.youtube.com/channel/UC6AX2BdCW0143n9I0fhnSDg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=mVf82vztCWQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mVf82vztCWQ",
+          "publishedOn": "2021-08-11T04:13:37.000Z",
+          "wordCount": null,
+          "title": "【マリオカート】トリプルス模擬"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Toxp-5_YOvM",
           "author": null,
           "description": "",
@@ -975,15 +966,6 @@
           "publishedOn": "2021-07-31T05:00:37.000Z",
           "wordCount": null,
           "title": "【マリオカート8DX交流戦】にゃんぱす vs チームAzu様"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=7tzSrK7u1Nk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=7tzSrK7u1Nk",
-          "publishedOn": "2021-07-31T04:10:32.000Z",
-          "wordCount": null,
-          "title": "【マリオカート8DX交流戦】にゃんぱす vs チームOP様"
         }
       ]
     },
@@ -992,6 +974,15 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpGY2vcoKXf7K6tFzsbSv7w",
       "siteUrl": "https://www.youtube.com/channel/UCpGY2vcoKXf7K6tFzsbSv7w",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=vlkYHLokN1k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vlkYHLokN1k",
+          "publishedOn": "2021-08-11T14:30:08.000Z",
+          "wordCount": null,
+          "title": "『ミニドラ』SP2 無償の愛（濡れても温かい）【期間限定配信】"
+        },
         {
           "id": "https://www.youtube.com/watch?v=YU_EKBDYm5w",
           "author": null,
@@ -1117,15 +1108,6 @@
           "publishedOn": "2021-06-25T08:01:25.000Z",
           "wordCount": null,
           "title": "『劇場版 ヴァイオレット・エヴァーガーデン』公式ファンブック 好評販売中CM（ヴァイオレット ナレーションver.）"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=rsZGiaTMa24",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=rsZGiaTMa24",
-          "publishedOn": "2021-06-05T09:00:31.000Z",
-          "wordCount": null,
-          "title": "TVアニメ『小林さんちのメイドラゴンＳ』PV第2弾 2021年7月7日より放送開始！"
         }
       ]
     }
