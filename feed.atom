@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-12T01:01:21.734Z</id>
+    <id>urn:2021-08-13T01:02:47.821Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-12T01:01:21.734Z</updated>
+    <updated>2021-08-13T01:02:47.821Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[攻撃アイテムが飛び交うストレスMAX部屋での勝ち方、教えます。【マリオカート8デラックス】#884]]></title>
+        <id>https://www.youtube.com/watch?v=6oMmBLbCmBE</id>
+        <link href="https://www.youtube.com/watch?v=6oMmBLbCmBE"/>
+        <updated>2021-08-12T22:00:02.000Z</updated>
+        <author>
+            <name>GzKぎぞく</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ゼルダの伝説　スカイウォードソード＃3]]></title>
+        <id>https://www.youtube.com/watch?v=kH1YuOkQ56A</id>
+        <link href="https://www.youtube.com/watch?v=kH1YuOkQ56A"/>
+        <updated>2021-08-12T07:28:06.000Z</updated>
+        <author>
+            <name>みりん.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【マリオカート8DX交流戦】にゃんぱす交流戦 vs チームAmb様]]></title>
+        <id>https://www.youtube.com/watch?v=2fwcMKX8YWU</id>
+        <link href="https://www.youtube.com/watch?v=2fwcMKX8YWU"/>
+        <updated>2021-08-12T03:07:40.000Z</updated>
+        <author>
+            <name>なんじゃ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【マリオカート8DX交流戦】にゃんぱす交流戦 vs チームSHR様]]></title>
+        <id>https://www.youtube.com/watch?v=0Mc9WRy37Mw</id>
+        <link href="https://www.youtube.com/watch?v=0Mc9WRy37Mw"/>
+        <updated>2021-08-12T02:06:29.000Z</updated>
+        <author>
+            <name>なんじゃ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【マリオカート】練習タイム]]></title>
+        <id>https://www.youtube.com/watch?v=o0JdNQ5gC2g</id>
+        <link href="https://www.youtube.com/watch?v=o0JdNQ5gC2g"/>
+        <updated>2021-08-12T01:03:45.000Z</updated>
+        <author>
+            <name>なんじゃ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【理不尽】不可解な被弾を繰り返しすぎてこのゲームの引退を決意しました。【マリオカート8デラックス】#883]]></title>
         <id>https://www.youtube.com/watch?v=k-NsaleDVaE</id>
@@ -285,24 +330,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【マリオカート8DX交流戦】にゃんぱす vs チームOO様]]></title>
-        <id>https://www.youtube.com/watch?v=FK6zM9F5ybM</id>
-        <link href="https://www.youtube.com/watch?v=FK6zM9F5ybM"/>
-        <updated>2021-08-02T04:01:06.000Z</updated>
-        <author>
-            <name>なんじゃ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【マリオカート8DX交流戦】にゃんぱす vs チームnk様]]></title>
-        <id>https://www.youtube.com/watch?v=4g4hXAf4S38</id>
-        <link href="https://www.youtube.com/watch?v=4g4hXAf4S38"/>
-        <updated>2021-08-02T03:06:14.000Z</updated>
-        <author>
-            <name>なんじゃ</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【新マリオサーキット】世界7位の記録を出しました。1:49.525(キノコ無し)【マリオカート8デラックス】]]></title>
         <id>https://www.youtube.com/watch?v=LbcTfd1cCbs</id>
         <link href="https://www.youtube.com/watch?v=LbcTfd1cCbs"/>
@@ -381,24 +408,6 @@
         <updated>2021-07-31T21:15:34.000Z</updated>
         <author>
             <name>みりん.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【マリオカート8DX交流戦】にゃんぱす vs チームAzu様]]></title>
-        <id>https://www.youtube.com/watch?v=_K569J3l3SQ</id>
-        <link href="https://www.youtube.com/watch?v=_K569J3l3SQ"/>
-        <updated>2021-07-31T05:00:37.000Z</updated>
-        <author>
-            <name>なんじゃ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[フレ戦で大活躍したテラゾーさんカスタムで遊ぶぞ！【マリオカート8デラックス】#875]]></title>
-        <id>https://www.youtube.com/watch?v=wIxfMpzXEtk</id>
-        <link href="https://www.youtube.com/watch?v=wIxfMpzXEtk"/>
-        <updated>2021-07-30T22:00:32.000Z</updated>
-        <author>
-            <name>GzKぎぞく</name>
         </author>
     </entry>
     <entry>
