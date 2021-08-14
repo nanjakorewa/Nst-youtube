@@ -148,6 +148,15 @@
       "siteUrl": "https://www.youtube.com/channel/UCBcxCarYR_l_Zt_Kf4yopXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=VSK67s8sjPo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VSK67s8sjPo",
+          "publishedOn": "2021-08-13T22:00:25.000Z",
+          "wordCount": null,
+          "title": "【神回避】3周目のスターの使い方、これがマジで重要なんです。【マリオカート8デラックス】#885"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=6oMmBLbCmBE",
           "author": null,
           "description": "",
@@ -272,15 +281,6 @@
           "publishedOn": "2021-08-01T16:47:25.000Z",
           "wordCount": null,
           "title": "【生放送】世界ランカーになるまで終われない。(現世界12位)【マリオカート8DX】"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=BXB-SS7xtL0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=BXB-SS7xtL0",
-          "publishedOn": "2021-07-31T22:00:15.000Z",
-          "wordCount": null,
-          "title": "【アモマリタッグフレ戦/2GP】ガチ勢全員を完璧にキ☆ルしたブーメランが神すぎたｗｗｗ【マリオカート8デラックス】"
         }
       ]
     },
@@ -289,6 +289,15 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0yFbble5t_9Xhow2Rn8nNw",
       "siteUrl": "https://www.youtube.com/channel/UC0yFbble5t_9Xhow2Rn8nNw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=uqgFIRLQ8mo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=uqgFIRLQ8mo",
+          "publishedOn": "2021-08-13T14:05:24.000Z",
+          "wordCount": null,
+          "title": "ゼルダの伝説　スカイウォードソード＃4"
+        },
         {
           "id": "https://www.youtube.com/watch?v=kH1YuOkQ56A",
           "author": null,
@@ -842,6 +851,24 @@
       "siteUrl": "https://www.youtube.com/channel/UC6AX2BdCW0143n9I0fhnSDg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=TP1yQPrtAvo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TP1yQPrtAvo",
+          "publishedOn": "2021-08-13T03:01:17.000Z",
+          "wordCount": null,
+          "title": "【マリオカート8DX交流戦】にゃんぱす交流戦 vs チームetoile様"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=bkiL9UuJids",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bkiL9UuJids",
+          "publishedOn": "2021-08-13T02:05:14.000Z",
+          "wordCount": null,
+          "title": "【マリオカート8DX交流戦】にゃんぱす交流戦 vs チームCaf様"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=2fwcMKX8YWU",
           "author": null,
           "description": "",
@@ -957,24 +984,6 @@
           "publishedOn": "2021-08-06T04:19:57.000Z",
           "wordCount": null,
           "title": "【マリオカート8DX交流戦】にゃんぱす交流戦 vs チームXan様"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=e6-hLq_PwOg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=e6-hLq_PwOg",
-          "publishedOn": "2021-08-06T03:08:08.000Z",
-          "wordCount": null,
-          "title": "【マリオカート8DX交流戦】にゃんぱす交流戦 vs チームαX様"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=26LaJZil_7s",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=26LaJZil_7s",
-          "publishedOn": "2021-08-04T03:13:16.000Z",
-          "wordCount": null,
-          "title": "【マリオカート8DX交流戦】にゃんぱす交流戦"
         }
       ]
     },
