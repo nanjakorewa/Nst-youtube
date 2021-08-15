@@ -148,6 +148,15 @@
       "siteUrl": "https://www.youtube.com/channel/UCBcxCarYR_l_Zt_Kf4yopXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=MpVXLeT1Q14",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=MpVXLeT1Q14",
+          "publishedOn": "2021-08-14T22:00:06.000Z",
+          "wordCount": null,
+          "title": "【ふざけるな】200ccの闇が深すぎる…。【マリオカート8デラックス】#886"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=VSK67s8sjPo",
           "author": null,
           "description": "",
@@ -272,15 +281,6 @@
           "publishedOn": "2021-08-01T22:00:03.000Z",
           "wordCount": null,
           "title": "【無双】しんたろーさんカスタムが軽量級なのに爆速すぎて1位しか取れねぇｗｗｗ【マリオカート8デラックス】#876"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=CoZ4t0ckvXc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=CoZ4t0ckvXc",
-          "publishedOn": "2021-08-01T16:47:25.000Z",
-          "wordCount": null,
-          "title": "【生放送】世界ランカーになるまで終われない。(現世界12位)【マリオカート8DX】"
         }
       ]
     },
@@ -483,6 +483,24 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXljuxqQUAD5bX2RB5XoWBg",
       "siteUrl": "https://www.youtube.com/channel/UCXljuxqQUAD5bX2RB5XoWBg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=lrsURKDKYj4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lrsURKDKYj4",
+          "publishedOn": "2021-08-14T15:50:37.000Z",
+          "wordCount": null,
+          "title": "にゅ～す～ぱ～ふっくが～る配信その2"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=pn1UZEXt3cQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pn1UZEXt3cQ",
+          "publishedOn": "2021-08-14T14:14:53.000Z",
+          "wordCount": null,
+          "title": "にゅ～す～ぱ～ふっくが～る"
+        },
         {
           "id": "https://www.youtube.com/watch?v=Ek0b20ssC4Y",
           "author": null,
