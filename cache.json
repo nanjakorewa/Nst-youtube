@@ -148,6 +148,24 @@
       "siteUrl": "https://www.youtube.com/channel/UCBcxCarYR_l_Zt_Kf4yopXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ZTVXd1cPYu0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ZTVXd1cPYu0",
+          "publishedOn": "2021-08-16T22:00:11.000Z",
+          "wordCount": null,
+          "title": "【なぜ？】凡人の僕には全く理解できない現象に遭遇しました。【マリオカート8デラックス】# 888"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=95Ga-aH0Eg4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=95Ga-aH0Eg4",
+          "publishedOn": "2021-08-15T22:00:02.000Z",
+          "wordCount": null,
+          "title": "”ぎぞくキッズ”とマッチングしたからボコボコにしてきます＾＾【マリオカート8デラックス】#  887"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=MpVXLeT1Q14",
           "author": null,
           "description": "",
@@ -263,24 +281,6 @@
           "publishedOn": "2021-08-02T22:00:12.000Z",
           "wordCount": null,
           "title": "【アモマリタッグフレ戦/3GP】1位なのに謎の停止！？深すぎる理由に一同驚愕…※トゲ譲りではありません。【マリオカート8デラックス】"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=LbcTfd1cCbs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=LbcTfd1cCbs",
-          "publishedOn": "2021-08-02T03:00:06.000Z",
-          "wordCount": null,
-          "title": "【新マリオサーキット】世界7位の記録を出しました。1:49.525(キノコ無し)【マリオカート8デラックス】"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5BbjXYHXe3o",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5BbjXYHXe3o",
-          "publishedOn": "2021-08-01T22:00:03.000Z",
-          "wordCount": null,
-          "title": "【無双】しんたろーさんカスタムが軽量級なのに爆速すぎて1位しか取れねぇｗｗｗ【マリオカート8デラックス】#876"
         }
       ]
     },
@@ -527,6 +527,15 @@
       "siteUrl": "https://www.youtube.com/channel/UC6DM_-3aJduBoALIwkbSA-A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=yG7PFsxS9ZM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=yG7PFsxS9ZM",
+          "publishedOn": "2021-08-15T08:19:31.000Z",
+          "wordCount": null,
+          "title": "【MK8DX】野良感覚でらうんげ"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=zCjiwTH7yFg",
           "author": null,
           "description": "",
@@ -651,15 +660,6 @@
           "publishedOn": "2021-06-03T04:02:55.000Z",
           "wordCount": null,
           "title": "【MK8DX】Stv vs Project"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=XqzWLtzBvko",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=XqzWLtzBvko",
-          "publishedOn": "2021-06-03T02:00:16.000Z",
-          "wordCount": null,
-          "title": "【MK8DX】ラ・ラ・ラ・コッペパン"
         }
       ]
     },
@@ -712,15 +712,6 @@
           "publishedOn": "2021-06-22T16:49:25.000Z",
           "wordCount": null,
           "title": "ついに金マリを出す【マリオカート8DX】"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=NA7kcUPFUhM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=NA7kcUPFUhM",
-          "publishedOn": "2021-05-17T14:13:12.000Z",
-          "wordCount": null,
-          "title": "【超鬼畜企画】Gフォース～最強の蒼き閃光～　第6話【マリオカート8DX】"
         }
       ]
     },
@@ -836,24 +827,6 @@
           "publishedOn": "2021-05-20T02:51:15.000Z",
           "wordCount": null,
           "title": "一日一万回ダイスロール、感謝のヨット"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=GQr1dkWLybM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=GQr1dkWLybM",
-          "publishedOn": "2021-05-18T19:07:46.000Z",
-          "wordCount": null,
-          "title": "休日ニートタイムぺクス"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=JQoeg1GWc9Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=JQoeg1GWc9Q",
-          "publishedOn": "2021-05-18T01:34:58.000Z",
-          "wordCount": null,
-          "title": "アソビ大全がやりたいだけの男"
         }
       ]
     },
