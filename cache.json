@@ -148,6 +148,15 @@
       "siteUrl": "https://www.youtube.com/channel/UCBcxCarYR_l_Zt_Kf4yopXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=nNvBoaHxeRQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nNvBoaHxeRQ",
+          "publishedOn": "2021-08-17T22:00:13.000Z",
+          "wordCount": null,
+          "title": "【沼沼沼】マリオカートの元日本代表が生まれて初めてスプラトゥーンをするとこうなる。【スプラトゥーン2】"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ZTVXd1cPYu0",
           "author": null,
           "description": "",
@@ -272,15 +281,6 @@
           "publishedOn": "2021-08-03T22:00:31.000Z",
           "wordCount": null,
           "title": "先端さんカスタムで走ったら上位連発しまくってエグすぎたｗｗｗ【マリオカート8デラックス】#877"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=tjBZwkxsrX0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=tjBZwkxsrX0",
-          "publishedOn": "2021-08-02T22:00:12.000Z",
-          "wordCount": null,
-          "title": "【アモマリタッグフレ戦/3GP】1位なのに謎の停止！？深すぎる理由に一同驚愕…※トゲ譲りではありません。【マリオカート8デラックス】"
         }
       ]
     },
@@ -527,6 +527,15 @@
       "siteUrl": "https://www.youtube.com/channel/UC6DM_-3aJduBoALIwkbSA-A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=_5GOPiOfKiE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_5GOPiOfKiE",
+          "publishedOn": "2021-08-17T04:45:35.000Z",
+          "wordCount": null,
+          "title": "【MK8DX】新シーズン始まったらしい"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=yG7PFsxS9ZM",
           "author": null,
           "description": "",
@@ -651,15 +660,6 @@
           "publishedOn": "2021-06-05T20:53:50.000Z",
           "wordCount": null,
           "title": "【MK8DX】夕方らうんじ～"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=S3PEWImcuCk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=S3PEWImcuCk",
-          "publishedOn": "2021-06-03T04:02:55.000Z",
-          "wordCount": null,
-          "title": "【MK8DX】Stv vs Project"
         }
       ]
     },
@@ -818,15 +818,6 @@
           "publishedOn": "2021-05-22T04:04:43.000Z",
           "wordCount": null,
           "title": "CRs vs Nyn"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=NMWhjQIJQHA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=NMWhjQIJQHA",
-          "publishedOn": "2021-05-20T02:51:15.000Z",
-          "wordCount": null,
-          "title": "一日一万回ダイスロール、感謝のヨット"
         }
       ]
     },
