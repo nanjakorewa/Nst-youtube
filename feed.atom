@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-18T01:02:11.336Z</id>
+    <id>urn:2021-08-19T00:55:01.910Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-18T01:02:11.336Z</updated>
+    <updated>2021-08-19T00:55:01.910Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【MK8DX】らうんじやります！day2【Lounge】]]></title>
+        <id>https://www.youtube.com/watch?v=agaxTUQnf5E</id>
+        <link href="https://www.youtube.com/watch?v=agaxTUQnf5E"/>
+        <updated>2021-08-19T00:39:33.000Z</updated>
+        <author>
+            <name>ぴっぴGames</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【神回】撮れ高がありすぎて最高の回になりました。【マリオカート8デラックス】# 889]]></title>
+        <id>https://www.youtube.com/watch?v=Tcw6CXeMfl4</id>
+        <link href="https://www.youtube.com/watch?v=Tcw6CXeMfl4"/>
+        <updated>2021-08-18T22:00:08.000Z</updated>
+        <author>
+            <name>GzKぎぞく</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【MK8DX】らうんじやります！！【Lounge】]]></title>
+        <id>https://www.youtube.com/watch?v=7-MU_gJgwJA</id>
+        <link href="https://www.youtube.com/watch?v=7-MU_gJgwJA"/>
+        <updated>2021-08-18T02:54:41.000Z</updated>
+        <author>
+            <name>ぴっぴGames</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【マリオカート】フォーマン模擬]]></title>
+        <id>https://www.youtube.com/watch?v=b3lbr_y6Cj0</id>
+        <link href="https://www.youtube.com/watch?v=b3lbr_y6Cj0"/>
+        <updated>2021-08-18T01:06:08.000Z</updated>
+        <author>
+            <name>なんじゃ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【沼沼沼】マリオカートの元日本代表が生まれて初めてスプラトゥーンをするとこうなる。【スプラトゥーン2】]]></title>
         <id>https://www.youtube.com/watch?v=nNvBoaHxeRQ</id>
@@ -165,15 +201,6 @@
         <updated>2021-08-11T22:00:15.000Z</updated>
         <author>
             <name>GzKぎぞく</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[『ミニドラ』SP2 無償の愛（濡れても温かい）【期間限定配信】]]></title>
-        <id>https://www.youtube.com/watch?v=vlkYHLokN1k</id>
-        <link href="https://www.youtube.com/watch?v=vlkYHLokN1k"/>
-        <updated>2021-08-11T14:30:08.000Z</updated>
-        <author>
-            <name>KyoaniChannel</name>
         </author>
     </entry>
     <entry>
@@ -339,15 +366,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【マリオカート8DX交流戦】にゃんぱす交流戦 vs チームXan様]]></title>
-        <id>https://www.youtube.com/watch?v=fKV8rb-Q9Sc</id>
-        <link href="https://www.youtube.com/watch?v=fKV8rb-Q9Sc"/>
-        <updated>2021-08-06T04:19:57.000Z</updated>
-        <author>
-            <name>なんじゃ</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[たけぉさんカスタムで”ゲスプレイ”連発しまくるわｗｗｗｗｗ【マリオカート8デラックス】#878]]></title>
         <id>https://www.youtube.com/watch?v=5mG2hwt8cTc</id>
         <link href="https://www.youtube.com/watch?v=5mG2hwt8cTc"/>
@@ -381,15 +399,6 @@
         <updated>2021-08-04T01:55:51.000Z</updated>
         <author>
             <name>ぴっぴGames</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[先端さんカスタムで走ったら上位連発しまくってエグすぎたｗｗｗ【マリオカート8デラックス】#877]]></title>
-        <id>https://www.youtube.com/watch?v=sKSqQkVfEyo</id>
-        <link href="https://www.youtube.com/watch?v=sKSqQkVfEyo"/>
-        <updated>2021-08-03T22:00:31.000Z</updated>
-        <author>
-            <name>GzKぎぞく</name>
         </author>
     </entry>
     <entry>
@@ -939,6 +948,15 @@
         <updated>2021-06-05T20:53:50.000Z</updated>
         <author>
             <name>かくゆいch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TVアニメ『小林さんちのメイドラゴンＳ』PV第2弾 2021年7月7日より放送開始！]]></title>
+        <id>https://www.youtube.com/watch?v=rsZGiaTMa24</id>
+        <link href="https://www.youtube.com/watch?v=rsZGiaTMa24"/>
+        <updated>2021-06-05T09:00:31.000Z</updated>
+        <author>
+            <name>KyoaniChannel</name>
         </author>
     </entry>
     <entry>
