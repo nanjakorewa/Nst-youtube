@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-19T00:55:01.910Z</id>
+    <id>urn:2021-08-20T00:59:51.867Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-19T00:55:01.910Z</updated>
+    <updated>2021-08-20T00:59:51.867Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【MK8DX】らうんじやります！day3【Lounge】]]></title>
+        <id>https://www.youtube.com/watch?v=ZXHPpYLxP1M</id>
+        <link href="https://www.youtube.com/watch?v=ZXHPpYLxP1M"/>
+        <updated>2021-08-20T00:47:58.000Z</updated>
+        <author>
+            <name>ぴっぴGames</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[僕も人間なので悩むことが多々あります…。【マリオカート8デラックス】# 890]]></title>
+        <id>https://www.youtube.com/watch?v=liMO74h0GVw</id>
+        <link href="https://www.youtube.com/watch?v=liMO74h0GVw"/>
+        <updated>2021-08-19T22:00:13.000Z</updated>
+        <author>
+            <name>GzKぎぞく</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【マリオカート】フォーマン模擬]]></title>
+        <id>https://www.youtube.com/watch?v=Aa4qNXC2nz0</id>
+        <link href="https://www.youtube.com/watch?v=Aa4qNXC2nz0"/>
+        <updated>2021-08-19T01:06:47.000Z</updated>
+        <author>
+            <name>なんじゃ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【MK8DX】らうんじやります！day2【Lounge】]]></title>
         <id>https://www.youtube.com/watch?v=agaxTUQnf5E</id>
@@ -348,15 +375,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【マリオカート】トリプルス模擬]]></title>
-        <id>https://www.youtube.com/watch?v=EaOwKp7mN14</id>
-        <link href="https://www.youtube.com/watch?v=EaOwKp7mN14"/>
-        <updated>2021-08-07T01:15:29.000Z</updated>
-        <author>
-            <name>なんじゃ</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[スナザメさんのカスタムエッ○すぎんだろ…。【マリオカート8デラックス】#879]]></title>
         <id>https://www.youtube.com/watch?v=1sTnKPkc4p4</id>
         <link href="https://www.youtube.com/watch?v=1sTnKPkc4p4"/>
@@ -370,15 +388,6 @@
         <id>https://www.youtube.com/watch?v=5mG2hwt8cTc</id>
         <link href="https://www.youtube.com/watch?v=5mG2hwt8cTc"/>
         <updated>2021-08-05T22:00:02.000Z</updated>
-        <author>
-            <name>GzKぎぞく</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アモマリタッグフレ戦/番外編】おまけのバトルでマジで”ありえない確率”の事件が起きて爆笑が止まらねぇｗｗｗｗｗ【マリオカート8デラックス】]]></title>
-        <id>https://www.youtube.com/watch?v=dFJxQOx6Jbc</id>
-        <link href="https://www.youtube.com/watch?v=dFJxQOx6Jbc"/>
-        <updated>2021-08-04T22:00:30.000Z</updated>
         <author>
             <name>GzKぎぞく</name>
         </author>
@@ -1045,15 +1054,6 @@
         <id>https://www.youtube.com/watch?v=xJuvJ1C1ock</id>
         <link href="https://www.youtube.com/watch?v=xJuvJ1C1ock"/>
         <updated>2021-05-22T19:58:46.000Z</updated>
-        <author>
-            <name>rSL. Shake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRs vs Nyn]]></title>
-        <id>https://www.youtube.com/watch?v=7yMUK6MH5Oo</id>
-        <link href="https://www.youtube.com/watch?v=7yMUK6MH5Oo"/>
-        <updated>2021-05-22T04:04:43.000Z</updated>
         <author>
             <name>rSL. Shake</name>
         </author>
