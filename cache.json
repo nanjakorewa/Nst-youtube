@@ -148,6 +148,15 @@
       "siteUrl": "https://www.youtube.com/channel/UCBcxCarYR_l_Zt_Kf4yopXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=1Uh6egKLW6k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1Uh6egKLW6k",
+          "publishedOn": "2021-08-20T22:00:01.000Z",
+          "wordCount": null,
+          "title": "ラグで”無”を取得したら暴GENが止まりませんでした…。【マリオカート8デラックス】# 891"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=liMO74h0GVw",
           "author": null,
           "description": "",
@@ -272,15 +281,6 @@
           "publishedOn": "2021-08-06T22:00:01.000Z",
           "wordCount": null,
           "title": "スナザメさんのカスタムエッ○すぎんだろ…。【マリオカート8デラックス】#879"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5mG2hwt8cTc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5mG2hwt8cTc",
-          "publishedOn": "2021-08-05T22:00:02.000Z",
-          "wordCount": null,
-          "title": "たけぉさんカスタムで”ゲスプレイ”連発しまくるわｗｗｗｗｗ【マリオカート8デラックス】#878"
         }
       ]
     },
@@ -827,15 +827,6 @@
           "publishedOn": "2021-05-25T03:06:16.000Z",
           "wordCount": null,
           "title": "居残り学習アリーナ"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=xJuvJ1C1ock",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xJuvJ1C1ock",
-          "publishedOn": "2021-05-22T19:58:46.000Z",
-          "wordCount": null,
-          "title": "ざ"
         }
       ]
     },
@@ -850,6 +841,15 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6AX2BdCW0143n9I0fhnSDg",
       "siteUrl": "https://www.youtube.com/channel/UC6AX2BdCW0143n9I0fhnSDg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=HcuOFOmnEbs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HcuOFOmnEbs",
+          "publishedOn": "2021-08-20T01:57:16.000Z",
+          "wordCount": null,
+          "title": "【マリオカート】トリプルス模擬"
+        },
         {
           "id": "https://www.youtube.com/watch?v=Aa4qNXC2nz0",
           "author": null,
@@ -975,15 +975,6 @@
           "publishedOn": "2021-08-07T04:02:29.000Z",
           "wordCount": null,
           "title": "【マリオカート8DX交流戦】にゃんぱす交流戦 vs チームVse様"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=TcVWkMgY2dw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TcVWkMgY2dw",
-          "publishedOn": "2021-08-07T03:02:33.000Z",
-          "wordCount": null,
-          "title": "【マリオカート8DX交流戦】にゃんぱす交流戦 vs チームVI様"
         }
       ]
     },
