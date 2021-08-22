@@ -148,6 +148,15 @@
       "siteUrl": "https://www.youtube.com/channel/UCBcxCarYR_l_Zt_Kf4yopXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=2x1s6BWsxCc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2x1s6BWsxCc",
+          "publishedOn": "2021-08-21T22:00:03.000Z",
+          "wordCount": null,
+          "title": "このゲームにおいて”最も強いアイテム”『スター』を安易に使ってはいけません。【マリオカート8デラックス】# 892"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=1Uh6egKLW6k",
           "author": null,
           "description": "",
@@ -272,15 +281,6 @@
           "publishedOn": "2021-08-07T22:00:29.000Z",
           "wordCount": null,
           "title": "遂に個性を出すことに成功したとりっぴぃカスタム。【マリオカート8デラックス】#880"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1sTnKPkc4p4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1sTnKPkc4p4",
-          "publishedOn": "2021-08-06T22:00:01.000Z",
-          "wordCount": null,
-          "title": "スナザメさんのカスタムエッ○すぎんだろ…。【マリオカート8デラックス】#879"
         }
       ]
     },
@@ -510,6 +510,24 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXljuxqQUAD5bX2RB5XoWBg",
       "siteUrl": "https://www.youtube.com/channel/UCXljuxqQUAD5bX2RB5XoWBg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=YwkbBzZZeAE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YwkbBzZZeAE",
+          "publishedOn": "2021-08-21T11:44:00.000Z",
+          "wordCount": null,
+          "title": "ぢゅ"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=X3WVQ0ygi5o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=X3WVQ0ygi5o",
+          "publishedOn": "2021-08-21T09:20:01.000Z",
+          "wordCount": null,
+          "title": "にゅ～す～ぱ～ふっくが～る 心が折れるまで"
+        },
         {
           "id": "https://www.youtube.com/watch?v=lrsURKDKYj4",
           "author": null,
@@ -842,6 +860,33 @@
       "siteUrl": "https://www.youtube.com/channel/UC6AX2BdCW0143n9I0fhnSDg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ksXizCjOXCU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ksXizCjOXCU",
+          "publishedOn": "2021-08-21T04:05:23.000Z",
+          "wordCount": null,
+          "title": "【マリオカート8DX交流戦】にゃんぱす交流戦 vs チームZR様"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=XeMPjwyXNTE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XeMPjwyXNTE",
+          "publishedOn": "2021-08-21T01:34:09.000Z",
+          "wordCount": null,
+          "title": "マリオカートの野良#7"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=HHLyPJHsObE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HHLyPJHsObE",
+          "publishedOn": "2021-08-21T01:03:17.000Z",
+          "wordCount": null,
+          "title": "【マリオカート】フォーマン模擬"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=HcuOFOmnEbs",
           "author": null,
           "description": "",
@@ -948,33 +993,6 @@
           "publishedOn": "2021-08-10T03:10:12.000Z",
           "wordCount": null,
           "title": "【マリオカート8DX交流戦】にゃんぱす交流戦 vs チームSFH∞様"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=CaIckgn__6o",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=CaIckgn__6o",
-          "publishedOn": "2021-08-07T16:08:14.000Z",
-          "wordCount": null,
-          "title": "【マリオカート】トリプルス模擬"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5IXChbbe124",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5IXChbbe124",
-          "publishedOn": "2021-08-07T04:40:40.000Z",
-          "wordCount": null,
-          "title": "スカイウォードする会#4"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1suBa09lwjE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1suBa09lwjE",
-          "publishedOn": "2021-08-07T04:02:29.000Z",
-          "wordCount": null,
-          "title": "【マリオカート8DX交流戦】にゃんぱす交流戦 vs チームVse様"
         }
       ]
     },
