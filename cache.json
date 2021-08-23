@@ -148,6 +148,15 @@
       "siteUrl": "https://www.youtube.com/channel/UCBcxCarYR_l_Zt_Kf4yopXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=9K329fa5EP4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9K329fa5EP4",
+          "publishedOn": "2021-08-22T22:00:02.000Z",
+          "wordCount": null,
+          "title": "【200cc限定】”ヨッシーバレー”のショートカットはキノコ無しでも飛べ！【マリオカート8デラックス】# 893"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=2x1s6BWsxCc",
           "author": null,
           "description": "",
@@ -272,15 +281,6 @@
           "publishedOn": "2021-08-08T22:00:12.000Z",
           "wordCount": null,
           "title": "【ボム兵祭り】1位のボム兵vs2位(俺)のボム兵。地獄のホコタテ対決。【マリオカート8デラックス】#881"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=n9dfdi1-53I",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=n9dfdi1-53I",
-          "publishedOn": "2021-08-07T22:00:29.000Z",
-          "wordCount": null,
-          "title": "遂に個性を出すことに成功したとりっぴぃカスタム。【マリオカート8デラックス】#880"
         }
       ]
     },
@@ -289,6 +289,15 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0yFbble5t_9Xhow2Rn8nNw",
       "siteUrl": "https://www.youtube.com/channel/UC0yFbble5t_9Xhow2Rn8nNw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=EaiLbOCnqW0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=EaiLbOCnqW0",
+          "publishedOn": "2021-08-23T00:40:55.000Z",
+          "wordCount": null,
+          "title": "新・みりんクラフト#1"
+        },
         {
           "id": "https://www.youtube.com/watch?v=uqgFIRLQ8mo",
           "author": null,
@@ -836,15 +845,6 @@
           "publishedOn": "2021-05-26T02:43:30.000Z",
           "wordCount": null,
           "title": "ごめんなさい男"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6837CVrUU_4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6837CVrUU_4",
-          "publishedOn": "2021-05-25T03:06:16.000Z",
-          "wordCount": null,
-          "title": "居残り学習アリーナ"
         }
       ]
     },
@@ -859,6 +859,24 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6AX2BdCW0143n9I0fhnSDg",
       "siteUrl": "https://www.youtube.com/channel/UC6AX2BdCW0143n9I0fhnSDg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=o-fOnv0Yj0s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=o-fOnv0Yj0s",
+          "publishedOn": "2021-08-22T03:55:23.000Z",
+          "wordCount": null,
+          "title": "【マリオカート8DX交流戦】にゃんぱす交流戦 vs チームαX様"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=j27cmyQiBlM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=j27cmyQiBlM",
+          "publishedOn": "2021-08-22T02:56:24.000Z",
+          "wordCount": null,
+          "title": "【マリオカート8DX交流戦】にゃんぱす交流戦 vs チームLk様"
+        },
         {
           "id": "https://www.youtube.com/watch?v=ksXizCjOXCU",
           "author": null,
@@ -975,24 +993,6 @@
           "publishedOn": "2021-08-10T05:16:26.000Z",
           "wordCount": null,
           "title": "にゃんぱす大富豪"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=XZ5zeHBFzqc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=XZ5zeHBFzqc",
-          "publishedOn": "2021-08-10T04:04:18.000Z",
-          "wordCount": null,
-          "title": "【マリオカート8DX交流戦】にゃんぱす交流戦 vs 海外チームJPP様"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=f4Zsj5el8rA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=f4Zsj5el8rA",
-          "publishedOn": "2021-08-10T03:10:12.000Z",
-          "wordCount": null,
-          "title": "【マリオカート8DX交流戦】にゃんぱす交流戦 vs チームSFH∞様"
         }
       ]
     },
