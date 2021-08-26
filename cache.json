@@ -148,6 +148,15 @@
       "siteUrl": "https://www.youtube.com/channel/UCBcxCarYR_l_Zt_Kf4yopXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=zLIFLlsQQrc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zLIFLlsQQrc",
+          "publishedOn": "2021-08-25T22:00:16.000Z",
+          "wordCount": null,
+          "title": "自らサンダーを打った数秒後にサンダー回避した神展開が面白すぎたｗｗｗ【マリオカート8デラックス】# 896"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=EjbilSucTPs",
           "author": null,
           "description": "",
@@ -272,15 +281,6 @@
           "publishedOn": "2021-08-11T22:00:15.000Z",
           "wordCount": null,
           "title": "【理不尽】不可解な被弾を繰り返しすぎてこのゲームの引退を決意しました。【マリオカート8デラックス】#883"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=LaB6a1mGNqE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=LaB6a1mGNqE",
-          "publishedOn": "2021-08-10T22:00:08.000Z",
-          "wordCount": null,
-          "title": "【負けたら食虫】コハロン&ぽんPと罰ゲームありでガチマリオカート対決したら面白すぎたｗｗｗｗｗ【マリオカート8デラックス】"
         }
       ]
     },
@@ -431,6 +431,15 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwVYn-Gayu_4vJbJSk5t9hg",
       "siteUrl": "https://www.youtube.com/channel/UCwVYn-Gayu_4vJbJSk5t9hg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=NWBauAr6hvA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=NWBauAr6hvA",
+          "publishedOn": "2021-08-25T02:08:54.000Z",
+          "wordCount": null,
+          "title": "【MK8DX】らうんじやります！day4【Lounge】"
+        },
         {
           "id": "https://www.youtube.com/watch?v=ZXHPpYLxP1M",
           "author": null,
@@ -818,15 +827,6 @@
           "publishedOn": "2021-06-01T22:25:01.000Z",
           "wordCount": null,
           "title": "【NKO DICE】OCHINCHINを出す男【おちんちん】"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=j6kysJqT6q8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=j6kysJqT6q8",
-          "publishedOn": "2021-05-28T01:46:36.000Z",
-          "wordCount": null,
-          "title": "【MH Rise】エンディングを見に行ってバルファルクを狩る【初見狩り】"
         }
       ]
     },
@@ -984,6 +984,15 @@
       "siteUrl": "https://www.youtube.com/channel/UCpGY2vcoKXf7K6tFzsbSv7w",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=J5xtbQi6c_0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=J5xtbQi6c_0",
+          "publishedOn": "2021-08-25T09:32:22.000Z",
+          "wordCount": null,
+          "title": "『劇場版 Free!-the Final Stroke-』 前編 予告"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=YU_EKBDYm5w",
           "author": null,
           "description": "",
@@ -1108,15 +1117,6 @@
           "publishedOn": "2021-06-25T08:01:25.000Z",
           "wordCount": null,
           "title": "『劇場版 ヴァイオレット・エヴァーガーデン』公式ファンブック 好評販売中CM（ヴァイオレット ナレーションver.）"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=rsZGiaTMa24",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=rsZGiaTMa24",
-          "publishedOn": "2021-06-05T09:00:31.000Z",
-          "wordCount": null,
-          "title": "TVアニメ『小林さんちのメイドラゴンＳ』PV第2弾 2021年7月7日より放送開始！"
         }
       ]
     }
