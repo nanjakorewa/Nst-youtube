@@ -148,6 +148,15 @@
       "siteUrl": "https://www.youtube.com/channel/UCBcxCarYR_l_Zt_Kf4yopXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=3s6NgN2Tszc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3s6NgN2Tszc",
+          "publishedOn": "2021-08-26T22:00:01.000Z",
+          "wordCount": null,
+          "title": "【軽量級】ワルイージ軍団にヘイホーが1位を取る”最高の瞬間”をお届けします。【マリオカート8デラックス】# 897"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=zLIFLlsQQrc",
           "author": null,
           "description": "",
@@ -272,15 +281,6 @@
           "publishedOn": "2021-08-12T22:00:02.000Z",
           "wordCount": null,
           "title": "攻撃アイテムが飛び交うストレスMAX部屋での勝ち方、教えます。【マリオカート8デラックス】#884"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=k-NsaleDVaE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=k-NsaleDVaE",
-          "publishedOn": "2021-08-11T22:00:15.000Z",
-          "wordCount": null,
-          "title": "【理不尽】不可解な被弾を繰り返しすぎてこのゲームの引退を決意しました。【マリオカート8デラックス】#883"
         }
       ]
     },
@@ -528,6 +528,15 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXljuxqQUAD5bX2RB5XoWBg",
       "siteUrl": "https://www.youtube.com/channel/UCXljuxqQUAD5bX2RB5XoWBg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=3PpVj02Sk2E",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3PpVj02Sk2E",
+          "publishedOn": "2021-08-26T13:28:55.000Z",
+          "wordCount": null,
+          "title": "感謝のにゅ～す～ぱ～ふっくが～る"
+        },
         {
           "id": "https://www.youtube.com/watch?v=YwkbBzZZeAE",
           "author": null,
@@ -842,15 +851,6 @@
       "siteUrl": "https://www.youtube.com/channel/UC6AX2BdCW0143n9I0fhnSDg",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=aJiF50t_iQI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=aJiF50t_iQI",
-          "publishedOn": "2021-08-24T23:28:41.000Z",
-          "wordCount": null,
-          "title": "マリオカート練習"
-        },
-        {
           "id": "https://www.youtube.com/watch?v=o-fOnv0Yj0s",
           "author": null,
           "description": "",
@@ -988,7 +988,7 @@
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=J5xtbQi6c_0",
-          "publishedOn": "2021-08-25T09:32:22.000Z",
+          "publishedOn": "2021-08-26T11:00:11.000Z",
           "wordCount": null,
           "title": "『劇場版 Free!-the Final Stroke-』 前編 予告"
         },
