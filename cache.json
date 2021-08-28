@@ -148,6 +148,15 @@
       "siteUrl": "https://www.youtube.com/channel/UCBcxCarYR_l_Zt_Kf4yopXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=AZ4ZKR_EVM0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=AZ4ZKR_EVM0",
+          "publishedOn": "2021-08-27T22:00:03.000Z",
+          "wordCount": null,
+          "title": "走力で圧倒的な差を見せるがサンダーに全ての計算を狂わされ終了…したと思いきや、驚異の粘り強さがヤバすぎたｗｗｗ【マリオカート8デラックス】# 898"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=3s6NgN2Tszc",
           "author": null,
           "description": "",
@@ -272,15 +281,6 @@
           "publishedOn": "2021-08-13T22:00:25.000Z",
           "wordCount": null,
           "title": "【神回避】3周目のスターの使い方、これがマジで重要なんです。【マリオカート8デラックス】#885"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6oMmBLbCmBE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6oMmBLbCmBE",
-          "publishedOn": "2021-08-12T22:00:02.000Z",
-          "wordCount": null,
-          "title": "攻撃アイテムが飛び交うストレスMAX部屋での勝ち方、教えます。【マリオカート8デラックス】#884"
         }
       ]
     },
@@ -431,6 +431,15 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwVYn-Gayu_4vJbJSk5t9hg",
       "siteUrl": "https://www.youtube.com/channel/UCwVYn-Gayu_4vJbJSk5t9hg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=YNARMbGRpgs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YNARMbGRpgs",
+          "publishedOn": "2021-08-27T01:53:40.000Z",
+          "wordCount": null,
+          "title": "【MK8DX】らうんじやります！day5【Lounge】"
+        },
         {
           "id": "https://www.youtube.com/watch?v=NWBauAr6hvA",
           "author": null,
