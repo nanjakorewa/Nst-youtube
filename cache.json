@@ -148,6 +148,15 @@
       "siteUrl": "https://www.youtube.com/channel/UCBcxCarYR_l_Zt_Kf4yopXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ktwxl8DHD4E",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ktwxl8DHD4E",
+          "publishedOn": "2021-08-30T22:00:14.000Z",
+          "wordCount": null,
+          "title": "【検証】”ぎぞく(ほんもの)”で走ると被弾が増えるのか調査してみた。【マリオカート8デラックス】# 901"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=YtpPJ__i0bI",
           "author": null,
           "description": "",
@@ -272,15 +281,6 @@
           "publishedOn": "2021-08-16T22:00:11.000Z",
           "wordCount": null,
           "title": "【なぜ？】凡人の僕には全く理解できない現象に遭遇しました。【マリオカート8デラックス】# 888"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=95Ga-aH0Eg4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=95Ga-aH0Eg4",
-          "publishedOn": "2021-08-15T22:00:02.000Z",
-          "wordCount": null,
-          "title": "”ぎぞくキッズ”とマッチングしたからボコボコにしてきます＾＾【マリオカート8デラックス】#  887"
         }
       ]
     },
@@ -836,33 +836,6 @@
           "publishedOn": "2021-06-05T03:37:39.000Z",
           "wordCount": null,
           "title": "CRs vs Rc"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=d791PMzvWg4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=d791PMzvWg4",
-          "publishedOn": "2021-06-02T10:25:22.000Z",
-          "wordCount": null,
-          "title": "【NKO DICE】どうしても朝からOCHINCHINを見せたい男"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6fIDGHDJ0h0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6fIDGHDJ0h0",
-          "publishedOn": "2021-06-02T03:05:39.000Z",
-          "wordCount": null,
-          "title": "【NKO DICE】「お」「ち」「ん」「ち」「ん」を出したい男【ド直球下ネタ注意】"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=A4KZTarGmnQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=A4KZTarGmnQ",
-          "publishedOn": "2021-06-01T22:25:01.000Z",
-          "wordCount": null,
-          "title": "【NKO DICE】OCHINCHINを出す男【おちんちん】"
         }
       ]
     },
