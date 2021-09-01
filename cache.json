@@ -148,6 +148,24 @@
       "siteUrl": "https://www.youtube.com/channel/UCBcxCarYR_l_Zt_Kf4yopXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=pNOgtB0dBGA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pNOgtB0dBGA",
+          "publishedOn": "2021-08-31T22:00:15.000Z",
+          "wordCount": null,
+          "title": "今後の方針についてお話させてください。【マリオカート8デラックス】# 902"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=q-AnDkTLsmw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=q-AnDkTLsmw",
+          "publishedOn": "2021-08-31T09:00:12.000Z",
+          "wordCount": null,
+          "title": "【検証】結局”前張り”と”打開”はどっちが強いの？サワと直接対決で検証してみた結果ｗｗｗ【マリオカート8デラックス】"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ktwxl8DHD4E",
           "author": null,
           "description": "",
@@ -263,24 +281,6 @@
           "publishedOn": "2021-08-18T22:00:08.000Z",
           "wordCount": null,
           "title": "【神回】撮れ高がありすぎて最高の回になりました。【マリオカート8デラックス】# 889"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=nNvBoaHxeRQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=nNvBoaHxeRQ",
-          "publishedOn": "2021-08-17T22:00:13.000Z",
-          "wordCount": null,
-          "title": "【沼沼沼】マリオカートの元日本代表が生まれて初めてスプラトゥーンをするとこうなる。【スプラトゥーン2】"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ZTVXd1cPYu0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ZTVXd1cPYu0",
-          "publishedOn": "2021-08-16T22:00:11.000Z",
-          "wordCount": null,
-          "title": "【なぜ？】凡人の僕には全く理解できない現象に遭遇しました。【マリオカート8デラックス】# 888"
         }
       ]
     },
@@ -617,6 +617,15 @@
       "siteUrl": "https://www.youtube.com/channel/UC6DM_-3aJduBoALIwkbSA-A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=QoF5ggoVJDE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QoF5ggoVJDE",
+          "publishedOn": "2021-08-31T02:55:10.000Z",
+          "wordCount": null,
+          "title": "【ポケモン剣盾】のんびりポケモン part1"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=_5GOPiOfKiE",
           "author": null,
           "description": "",
@@ -741,15 +750,6 @@
           "publishedOn": "2021-06-07T01:12:44.000Z",
           "wordCount": null,
           "title": "【MK8DX】本日のら・うんじ～"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=h00q7UPcWl0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=h00q7UPcWl0",
-          "publishedOn": "2021-06-05T20:53:50.000Z",
-          "wordCount": null,
-          "title": "【MK8DX】夕方らうんじ～"
         }
       ]
     },
@@ -850,6 +850,15 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6AX2BdCW0143n9I0fhnSDg",
       "siteUrl": "https://www.youtube.com/channel/UC6AX2BdCW0143n9I0fhnSDg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=O8bFQTb5Yw0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=O8bFQTb5Yw0",
+          "publishedOn": "2021-09-01T01:02:22.000Z",
+          "wordCount": null,
+          "title": "【マリオカート】トリプルス模擬"
+        },
         {
           "id": "https://www.youtube.com/watch?v=cg_ctKL-yK8",
           "author": null,
@@ -966,15 +975,6 @@
           "publishedOn": "2021-08-13T02:05:14.000Z",
           "wordCount": null,
           "title": "【マリオカート8DX交流戦】にゃんぱす交流戦 vs チームCaf様"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=2fwcMKX8YWU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=2fwcMKX8YWU",
-          "publishedOn": "2021-08-12T03:07:40.000Z",
-          "wordCount": null,
-          "title": "【マリオカート8DX交流戦】にゃんぱす交流戦 vs チームAmb様"
         }
       ]
     },
