@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-01T01:09:06.061Z</id>
+    <id>urn:2021-09-02T01:02:53.244Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-01T01:09:06.061Z</updated>
+    <updated>2021-09-02T01:02:53.244Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【驚愕】俺が速すぎて、自分で投げた赤甲羅の前に出たんだがｗｗｗ【マリオカート8デラックス】# 903]]></title>
+        <id>https://www.youtube.com/watch?v=yp9kbDbZx-Q</id>
+        <link href="https://www.youtube.com/watch?v=yp9kbDbZx-Q"/>
+        <updated>2021-09-01T22:00:32.000Z</updated>
+        <author>
+            <name>GzKぎぞく</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【京アニショップ！】『小林さんちのメイドラゴン』シリーズ 公式ファンブック 予約受付中CM]]></title>
+        <id>https://www.youtube.com/watch?v=Ruln4g7bFPg</id>
+        <link href="https://www.youtube.com/watch?v=Ruln4g7bFPg"/>
+        <updated>2021-09-01T08:00:16.000Z</updated>
+        <author>
+            <name>KyoaniChannel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第5回京都アニメーションファン感謝イベント 「KYOANI MUSIC FESTIVAL ―感動を未来へ―」 最終出演アーティスト発表CM]]></title>
+        <id>https://www.youtube.com/watch?v=l5ZnZjpQLsM</id>
+        <link href="https://www.youtube.com/watch?v=l5ZnZjpQLsM"/>
+        <updated>2021-09-01T08:00:11.000Z</updated>
+        <author>
+            <name>KyoaniChannel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ポケモン剣盾】のんびりポケモン part2]]></title>
+        <id>https://www.youtube.com/watch?v=9NeYiEEoMVo</id>
+        <link href="https://www.youtube.com/watch?v=9NeYiEEoMVo"/>
+        <updated>2021-09-01T02:07:22.000Z</updated>
+        <author>
+            <name>かくゆいch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【マリオカート】トリプルス模擬]]></title>
         <id>https://www.youtube.com/watch?v=O8bFQTb5Yw0</id>
@@ -384,15 +420,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【神回】撮れ高がありすぎて最高の回になりました。【マリオカート8デラックス】# 889]]></title>
-        <id>https://www.youtube.com/watch?v=Tcw6CXeMfl4</id>
-        <link href="https://www.youtube.com/watch?v=Tcw6CXeMfl4"/>
-        <updated>2021-08-18T22:00:08.000Z</updated>
-        <author>
-            <name>GzKぎぞく</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【MK8DX】らうんじやります！！【Lounge】]]></title>
         <id>https://www.youtube.com/watch?v=7-MU_gJgwJA</id>
         <link href="https://www.youtube.com/watch?v=7-MU_gJgwJA"/>
@@ -624,15 +651,6 @@
         <updated>2021-07-27T13:37:06.000Z</updated>
         <author>
             <name>くそきもす</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第5回京都アニメーションファン感謝イベント 「KYOANI MUSIC FESTIVAL ―感動を未来へ―」 出演アーティスト第1弾発表CM]]></title>
-        <id>https://www.youtube.com/watch?v=JLV184Vdrzw</id>
-        <link href="https://www.youtube.com/watch?v=JLV184Vdrzw"/>
-        <updated>2021-07-27T09:00:13.000Z</updated>
-        <author>
-            <name>KyoaniChannel</name>
         </author>
     </entry>
     <entry>
@@ -951,15 +969,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[『劇場版 ヴァイオレット・エヴァーガーデン』公式ファンブック 好評販売中CM（ヴァイオレット ナレーションver.）]]></title>
-        <id>https://www.youtube.com/watch?v=a_ZQA3oBCO4</id>
-        <link href="https://www.youtube.com/watch?v=a_ZQA3oBCO4"/>
-        <updated>2021-06-25T08:01:25.000Z</updated>
-        <author>
-            <name>KyoaniChannel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【MK8DX】らうんげ]]></title>
         <id>https://www.youtube.com/watch?v=5Q5lmY5SlcY</id>
         <link href="https://www.youtube.com/watch?v=5Q5lmY5SlcY"/>
@@ -1027,15 +1036,6 @@
         <id>https://www.youtube.com/watch?v=Zq_yIYSNvPg</id>
         <link href="https://www.youtube.com/watch?v=Zq_yIYSNvPg"/>
         <updated>2021-06-10T04:21:44.000Z</updated>
-        <author>
-            <name>かくゆいch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【MK8DX】本日のら・うんじ～]]></title>
-        <id>https://www.youtube.com/watch?v=HuxWwUiAekE</id>
-        <link href="https://www.youtube.com/watch?v=HuxWwUiAekE"/>
-        <updated>2021-06-07T01:12:44.000Z</updated>
         <author>
             <name>かくゆいch</name>
         </author>
