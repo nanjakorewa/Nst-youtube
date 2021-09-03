@@ -148,6 +148,15 @@
       "siteUrl": "https://www.youtube.com/channel/UCBcxCarYR_l_Zt_Kf4yopXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=vi7ad8w7AxI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vi7ad8w7AxI",
+          "publishedOn": "2021-09-02T22:00:20.000Z",
+          "wordCount": null,
+          "title": "【は？】キノピオハーバーで乗車拒否の被害に遭ったので訴えてきます。【マリオカート8デラックス】# 904"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=yp9kbDbZx-Q",
           "author": null,
           "description": "",
@@ -272,15 +281,6 @@
           "publishedOn": "2021-08-20T22:00:01.000Z",
           "wordCount": null,
           "title": "ラグで”無”を取得したら暴GENが止まりませんでした…。【マリオカート8デラックス】# 891"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=liMO74h0GVw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=liMO74h0GVw",
-          "publishedOn": "2021-08-19T22:00:13.000Z",
-          "wordCount": null,
-          "title": "僕も人間なので悩むことが多々あります…。【マリオカート8デラックス】# 890"
         }
       ]
     },
@@ -827,15 +827,6 @@
           "publishedOn": "2021-06-13T01:13:25.000Z",
           "wordCount": null,
           "title": "Nst vs zzZ 　今までありがとう編"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=2aDkIozhIFM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=2aDkIozhIFM",
-          "publishedOn": "2021-06-05T03:37:39.000Z",
-          "wordCount": null,
-          "title": "CRs vs Rc"
         }
       ]
     },
