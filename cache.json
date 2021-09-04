@@ -148,6 +148,15 @@
       "siteUrl": "https://www.youtube.com/channel/UCBcxCarYR_l_Zt_Kf4yopXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=tz4ixtHrq90",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=tz4ixtHrq90",
+          "publishedOn": "2021-09-03T22:00:31.000Z",
+          "wordCount": null,
+          "title": "無敵アイテム無しで1位サンダー回避を決めたレースが神すぎたｗｗｗ【マリオカート8デラックス】# 905"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=vi7ad8w7AxI",
           "author": null,
           "description": "",
@@ -272,15 +281,6 @@
           "publishedOn": "2021-08-21T22:00:03.000Z",
           "wordCount": null,
           "title": "このゲームにおいて”最も強いアイテム”『スター』を安易に使ってはいけません。【マリオカート8デラックス】# 892"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1Uh6egKLW6k",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1Uh6egKLW6k",
-          "publishedOn": "2021-08-20T22:00:01.000Z",
-          "wordCount": null,
-          "title": "ラグで”無”を取得したら暴GENが止まりませんでした…。【マリオカート8デラックス】# 891"
         }
       ]
     },
@@ -289,6 +289,15 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0yFbble5t_9Xhow2Rn8nNw",
       "siteUrl": "https://www.youtube.com/channel/UC0yFbble5t_9Xhow2Rn8nNw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=eVgF2VXcjuA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=eVgF2VXcjuA",
+          "publishedOn": "2021-09-03T16:32:32.000Z",
+          "wordCount": null,
+          "title": "新・みりんクラフト#5"
+        },
         {
           "id": "https://www.youtube.com/watch?v=YsSuYN19rVo",
           "author": null,
@@ -414,15 +423,6 @@
           "publishedOn": "2021-06-27T23:09:07.000Z",
           "wordCount": null,
           "title": "テスト配信　音はどう？"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=yxkEwRiov64",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=yxkEwRiov64",
-          "publishedOn": "2021-06-27T09:46:26.000Z",
-          "wordCount": null,
-          "title": "テスト配信　まりおかーと"
         }
       ]
     },
@@ -617,6 +617,15 @@
       "siteUrl": "https://www.youtube.com/channel/UC6DM_-3aJduBoALIwkbSA-A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=g234NzsKmjE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=g234NzsKmjE",
+          "publishedOn": "2021-09-03T02:37:44.000Z",
+          "wordCount": null,
+          "title": "【ポケモン剣盾】のんびりポケモン part3"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=9NeYiEEoMVo",
           "author": null,
           "description": "",
@@ -741,15 +750,6 @@
           "publishedOn": "2021-06-14T04:03:15.000Z",
           "wordCount": null,
           "title": "【MK8DX】魂のゴールドチャレンジ"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Zq_yIYSNvPg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Zq_yIYSNvPg",
-          "publishedOn": "2021-06-10T04:21:44.000Z",
-          "wordCount": null,
-          "title": "【MK8DX】深夜のら・うんじ～"
         }
       ]
     },
