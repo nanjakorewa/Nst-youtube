@@ -148,6 +148,15 @@
       "siteUrl": "https://www.youtube.com/channel/UCBcxCarYR_l_Zt_Kf4yopXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=c4igMcfewq8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=c4igMcfewq8",
+          "publishedOn": "2021-09-04T22:00:09.000Z",
+          "wordCount": null,
+          "title": "元タイムアタック世界一のコースでサンダー回避したら独走しすぎて笑いが止まらねぇｗｗｗ【マリオカート8デラックス】# 906"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=tz4ixtHrq90",
           "author": null,
           "description": "",
@@ -272,15 +281,6 @@
           "publishedOn": "2021-08-22T22:00:02.000Z",
           "wordCount": null,
           "title": "【200cc限定】”ヨッシーバレー”のショートカットはキノコ無しでも飛べ！【マリオカート8デラックス】# 893"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=2x1s6BWsxCc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=2x1s6BWsxCc",
-          "publishedOn": "2021-08-21T22:00:03.000Z",
-          "wordCount": null,
-          "title": "このゲームにおいて”最も強いアイテム”『スター』を安易に使ってはいけません。【マリオカート8デラックス】# 892"
         }
       ]
     },
@@ -759,6 +759,15 @@
       "siteUrl": "https://www.youtube.com/channel/UCeuzhpMmJCcFL3HoD92sALA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=aAKdpgVEy-k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=aAKdpgVEy-k",
+          "publishedOn": "2021-09-04T20:52:56.000Z",
+          "wordCount": null,
+          "title": "アナザーゴッドハーデスでGOD引くまで終われない【サミタ】"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=B9uqeYD9Nqw",
           "author": null,
           "description": "",
@@ -841,6 +850,15 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6AX2BdCW0143n9I0fhnSDg",
       "siteUrl": "https://www.youtube.com/channel/UC6AX2BdCW0143n9I0fhnSDg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=GCaGUlA9lkU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GCaGUlA9lkU",
+          "publishedOn": "2021-09-04T02:04:09.000Z",
+          "wordCount": null,
+          "title": "【マリオカート8DX交流戦】にゃんぱす交流戦 vs チームzaru様"
+        },
         {
           "id": "https://www.youtube.com/watch?v=O8bFQTb5Yw0",
           "author": null,
@@ -957,15 +975,6 @@
           "publishedOn": "2021-08-13T03:01:17.000Z",
           "wordCount": null,
           "title": "【マリオカート8DX交流戦】にゃんぱす交流戦 vs チームetoile様"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=bkiL9UuJids",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=bkiL9UuJids",
-          "publishedOn": "2021-08-13T02:05:14.000Z",
-          "wordCount": null,
-          "title": "【マリオカート8DX交流戦】にゃんぱす交流戦 vs チームCaf様"
         }
       ]
     },
