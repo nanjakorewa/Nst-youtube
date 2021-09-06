@@ -148,6 +148,15 @@
       "siteUrl": "https://www.youtube.com/channel/UCBcxCarYR_l_Zt_Kf4yopXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=acH46VQlo_g",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=acH46VQlo_g",
+          "publishedOn": "2021-09-05T22:00:02.000Z",
+          "wordCount": null,
+          "title": "人間卒業レベルの”超ロングキラー”で全員ごぼう抜きにしたのが気持ち良すぎた。【マリオカート8デラックス】# 907"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=c4igMcfewq8",
           "author": null,
           "description": "",
@@ -272,15 +281,6 @@
           "publishedOn": "2021-08-23T22:00:15.000Z",
           "wordCount": null,
           "title": "絶体絶命の危機を乗り越えた瞬間。あなたは奇跡の目撃者となる。【マリオカート8デラックス】# 894"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=9K329fa5EP4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=9K329fa5EP4",
-          "publishedOn": "2021-08-22T22:00:02.000Z",
-          "wordCount": null,
-          "title": "【200cc限定】”ヨッシーバレー”のショートカットはキノコ無しでも飛べ！【マリオカート8デラックス】# 893"
         }
       ]
     },
@@ -851,6 +851,24 @@
       "siteUrl": "https://www.youtube.com/channel/UC6AX2BdCW0143n9I0fhnSDg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=CNEm8wLJe3Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CNEm8wLJe3Q",
+          "publishedOn": "2021-09-06T00:59:36.000Z",
+          "wordCount": null,
+          "title": "【マリオカート8DX交流戦】にゃんぱす交流戦"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=jZjP0E7LPiY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jZjP0E7LPiY",
+          "publishedOn": "2021-09-05T02:08:42.000Z",
+          "wordCount": null,
+          "title": "【マリオカート8DX交流戦】にゃんぱす交流戦 vs チームaristole様"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=GCaGUlA9lkU",
           "author": null,
           "description": "",
@@ -957,24 +975,6 @@
           "publishedOn": "2021-08-19T01:06:47.000Z",
           "wordCount": null,
           "title": "【マリオカート】フォーマン模擬"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=b3lbr_y6Cj0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=b3lbr_y6Cj0",
-          "publishedOn": "2021-08-18T01:06:08.000Z",
-          "wordCount": null,
-          "title": "【マリオカート】フォーマン模擬"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=TP1yQPrtAvo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TP1yQPrtAvo",
-          "publishedOn": "2021-08-13T03:01:17.000Z",
-          "wordCount": null,
-          "title": "【マリオカート8DX交流戦】にゃんぱす交流戦 vs チームetoile様"
         }
       ]
     },
