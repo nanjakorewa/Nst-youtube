@@ -148,6 +148,15 @@
       "siteUrl": "https://www.youtube.com/channel/UCBcxCarYR_l_Zt_Kf4yopXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Fw4H7KthLdY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Fw4H7KthLdY",
+          "publishedOn": "2021-09-06T22:00:13.000Z",
+          "wordCount": null,
+          "title": "誰も知らない”大砲ルート”を救いたい。【マリオカート8デラックス】# 908"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=acH46VQlo_g",
           "author": null,
           "description": "",
@@ -272,15 +281,6 @@
           "publishedOn": "2021-08-24T22:00:09.000Z",
           "wordCount": null,
           "title": "初手でいきなり1位に出たら俺が速すぎて後ろから誰もついてこなくなりました。【マリオカート8デラックス】# 895"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=iqz6bGpys-c",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=iqz6bGpys-c",
-          "publishedOn": "2021-08-23T22:00:15.000Z",
-          "wordCount": null,
-          "title": "絶体絶命の危機を乗り越えた瞬間。あなたは奇跡の目撃者となる。【マリオカート8デラックス】# 894"
         }
       ]
     },
