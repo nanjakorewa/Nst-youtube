@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-07T01:00:58.731Z</id>
+    <id>urn:2021-09-08T01:01:41.693Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-07T01:00:58.731Z</updated>
+    <updated>2021-09-08T01:01:41.693Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[宇宙人にしか理解できない”0.01秒でサンダー回避”を決めた判断力。【マリオカート8デラックス】# 909]]></title>
+        <id>https://www.youtube.com/watch?v=VGeVIt5yZ9A</id>
+        <link href="https://www.youtube.com/watch?v=VGeVIt5yZ9A"/>
+        <updated>2021-09-07T22:00:29.000Z</updated>
+        <author>
+            <name>GzKぎぞく</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[にゅ～す～ぱ～ふっくが～る]]></title>
+        <id>https://www.youtube.com/watch?v=3Sc04S-5aII</id>
+        <link href="https://www.youtube.com/watch?v=3Sc04S-5aII"/>
+        <updated>2021-09-07T10:57:33.000Z</updated>
+        <author>
+            <name>Zk garnet</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【マリオカート8DX交流戦】にゃんぱす交流戦 vs noir様]]></title>
+        <id>https://www.youtube.com/watch?v=knua10Vx_jo</id>
+        <link href="https://www.youtube.com/watch?v=knua10Vx_jo"/>
+        <updated>2021-09-07T03:00:40.000Z</updated>
+        <author>
+            <name>なんじゃ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【マリオカート8DX交流戦】にゃんぱす交流戦 vs FtS様]]></title>
+        <id>https://www.youtube.com/watch?v=iOAQqLQTzzQ</id>
+        <link href="https://www.youtube.com/watch?v=iOAQqLQTzzQ"/>
+        <updated>2021-09-07T01:05:26.000Z</updated>
+        <author>
+            <name>なんじゃ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[誰も知らない”大砲ルート”を救いたい。【マリオカート8デラックス】# 908]]></title>
         <id>https://www.youtube.com/watch?v=Fw4H7KthLdY</id>
@@ -348,15 +384,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[初手でいきなり1位に出たら俺が速すぎて後ろから誰もついてこなくなりました。【マリオカート8デラックス】# 895]]></title>
-        <id>https://www.youtube.com/watch?v=EjbilSucTPs</id>
-        <link href="https://www.youtube.com/watch?v=EjbilSucTPs"/>
-        <updated>2021-08-24T22:00:09.000Z</updated>
-        <author>
-            <name>GzKぎぞく</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[新・みりんクラフト#2]]></title>
         <id>https://www.youtube.com/watch?v=vfIzYe4rsZg</id>
         <link href="https://www.youtube.com/watch?v=vfIzYe4rsZg"/>
@@ -438,30 +465,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【マリオカート】トリプルス模擬]]></title>
-        <id>https://www.youtube.com/watch?v=HcuOFOmnEbs</id>
-        <link href="https://www.youtube.com/watch?v=HcuOFOmnEbs"/>
-        <updated>2021-08-20T01:57:16.000Z</updated>
-        <author>
-            <name>なんじゃ</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【MK8DX】らうんじやります！day3【Lounge】]]></title>
         <id>https://www.youtube.com/watch?v=ZXHPpYLxP1M</id>
         <link href="https://www.youtube.com/watch?v=ZXHPpYLxP1M"/>
         <updated>2021-08-20T00:47:58.000Z</updated>
         <author>
             <name>ぴっぴGames</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【マリオカート】フォーマン模擬]]></title>
-        <id>https://www.youtube.com/watch?v=Aa4qNXC2nz0</id>
-        <link href="https://www.youtube.com/watch?v=Aa4qNXC2nz0"/>
-        <updated>2021-08-19T01:06:47.000Z</updated>
-        <author>
-            <name>なんじゃ</name>
         </author>
     </entry>
     <entry>

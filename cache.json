@@ -148,6 +148,15 @@
       "siteUrl": "https://www.youtube.com/channel/UCBcxCarYR_l_Zt_Kf4yopXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=VGeVIt5yZ9A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VGeVIt5yZ9A",
+          "publishedOn": "2021-09-07T22:00:29.000Z",
+          "wordCount": null,
+          "title": "宇宙人にしか理解できない”0.01秒でサンダー回避”を決めた判断力。【マリオカート8デラックス】# 909"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Fw4H7KthLdY",
           "author": null,
           "description": "",
@@ -272,15 +281,6 @@
           "publishedOn": "2021-08-25T22:00:16.000Z",
           "wordCount": null,
           "title": "自らサンダーを打った数秒後にサンダー回避した神展開が面白すぎたｗｗｗ【マリオカート8デラックス】# 896"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=EjbilSucTPs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=EjbilSucTPs",
-          "publishedOn": "2021-08-24T22:00:09.000Z",
-          "wordCount": null,
-          "title": "初手でいきなり1位に出たら俺が速すぎて後ろから誰もついてこなくなりました。【マリオカート8デラックス】# 895"
         }
       ]
     },
@@ -537,6 +537,15 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXljuxqQUAD5bX2RB5XoWBg",
       "siteUrl": "https://www.youtube.com/channel/UCXljuxqQUAD5bX2RB5XoWBg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=3Sc04S-5aII",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3Sc04S-5aII",
+          "publishedOn": "2021-09-07T10:57:33.000Z",
+          "wordCount": null,
+          "title": "にゅ～す～ぱ～ふっくが～る"
+        },
         {
           "id": "https://www.youtube.com/watch?v=MsvUSYIRrUo",
           "author": null,
@@ -851,6 +860,24 @@
       "siteUrl": "https://www.youtube.com/channel/UC6AX2BdCW0143n9I0fhnSDg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=knua10Vx_jo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=knua10Vx_jo",
+          "publishedOn": "2021-09-07T03:00:40.000Z",
+          "wordCount": null,
+          "title": "【マリオカート8DX交流戦】にゃんぱす交流戦 vs noir様"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=iOAQqLQTzzQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=iOAQqLQTzzQ",
+          "publishedOn": "2021-09-07T01:05:26.000Z",
+          "wordCount": null,
+          "title": "【マリオカート8DX交流戦】にゃんぱす交流戦 vs FtS様"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=CNEm8wLJe3Q",
           "author": null,
           "description": "",
@@ -955,24 +982,6 @@
           "description": "",
           "link": "https://www.youtube.com/watch?v=HHLyPJHsObE",
           "publishedOn": "2021-08-21T01:03:17.000Z",
-          "wordCount": null,
-          "title": "【マリオカート】フォーマン模擬"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=HcuOFOmnEbs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=HcuOFOmnEbs",
-          "publishedOn": "2021-08-20T01:57:16.000Z",
-          "wordCount": null,
-          "title": "【マリオカート】トリプルス模擬"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Aa4qNXC2nz0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Aa4qNXC2nz0",
-          "publishedOn": "2021-08-19T01:06:47.000Z",
           "wordCount": null,
           "title": "【マリオカート】フォーマン模擬"
         }
